@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:starring rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+ns1:writer rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/resource/Fired_Wife> ns1:basedOn <http://dbpedia.org/resource/Hagar_Wilde> ;
+    ns1:cinematography <http://dbpedia.org/resource/Paul_Ivano> ;
+    ns1:director <http://dbpedia.org/resource/Charles_Lamont> .
+

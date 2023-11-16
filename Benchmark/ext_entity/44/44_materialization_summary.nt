@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:director rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+ns1:starring rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> ns1:director <http://dbpedia.org/resource/Alfred_Santell> ;
+    ns1:distributor <http://dbpedia.org/resource/Paramount_Pictures> ;
+    ns1:starring <http://dbpedia.org/resource/Susan_Hayward> .
+

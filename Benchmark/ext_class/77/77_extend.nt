@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/Athlete>
+
+<http://dbpedia.org/resource/Basil_Spalding_de_Garmendia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Abdellah_Ezbiri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Eyemen_Henaini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Anthony_Braizat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Fabien_Dao_Castellana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Basil_Spalding_de_Garmendia> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Abdellah_Ezbiri> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Eyemen_Henaini> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Anthony_Braizat> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Fabien_Dao_Castellana> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

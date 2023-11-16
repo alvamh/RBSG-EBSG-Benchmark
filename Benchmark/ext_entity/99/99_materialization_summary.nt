@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:genre rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy> .
+
+ns1:recordLabel rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> ns1:recordLabel <http://dbpedia.org/resource/Capitol_Records>,
+        <http://dbpedia.org/resource/EMI> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg?width=300> .
+

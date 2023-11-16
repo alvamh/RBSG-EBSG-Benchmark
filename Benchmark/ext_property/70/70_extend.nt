@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/isPartOfMilitaryConflict>
+
+<http://dbpedia.org/resource/Battle_of_Kham_Duc> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Battle_of_Xa_Cam_My> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Battle_of_Gang_Toi> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War>.
+<http://dbpedia.org/resource/Battle_of_Song_Be> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Starlite> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1965_in_Vietnam> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .

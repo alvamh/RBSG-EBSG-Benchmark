@@ -1,0 +1,14 @@
+#extend signature with <http://dbpedia.org/resource/Alfred_Santell>
+
+<http://dbpedia.org/resource/Alfred_Santell> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> .
+<http://dbpedia.org/resource/Alfred_Santell> <http://dbpedia.org/ontology/birthDate> "1895-09-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Santell> <http://dbpedia.org/ontology/deathDate> "1981-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Santell> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_film_directors> .
+<http://dbpedia.org/resource/The_Arkansas_Traveler_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Alfred_Santell> .
+
+#original summary 5_3
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Our Leading Citizen (1939 film)"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charles_Bickford> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Alfred_Santell> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .

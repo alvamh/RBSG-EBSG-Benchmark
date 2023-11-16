@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/combatant>
+
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
+<http://dbpedia.org/resource/Raid_on_Batavia_(1806)> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
+<http://dbpedia.org/resource/Raid_on_Batavia_(1806)> <http://dbpedia.org/ontology/combatant> "United Kingdom" .
+<http://dbpedia.org/resource/Action_of_18_October_1806> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
+<http://dbpedia.org/resource/Action_of_18_October_1806> <http://dbpedia.org/ontology/combatant> "United Kingdom" .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "United Kingdom" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Napoleonic_Wars> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/result> "British victory" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth> .

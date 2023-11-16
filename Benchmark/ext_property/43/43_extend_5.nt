@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/starring>
+
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Deborah_Van_Valkenburgh> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Joseph_Bottoms> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Dennis_Hopper> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Seymour_Cassel> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Harry_Hamlin> .

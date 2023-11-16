@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:publisher rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> ns1:academicDiscipline <http://dbpedia.org/resource/Intensive_care_medicine> ;
+    ns1:frequencyOfPublication "Monthly" ;
+    ns1:oclc "884609077" ;
+    ns1:publisher <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+

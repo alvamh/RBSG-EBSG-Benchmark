@@ -1,0 +1,12 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:followingEvent rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#precedes> .
+
+ns1:team rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSettingFor> .
+
+<http://dbpedia.org/resource/2009_Copa_del_Rey_Final> ns1:previousEvent <http://dbpedia.org/resource/2008_Copa_del_Rey_Final> .
+
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> ns1:team <http://dbpedia.org/resource/Getafe_CF>,
+        <http://dbpedia.org/resource/Valencia_CF> .
+

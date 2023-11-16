@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/MilitaryConflict>
+
+<http://dbpedia.org/resource/Convoy_HX_106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX-47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+
+#original summary 5_0 (with one triple changed)
+
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxGermany" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxUnited Kingdom" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Admiral> .

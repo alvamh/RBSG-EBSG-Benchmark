@@ -1,0 +1,12 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:genre rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy> .
+
+ns1:previousWork rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+ns1:subsequentWork rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+<http://dbpedia.org/resource/Rebel_Love_Song> ns1:genre <http://dbpedia.org/resource/Glam_metal>,
+        <http://dbpedia.org/resource/Hard_rock> .
+

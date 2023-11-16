@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:isPartOf rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf> .
+
+<http://dbpedia.org/resource/Kuleh_Bayan> ns1:isPartOf <http://dbpedia.org/resource/Central_District_(Dehgolan_County)>,
+        <http://dbpedia.org/resource/Dehgolan_County>,
+        <http://dbpedia.org/resource/Kurdestan_Province>,
+        <http://dbpedia.org/resource/Quri_Chay_Rural_District> .
+

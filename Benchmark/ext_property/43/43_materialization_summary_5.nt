@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:starring rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> ns1:starring <http://dbpedia.org/resource/Deborah_Van_Valkenburgh>,
+        <http://dbpedia.org/resource/Dennis_Hopper>,
+        <http://dbpedia.org/resource/Richard_Cox_(actor)>,
+        <http://dbpedia.org/resource/Seymour_Cassel> .
+

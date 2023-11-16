@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:commander rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+ns1:place rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation> .
+
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> ns1:commander <http://dbpedia.org/resource/Luís_Medina_Barrón>,
+        <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+

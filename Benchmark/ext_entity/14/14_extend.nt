@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Magdaléna_Rybáriková>
+
+<http://dbpedia.org/resource/Magdaléna_Rybáriková> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TennisPlayer> .
+<http://dbpedia.org/resource/Magdaléna_Rybáriková> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Slovakia> .
+<http://dbpedia.org/resource/Magdaléna_Rybáriková> <http://dbpedia.org/ontology/birthDate>  "1988-10-04"^^<http://www.w3.org/2001/XMLSchema#date>.
+<http://dbpedia.org/resource/Magdaléna_Rybáriková> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Slovak_female_tennis_players> .
+<http://dbpedia.org/resource/2011_Regions_Morgan_Keegan_Championships_and_the_Cellular_South_Cup> <http://dbpedia.org/ontology/championInSingleFemale> <http://dbpedia.org/resource/Magdaléna_Rybáriková> .
+
+#original summary 5_2
+
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/championInDoubleMale> <http://dbpedia.org/resource/Michaëlla_Krajicek> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/championInDoubleMale> <http://dbpedia.org/resource/Petra_Cetkovská> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/championInSingleMale> <http://dbpedia.org/resource/Magdaléna_Rybáriková> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Prague> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TennisTournament> .

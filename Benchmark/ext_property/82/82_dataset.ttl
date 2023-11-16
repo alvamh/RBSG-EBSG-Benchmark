@@ -1,0 +1,375 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/Balanites_aegyptiaca> a <http://dbpedia.org/class/yago/EdiblePlants>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Plant100017222>,
+        <http://dbpedia.org/class/yago/Tree113104059>,
+        <http://dbpedia.org/class/yago/TreesOfAfrica>,
+        <http://dbpedia.org/class/yago/TreesOfAngola>,
+        <http://dbpedia.org/class/yago/TreesOfEthiopia>,
+        <http://dbpedia.org/class/yago/VascularPlant113083586>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/WoodyPlant113103136>,
+        ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Balanites aegyptiaca"@en ;
+    ns1:binomialAuthority <http://dbpedia.org/resource/Carl_Linnaeus> ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Balanites> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:synonym "Ximenia aegyptiaca (L.)" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_aegyptiaca_0730.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Balanites>,
+        <http://dbpedia.org/resource/Category:Edible_plants>,
+        <http://dbpedia.org/resource/Category:Energy_crops>,
+        <http://dbpedia.org/resource/Category:Flora_of_Algeria>,
+        <http://dbpedia.org/resource/Category:Flora_of_East_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_East_Tropical_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_Egypt>,
+        <http://dbpedia.org/resource/Category:Flora_of_Libya>,
+        <http://dbpedia.org/resource/Category:Flora_of_Morocco>,
+        <http://dbpedia.org/resource/Category:Flora_of_Mozambique>,
+        <http://dbpedia.org/resource/Category:Flora_of_North_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_Northeast_Tropical_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_Rwanda>,
+        <http://dbpedia.org/resource/Category:Flora_of_West_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_West_Tropical_Africa>,
+        <http://dbpedia.org/resource/Category:Flora_of_Western_Sahara>,
+        <http://dbpedia.org/resource/Category:Flora_of_Zimbabwe>,
+        <http://dbpedia.org/resource/Category:Flora_of_the_Sahara>,
+        <http://dbpedia.org/resource/Category:Fruits_originating_in_Africa>,
+        <http://dbpedia.org/resource/Category:Plants_used_in_traditional_African_medicine>,
+        <http://dbpedia.org/resource/Category:Trees_of_Africa>,
+        <http://dbpedia.org/resource/Category:Trees_of_Angola>,
+        <http://dbpedia.org/resource/Category:Trees_of_Botswana>,
+        <http://dbpedia.org/resource/Category:Trees_of_Ethiopia>,
+        <http://dbpedia.org/resource/Category:Trees_of_the_Arabian_Peninsula> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_aegyptiaca_0730.jpg> ;
+    foaf:name "Balanites aegyptiaca"@en .
+
+<http://dbpedia.org/resource/Balanites_maughamii> a ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Balanites maughamii"@en ;
+    ns1:binomialAuthority <http://dbpedia.org/resource/Thomas_Archibald_Sprague> ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Balanites> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_maughamii00.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Balanites>,
+        <http://dbpedia.org/resource/Category:Protected_Trees_of_South_Africa> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_maughamii00.jpg> ;
+    foaf:name "Torchwood"@en .
+
+<http://dbpedia.org/resource/Balanites_roxburghii> a <http://dbpedia.org/class/yago/Drought-tolerantTrees>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MedicinalPlants>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Plant100017222>,
+        <http://dbpedia.org/class/yago/Tree113104059>,
+        <http://dbpedia.org/class/yago/TreesOfIndia>,
+        <http://dbpedia.org/class/yago/VascularPlant113083586>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/WoodyPlant113103136>,
+        ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Balanites roxburghii"@en ;
+    ns1:binomialAuthority <http://dbpedia.org/resource/Jules_Émile_Planchon> ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Balanites> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_roxburghii.JPG?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Balanites>,
+        <http://dbpedia.org/resource/Category:Drought-tolerant_trees>,
+        <http://dbpedia.org/resource/Category:Flora_and_fauna_of_Rajasthan>,
+        <http://dbpedia.org/resource/Category:Flora_of_Pakistan>,
+        <http://dbpedia.org/resource/Category:Medicinal_plants_of_Asia>,
+        <http://dbpedia.org/resource/Category:Trees_of_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Balanites_roxburghii.JPG> .
+
+<http://dbpedia.org/resource/Balanos_oil> dcterms:subject <http://dbpedia.org/resource/Category:Balanites> .
+
+<http://dbpedia.org/resource/Bulnesia_arborea> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Bulnesia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Bulnesia_carrapo> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Bulnesia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Bulnesia_sarmientoi> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Bulnesia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Fagonia_cretica> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Fagonia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Fagonia_laevis> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Fagonia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Fagonia_pachyacantha> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Fagonia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Guaiacum_angustifolium> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Guaiacum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Guaiacum_coulteri> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Guaiacum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Guaiacum_officinale> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Guaiacum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Guaiacum_sanctum> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Guaiacum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Kallstroemia_californica> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Kallstroemia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Kallstroemia_grandiflora> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Kallstroemia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Krameria_bicolor> ns1:genus <http://dbpedia.org/resource/Krameria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Krameria_cistoidea> ns1:genus <http://dbpedia.org/resource/Krameria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Krameria_erecta> ns1:genus <http://dbpedia.org/resource/Krameria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Krameria_ixine> ns1:genus <http://dbpedia.org/resource/Krameria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Krameria_lappacea> ns1:genus <http://dbpedia.org/resource/Krameria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Larrea_divaricata> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Larrea> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Larrea_tridentata> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Larrea> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Larreoideae> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Neoluederitzia_sericocarpa> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Neoluederitzia> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Porlieria_chilensis> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Porlieria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Porlieria_hygrometra> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Porlieria> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Tribulus_(gastropod)> ns1:genus <http://dbpedia.org/resource/Tribulus> .
+
+<http://dbpedia.org/resource/Tribulus_cistoides> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Tribulus> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Tribulus_terrestris> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Tribulus> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum_billardierei> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Zygophyllum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum_fabago> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Zygophyllum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum_giessii> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Zygophyllum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum_qatarense> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Zygophyllum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum_simile> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:genus <http://dbpedia.org/resource/Zygophyllum> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Zarga_mountains_(11).jpg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg?width=300> .
+
+<http://dbpedia.org/resource/Neoluederitzia> ns1:family <http://dbpedia.org/resource/Tribuloideae>,
+        <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Zarga_mountains_(11).jpg> .
+
+<http://dbpedia.org/resource/Kallstroemia> ns1:family <http://dbpedia.org/resource/Tribuloideae>,
+        <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Larrea> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Porlieria> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Balanites> a ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Balanites"@en ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Tribuloideae>,
+        <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Balanites> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg> ;
+    foaf:name "Balanites"@en .
+
+<http://dbpedia.org/resource/Bulnesia> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Fagonia> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Tribulus> ns1:family <http://dbpedia.org/resource/Tribuloideae>,
+        <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Guaiacum> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Tribuloideae> a ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Tribuloideae"@en ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Kallstroemia-grandiflora-20071001.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Plant_subfamilies>,
+        <http://dbpedia.org/resource/Category:Tribuloideae> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Kallstroemia-grandiflora-20071001.jpg> ;
+    foaf:name "Tribuloideae"@en .
+
+<http://dbpedia.org/resource/Krameria> ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllum> ns1:family <http://dbpedia.org/resource/Zygophyllaceae> ;
+    ns1:order <http://dbpedia.org/resource/Zygophyllales> .
+
+<http://dbpedia.org/resource/Zygophyllaceae> a <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Family108078020>,
+        <http://dbpedia.org/class/yago/Group100031264>,
+        <http://dbpedia.org/class/yago/Organization108008335>,
+        <http://dbpedia.org/class/yago/RosidFamilies>,
+        <http://dbpedia.org/class/yago/SocialGroup107950920>,
+        <http://dbpedia.org/class/yago/Unit108189659>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Zygophyllaceae"@en ;
+    ns1:class <http://dbpedia.org/resource/Eudicots> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids>,
+        <http://dbpedia.org/resource/Zygophyllales> ;
+    ns1:synonym "Balanitaceae (Endl.(1841)",
+        "Krameriaceae  (Dumort.(1829) (optional synonym)",
+        "Tribulaceae  (Trautv.(1853)" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Larrea_tridentata_1.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Rosid_families>,
+        <http://dbpedia.org/resource/Category:Zygophyllaceae> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Larrea_tridentata_1.jpg> ;
+    foaf:name "Zygophyllaceae"@en .
+
+<http://dbpedia.org/resource/Zygophyllales> a <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Act100030358>,
+        <http://dbpedia.org/class/yago/AngiospermOrders>,
+        <http://dbpedia.org/class/yago/Command107168131>,
+        <http://dbpedia.org/class/yago/Event100029378>,
+        <http://dbpedia.org/class/yago/Order107168623>,
+        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
+        <http://dbpedia.org/class/yago/SpeechAct107160883>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Zygophyllales"@en ;
+    ns1:class <http://dbpedia.org/resource/Eudicots>,
+        <http://dbpedia.org/resource/Rosids> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Rosids> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Guaiacum_officinale_-_Köhler–s_Medizinal-Pflanzen-069.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Angiosperm_orders>,
+        <http://dbpedia.org/resource/Category:Zygophyllales> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Guaiacum_officinale_-_Köhler–s_Medizinal-Pflanzen-069.jpg> ;
+    foaf:name "Zygophyllales"@en .
+

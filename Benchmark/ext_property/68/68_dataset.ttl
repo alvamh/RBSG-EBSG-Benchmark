@@ -1,0 +1,926 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/9_de_Julio_de_Rafaela> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Acebal,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Agustin_Adorni> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Alcorta> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Aldao,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Alejandro_Bulgheroni> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Alexander_Bell_(cricketer)> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Alfredo_Belusi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Alfredo_Berti> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Anibal_Pachano> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Antonio_Berni> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Arequito,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Arequito_Revolt> dcterms:subject <http://dbpedia.org/resource/Category:1820_in_Argentina>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Ariel_(DJ)> ns1:hometown <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Armstrong,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Arroyo_Seco,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Atlético_de_Rafaela> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Augusto_Solari> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Battle_of_Agüi> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Battle_of_Angaco> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Caaguazú> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Caseros> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Cerrito> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Battle_of_El_Toro> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Battle_of_Famaillá> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_La_Ciudadela> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Laguna_Limpia> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Mhlatuze_River> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Battle_of_Márquez_Bridge> ns1:commander <http://dbpedia.org/resource/Estanislao_López> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Pavón> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Quebracho_Herrado> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Rincón_de_Valladares> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Rodeo_de_Chacón> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Rodeo_del_Medio> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_San_Cala> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_San_Roque> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Sipe-Sipe> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Battle_of_Tacuarembó> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Battle_of_Tarpellanca> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Belgrano_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Bernardo_de_Irigoyen,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Bolivian_War_of_Independence> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Bolívar's_campaign_to_liberate_New_Granada> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Bouquet,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Brenda_González> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Bruno_Óscar_Casanova> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Buenos_Aires_Central_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> ;
+    ns1:routeEnd <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Buenos_Aires–Rosario–Córdoba_high-speed_railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Bulldog_(band)> ns1:hometown <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Cafferatta,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Capitán_Bermúdez> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Capture_of_Valdivia> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Carcarañá> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Carlos_López_Puccio> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Carlos_Monzón> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Carolina_Costagrande> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Caseros_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Casilda> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Castellanos_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Cayetano_Alberto_Silva> ns1:deathPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Cañada_Rosquín> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Cañada_de_Gómez> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ceres,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Chevrolet_Agile> ns1:assembly <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Chevrolet_Chevette__Chevrolet_Chevette__1> ns1:assembly <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Chris_de_Burgh> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Cisplatina> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/Claudio_Bieler> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Clemar_Bucci> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Club_Deportivo_Libertad> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Constitución_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Coronda> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Coronel_Arnold,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Croats_in_Argentina> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/César_Pereyra> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/César_Taborda> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Daniel_Gustavo_Ruiz> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Daniel_Peralta> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Decembrist_revolution_(Argentina)> ns1:commander <http://dbpedia.org/resource/Estanislao_López> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Ecuadorian_War_of_Independence> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Edgardo_Andrada> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Edgardo_Bauza> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Eduardo_Magnin> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/El_Trébol> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Emanuel_Villa> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Emilio_Rached> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Empalme_Villa_Constitución> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Enrique_Triverio> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Esperanza,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Estadio_Mundialista_de_Hockey> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Fabián_Bonhoff> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Feliciano_Canaveris> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Ferrocarril_de_San_Cristóbal_a_Tucumán> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ferrocentral> ns1:regionServed <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Firmat> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Flag_of_Artigas> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/Francisco_Javier_de_Viana> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Francisco_Seeber> ns1:battle <http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> .
+
+<http://dbpedia.org/resource/Fray_Luis_Beltrán> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Fuentes,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Funes,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Gaboto> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Gabriel_Batistuta> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Gabriel_Horacio_González> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Garay_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/General_Bartolomé_Mitre_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/General_López_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/General_Obligado_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/General_San_Martín_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/German_Argentine> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Germán_Chiaraviglio> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Gonzalo_Mazzia> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Granadero_Baigorria> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Guido_Falaschi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Guillermo_Matías_Fernández> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Gálvez,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Harold_Miles> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Hermes_Binner> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Hernán_Díaz> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/History_of_the_Jews_in_Argentina> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Hugo_Sconochini> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Hugo_Zarich> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Héctor_Borla> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Héctor_Cúper> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ibarlucea> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ignacio_Scocco> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Inés_Palombo> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Iriondo_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Irish_Argentine> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Islas_de_Santa_Fé_National_Park> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/James_Haim_I._Bicher> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Javier_Bulfoni> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Javier_Gandolfi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Joel_Sacks> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Jonas_Coe> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Jorge_Drovandi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Jorge_Griffa> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Jorge_Luis_Gabrich> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/José_Manuel_Corral> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/José_María_Pinedo> ns1:knownFor <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/José_Octavio_Bordón> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/José_Pacini> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/José_Santos_Ramírez> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Juan_Alberto_Montes> ns1:deathPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Baglietto> ns1:hometown <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Lescano> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Domingo_Rocchia> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Ignacio_Cerra> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_José_Saer> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Martin_Coggi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Martín_de_Pueyrredón> ns1:successor <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Juan_Pereyra> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Juan_Ramón_Balcarce> ns1:predecessor <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Julio_César_Vásquez> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Julio_Zapata> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/LIFSE> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/La_Capital_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Las_Colonias_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Las_Parejas,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Las_Rosas,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Laura_del_Colle> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Leandro_Desábato> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Leonardo_Madelón> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/León_Gieco> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Liga_Federal> rdfs:seeAlso <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Livio_Dante_Porta> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Lola_Ponce> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Los_Quirquinchos> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Lucas_Albertengo> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Luciano_Vella> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Luis_Ojeda> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Luis_Palacios,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Luis_Pescetti> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Manuel_Carizza> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Marcelo_Nicola> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Marcos_Maidana> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Martiniano_Chilavert> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/María_Eugenia_Bielsa> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/María_Rosa_Díaz> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Matías_Donnet> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Mauricio_Verón> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Melincué> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Melincué_Lake> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Monchi_Balestra> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Montoneras> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Murphy,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Nery_Pumpido> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Nueve_de_Julio_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Olimpia_Basketball_Club> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Omar_Graffigna> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Oscar_Cabalén> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Oscar_Ruggeri> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Pavón,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Piñero_(Santa_Fe)> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Platine_War> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Polish_Argentine> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Portuguese_conquest_of_the_Banda_Oriental> dcterms:subject <http://dbpedia.org/resource/Category:1820_in_Argentina>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Portuguese_invasion_of_the_Banda_Oriental_(1811–12)> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Province_of_Santa_Fe_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Puerto_General_San_Martín> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Pérez,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rafaela> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rafaela_Aerodrome> ns1:city <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ramiro_Fassi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Raúl_Damiani> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Raúl_Uranga_–_Carlos_Sylvestre_Begnis_Subfluvial_Tunnel> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Real_Arroyo_Seco> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Reconquista,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Reconquista_Airport> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ricardo_Lunari> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Romina_Lanaro> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Romina_Maggi> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosa_Tarlovsky_de_Roisinblit> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario-Victoria_Bridge> ns1:locatedInArea <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario_Tramway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario_and_Puerto_Belgrano_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rosario_–_Islas_Malvinas_International_Airport> ns1:city <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rubén_Ayala> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Rufino,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/SanCor> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Carlos_Centro> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Cristóbal,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Cristóbal_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Javier,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Javier_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Jerónimo_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Justo,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Justo_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Lorenzo,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Lorenzo_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/San_Martín_Department,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Santa_Fe_Western_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Santa_Rosa_de_Calchines> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Santiago_Morero> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Santo_Tomé,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Santurce,_Argentina> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sastre,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sauce_Viejo,_Argentina> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sebastian_Spreng> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sebastián_Andrés_Luján> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sebastián_Cuattrin> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Second_Banda_Oriental_campaign> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Serodino> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Siege_of_Montevideo_(1812–14)> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Silvia_Legrand> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Silvina_Luna> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Soldini,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sportivo_Las_Parejas> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Sunchales,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Suzuki_Escudo> ns1:assembly <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Swiss_Argentine> ns1:populationPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Teodelina> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Theobald,_Argentina> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Timbúes,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Timeline_of_the_Argentine_Civil_Wars> ns1:commander <http://dbpedia.org/resource/Francisco_Ramírez_(governor)> .
+
+<http://dbpedia.org/resource/Timeline_of_the_Argentine_War_of_Independence> ns1:commander <http://dbpedia.org/resource/José_Rondeau> .
+
+<http://dbpedia.org/resource/Tostado,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Treaty_of_Pilar> dcterms:subject <http://dbpedia.org/resource/Category:1820_in_Argentina> .
+
+<http://dbpedia.org/resource/Tucumán_Ferrocarriles> ns1:regionServed <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Unión_de_Sunchales> ns1:ground <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Uranga,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Valeria_Mazza> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Venado_Tuerto> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Vera,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Vera_Department> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Victor_Hugo_Castro> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Villa_Amelia,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Villa_Cañás> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Villa_Constitución> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Villa_Gobernador_Gálvez> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Villa_María_and_Rufino_Railway> ns1:location <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Vilma_Ripoll> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Víctor_Trossero> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Walter_Herrmann> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/William_Brown_(admiral)> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Yorkshire_West_Riding_Revolt_of_1820> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+
+<http://dbpedia.org/resource/Zavalla,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Álvarez,_Santa_Fe> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Ángel_José_Macín> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Antonio_Bonfatti> ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://dbpedia.org/resource/Argentine_Confederation> rdfs:seeAlso <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> a ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Battle of Cepeda (1820)"@en ;
+    ns1:combatant "24pxFederals",
+        "24pxUnitarians" ;
+    ns1:commander <http://dbpedia.org/resource/Estanislao_López>,
+        <http://dbpedia.org/resource/Francisco_Ramírez_(governor)>,
+        <http://dbpedia.org/resource/José_Rondeau> ;
+    ns1:date "1820-02-01"^^xsd:date ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Argentine_Civil_Wars> ;
+    ns1:place <http://dbpedia.org/resource/Santa_Fe_Province> ;
+    ns1:result "Federalistvictory" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1820_in_Argentina>,
+        <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_1820> ;
+    owl:differentFrom <http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> ;
+    foaf:name "Battle of Cepeda"@en .
+
+<http://dbpedia.org/resource/Federales_(Argentina)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/José_Gervasio_Artigas> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Juan_Lavalle> ns1:battle <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Juan_Manuel_de_Rosas> rdfs:seeAlso <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> a owl:Thing ;
+    rdfs:label "Battle of Cepeda (1859)"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_1859> ;
+    owl:differentFrom <http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> .
+
+<http://dbpedia.org/resource/Estanislao_López> a <http://dbpedia.org/class/yago/ArgentinePeopleOfSpanishDescent>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Federales(Argentina)Politicians>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/GovernorsOfSantaFeProvince>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromSantaFeProvince>,
+        <http://dbpedia.org/class/yago/PeopleOfTheArgentineWarOfIndependence>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Governor,
+        ns1:Person,
+        ns1:Politician,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q132050>,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        <http://www.wikidata.org/entity/Q82955>,
+        foaf:Person ;
+    rdfs:label "Estanislao López"@en ;
+    ns1:activeYearsEndDate "1838-06-15"^^xsd:date ;
+    ns1:activeYearsStartDate "1818-07-23"^^xsd:date ;
+    ns1:birthDate "1786-11-26"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Santa_Fe,_Argentina>,
+        <http://dbpedia.org/resource/Viceroyalty_of_the_Río_de_la_Plata> ;
+    ns1:birthYear "1786"^^xsd:gYear ;
+    ns1:deathDate "1838-06-15"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Argentine_Confederation>,
+        <http://dbpedia.org/resource/Santa_Fe,_Argentina> ;
+    ns1:deathYear "1838"^^xsd:gYear ;
+    ns1:nationality <http://dbpedia.org/resource/Argentina> ;
+    ns1:orderInOffice "Governor of Santa Fe" ;
+    ns1:party <http://dbpedia.org/resource/Federales_(Argentina)> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Estanislao_López.JPG?width=300> ;
+    dc:description "Argentine politician and general",
+        "Argentine politician and general"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1786_births>,
+        <http://dbpedia.org/resource/Category:1838_deaths>,
+        <http://dbpedia.org/resource/Category:Argentine_generals>,
+        <http://dbpedia.org/resource/Category:Argentine_people_of_Spanish_descent>,
+        <http://dbpedia.org/resource/Category:Federales_(Argentina)>,
+        <http://dbpedia.org/resource/Category:Governors_of_Santa_Fe_Province>,
+        <http://dbpedia.org/resource/Category:People_from_Santa_Fe,_Argentina>,
+        <http://dbpedia.org/resource/Category:People_of_the_Argentine_War_of_Independence> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Estanislao_López.JPG> ;
+    foaf:givenName "Estanislao"@en ;
+    foaf:name "Estanislao López"@en,
+        "López, Estanislao"@en ;
+    foaf:surname "López"@en .
+
+<http://dbpedia.org/resource/Francisco_Ramírez_(governor)> a ns1:Agent,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Francisco Ramírez (governor)"@en ;
+    ns1:birthDate "1786"^^xsd:gYear ;
+    ns1:birthYear "1786"^^xsd:gYear ;
+    ns1:deathDate "1821"^^xsd:gYear ;
+    ns1:deathYear "1821"^^xsd:gYear ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Pancho_Ramírez.jpg?width=300> ;
+    dc:description "Argentine general and politician",
+        "Argentine general and politician"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1786_births>,
+        <http://dbpedia.org/resource/Category:1821_deaths>,
+        <http://dbpedia.org/resource/Category:Argentine_generals>,
+        <http://dbpedia.org/resource/Category:Argentine_military_personnel_killed_in_the_Argentine_Civil_War>,
+        <http://dbpedia.org/resource/Category:Deaths_by_blade_weapons>,
+        <http://dbpedia.org/resource/Category:Federales_(Argentina)>,
+        <http://dbpedia.org/resource/Category:Governors_of_Entre_Ríos_Province>,
+        <http://dbpedia.org/resource/Category:Heads_of_state_of_former_countries>,
+        <http://dbpedia.org/resource/Category:People_from_Entre_Ríos_Province>,
+        <http://dbpedia.org/resource/Category:People_of_the_Argentine_War_of_Independence> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Pancho_Ramírez.jpg> ;
+    foaf:givenName "Francisco"@en ;
+    foaf:name "Francisco Ramirez"@en,
+        "Ramirez, Francisco"@en ;
+    foaf:surname "Ramirez"@en .
+
+<http://dbpedia.org/resource/Santa_Fe,_Argentina> ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe_Province> ;
+    owl:differentFrom <http://dbpedia.org/resource/Santa_Fe_Province> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Flag_of_Artigas.svg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Flag_of_Artigas.svg> .
+
+<http://dbpedia.org/resource/José_Rondeau> a <http://dbpedia.org/class/yago/Administrator109770949>,
+        <http://dbpedia.org/class/yago/ArgentineGenerals>,
+        <http://dbpedia.org/class/yago/ArgentinePeopleOfFrenchDescent>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239>,
+        <http://dbpedia.org/class/yago/CommissionedOfficer109942970>,
+        <http://dbpedia.org/class/yago/DefenceMinistersOfUruguay>,
+        <http://dbpedia.org/class/yago/Director110014939>,
+        <http://dbpedia.org/class/yago/Executive110069645>,
+        <http://dbpedia.org/class/yago/ForeignMinister110103794>,
+        <http://dbpedia.org/class/yago/ForeignMinistersOfArgentina>,
+        <http://dbpedia.org/class/yago/General110123844>,
+        <http://dbpedia.org/class/yago/GeneralOfficer110125786>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/GovernorsOfBuenosAiresProvince>,
+        <http://dbpedia.org/class/yago/Head110162991>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Minister110320863>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromBuenosAires>,
+        <http://dbpedia.org/class/yago/PeopleOfTheArgentineWarOfIndependence>,
+        <http://dbpedia.org/class/yago/PeopleOfTheSpanishAmericanWarsOfIndependence>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/SupremeDirectorsOfTheUnitedProvincesOfTheR%C3%ADoDeLaPlata>,
+        <http://dbpedia.org/class/yago/UruguayanPoliticians>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Person,
+        ns1:Politician,
+        ns1:President,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q30461>,
+        <http://www.wikidata.org/entity/Q5>,
+        <http://www.wikidata.org/entity/Q82955>,
+        foaf:Person ;
+    rdfs:label "José Rondeau"@en ;
+    ns1:activeYearsEndDate "1820-02-16"^^xsd:date ;
+    ns1:activeYearsStartDate "1819-06-09"^^xsd:date ;
+    ns1:birthDate "1773-03-04"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Buenos_Aires>,
+        <http://dbpedia.org/resource/Viceroyalty_of_Peru> ;
+    ns1:birthYear "1773"^^xsd:gYear ;
+    ns1:deathDate "1844-11-18"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Montevideo>,
+        <http://dbpedia.org/resource/Uruguay> ;
+    ns1:deathYear "1844"^^xsd:gYear ;
+    ns1:orderInOffice "Supreme Director of the United Provinces of the Río de la Plata" ;
+    ns1:party <http://dbpedia.org/resource/Unitarian_Party> ;
+    ns1:religion <http://dbpedia.org/resource/Catholic_Church> ;
+    ns1:successor <http://dbpedia.org/resource/Bernardino_Rivadavia> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Jose_Rondeau_2.jpg?width=300> ;
+    dc:description "Argentine politician and general",
+        "Argentine politician and general"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1773_births>,
+        <http://dbpedia.org/resource/Category:1844_deaths>,
+        <http://dbpedia.org/resource/Category:Argentine_generals>,
+        <http://dbpedia.org/resource/Category:Argentine_military_personnel_killed_in_action>,
+        <http://dbpedia.org/resource/Category:Argentine_people_of_French_descent>,
+        <http://dbpedia.org/resource/Category:Defence_ministers_of_Uruguay>,
+        <http://dbpedia.org/resource/Category:Foreign_ministers_of_Argentina>,
+        <http://dbpedia.org/resource/Category:Governors_of_Buenos_Aires_Province>,
+        <http://dbpedia.org/resource/Category:People_from_Buenos_Aires>,
+        <http://dbpedia.org/resource/Category:People_of_the_Argentine_War_of_Independence>,
+        <http://dbpedia.org/resource/Category:People_of_the_Spanish_American_wars_of_independence>,
+        <http://dbpedia.org/resource/Category:Supreme_Directors_of_the_United_Provinces_of_the_Río_de_la_Plata>,
+        <http://dbpedia.org/resource/Category:Uruguayan_politicians> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Jose_Rondeau_2.jpg> ;
+    foaf:givenName "Jose Casimiro"@en ;
+    foaf:name "Jose Casimiro Rondeau Pereyra"@en,
+        "Rondeau Pereyra, Jose Casimiro"@en ;
+    foaf:surname "Rondeau Pereyra"@en .
+
+<http://dbpedia.org/resource/Argentine_Civil_Wars> a <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Act100030358>,
+        <http://dbpedia.org/class/yago/CivilWar100962567>,
+        <http://dbpedia.org/class/yago/CivilWarsInvolvingTheStatesAndPeoplesOfSouthAmerica>,
+        <http://dbpedia.org/class/yago/CivilWarsOfTheIndustrialEra>,
+        <http://dbpedia.org/class/yago/Event100029378>,
+        <http://dbpedia.org/class/yago/GroupAction101080366>,
+        <http://dbpedia.org/class/yago/MilitaryAction100952963>,
+        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
+        <http://dbpedia.org/class/yago/Succession-basedCivilWars>,
+        <http://dbpedia.org/class/yago/War100973077>,
+        <http://dbpedia.org/class/yago/WarsInvolvingArgentina>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Argentine Civil Wars"@en ;
+    ns1:combatant "22pxFederales",
+        "23pxColorados",
+        "23pxUnitarios",
+        "border|22pxBlancos" ;
+    ns1:commander <http://dbpedia.org/resource/Bartolomé_Mitre>,
+        <http://dbpedia.org/resource/Bernardino_Rivadavia>,
+        <http://dbpedia.org/resource/Domingo_Faustino_Sarmiento>,
+        <http://dbpedia.org/resource/Facundo_Quiroga>,
+        <http://dbpedia.org/resource/Francisco_Ramírez_(governor)>,
+        <http://dbpedia.org/resource/Fructuoso_Rivera>,
+        <http://dbpedia.org/resource/José_Gervasio_Artigas>,
+        <http://dbpedia.org/resource/José_María_Paz>,
+        <http://dbpedia.org/resource/Juan_Lavalle>,
+        <http://dbpedia.org/resource/Juan_Manuel_de_Rosas>,
+        <http://dbpedia.org/resource/Justo_José_de_Urquiza>,
+        <http://dbpedia.org/resource/Manuel_Dorrego>,
+        <http://dbpedia.org/resource/Manuel_Oribe>,
+        <http://dbpedia.org/resource/Ángel_Vicente_Peñaloza> ;
+    ns1:place <http://dbpedia.org/resource/Argentina>,
+        <http://dbpedia.org/resource/Uruguay> ;
+    ns1:result "Federalization of Buenos Aires",
+        "Sanction of afederalConstitution" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Guerra_Civil.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Argentine_Civil_War>,
+        <http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_South_America>,
+        <http://dbpedia.org/resource/Category:Civil_wars_of_the_Industrial_era>,
+        <http://dbpedia.org/resource/Category:Succession-based_civil_wars>,
+        <http://dbpedia.org/resource/Category:Wars_involving_Argentina> ;
+    owl:differentFrom <http://dbpedia.org/resource/Dirty_War> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Guerra_Civil.jpg> ;
+    foaf:name "Argentine Civil Wars"@en .
+
+<http://dbpedia.org/resource/Santa_Fe_Province> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/Country108544813>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/ProvincesOfArgentina>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/State108654360>,
+        <http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1816>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Santa Fe Province"@en ;
+    ns1:areaTotal 1.33007e+11 ;
+    ns1:country <http://dbpedia.org/resource/Argentina> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Santa_Fe,_Argentina> ;
+    ns1:isoCodeRegion "AR-S" ;
+    ns1:leaderName <http://dbpedia.org/resource/Antonio_Bonfatti>,
+        <http://dbpedia.org/resource/Carlos_Reutemann>,
+        <http://dbpedia.org/resource/List_of_current_Argentine_deputies>,
+        <http://dbpedia.org/resource/Roxana_Latorre>,
+        <http://dbpedia.org/resource/Rubén_Giustiniani> ;
+    ns1:leaderParty <http://dbpedia.org/resource/Progressive,_Civic_and_Social_Front> ;
+    ns1:leaderTitle "Governor"@en,
+        "Legislature"@en,
+        "National Deputies"@en,
+        "National Senators"@en ;
+    ns1:populationTotal "3194537"^^xsd:nonNegativeInteger ;
+    ns1:populationTotalRanking "3"^^xsd:positiveInteger ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Bandera-StaFe-argentina.svg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Time_in_Argentina> ;
+    ns1:type <http://dbpedia.org/resource/Provinces_of_Argentina> ;
+    ns1:utcOffset "−3" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Provinces_of_Argentina>,
+        <http://dbpedia.org/resource/Category:Santa_Fe_Province>,
+        <http://dbpedia.org/resource/Category:States_and_territories_established_in_1816> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Bandera-StaFe-argentina.svg> ;
+    foaf:homepage <http://www.santa-fe.gov.ar> ;
+    foaf:name "Santa Fe"@en .
+

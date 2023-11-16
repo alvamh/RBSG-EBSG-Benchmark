@@ -1,0 +1,3050 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns3: <http://www.georss.org/georss/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:areaCode a rdf:Property .
+
+ns1:areaTotal a rdf:Property .
+
+ns1:birthPlace a rdf:Property .
+
+ns1:campus a rdf:Property .
+
+ns1:capital a rdf:Property .
+
+ns1:city a rdf:Property .
+
+ns1:country a rdf:Property .
+
+ns1:deathPlace a rdf:Property .
+
+ns1:elevation a rdf:Property .
+
+ns1:isPartOf a rdf:Property .
+
+ns1:leaderTitle a rdf:Property .
+
+ns1:location a rdf:Property .
+
+ns1:place a rdf:Property .
+
+ns1:populationDensity a rdf:Property .
+
+ns1:populationTotal a rdf:Property .
+
+ns1:postalCode a rdf:Property .
+
+ns1:region a rdf:Property .
+
+ns1:residence a rdf:Property .
+
+ns1:restingPlace a rdf:Property .
+
+ns1:routeJunction a rdf:Property .
+
+ns1:synonym a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+ns1:timeZone a rdf:Property .
+
+ns1:type a rdf:Property .
+
+ns1:utcOffset a rdf:Property .
+
+<http://dbpedia.org/resource/Abbihal,_Basavana_Bagevadi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Abbihal, Basavana Bagevadi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Abbihal"@en .
+
+<http://dbpedia.org/resource/Abbihal,_Muddebihal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Abbihal, Muddebihal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Abbihal"@en .
+
+<http://dbpedia.org/resource/Adil_Shahi_dynasty> ns1:capital <http://dbpedia.org/resource/Bijapur_district,_Karnataka> .
+
+<http://dbpedia.org/resource/Advi_Hulagabal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Advi Hulagabal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Advi Hulagabal"@en .
+
+<http://dbpedia.org/resource/Advi_Somnal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Advi Somnal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Advi Somnal"@en .
+
+<http://dbpedia.org/resource/Agarkhed> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Agarkhed"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5667"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Agarkhed"@en .
+
+<http://dbpedia.org/resource/Agasabal,_Basavana_Bagevadi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Agasabal, Basavana Bagevadi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Agasabal"@en .
+
+<http://dbpedia.org/resource/Agasabal,_Muddebihal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Agasabal, Muddebihal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Agasabal"@en .
+
+<http://dbpedia.org/resource/Agasanal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Agasanal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Karnataka_-_Bijapur.PNG> ;
+    foaf:name "Agasanal"@en .
+
+<http://dbpedia.org/resource/Aheri,_Karnataka> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Aheri, Karnataka"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png> ;
+    foaf:name "Aheri"@en .
+
+<http://dbpedia.org/resource/Ahirasang> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ahirasang"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png> ;
+    foaf:name "Ahirasang"@en .
+
+<http://dbpedia.org/resource/Ainapur,_Bijapur> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ainapur, Bijapur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png> ;
+    foaf:name "Ainapur"@en .
+
+<http://dbpedia.org/resource/Akalwadi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Akalwadi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png> ;
+    foaf:name "Akalwadi"@en .
+
+<http://dbpedia.org/resource/Al-Ameen_Medical_College> ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Ali_Adil_Shah_I> ns1:deathPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Almel> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Almel"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "14485"^^xsd:nonNegativeInteger ;
+    ns1:synonym "Yelmeli" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Alamela"@en,
+        "Almel"@en .
+
+<http://dbpedia.org/resource/Amirbai_Karnataki> ns1:birthPlace <http://dbpedia.org/resource/Bijapur_district,_Karnataka> .
+
+<http://dbpedia.org/resource/Anjutagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Anjutagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6659"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Anjutagi"@en .
+
+<http://dbpedia.org/resource/Arakeri> a <http://dbpedia.org/class/yago/VillagesInBijapurDistrict> .
+
+<http://dbpedia.org/resource/Arakeri,_Bijapur> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Arakeri, Bijapur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "8184"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.918055555555554 75.695" ;
+    ns2:lat "16.918056"^^xsd:float ;
+    ns2:long "75.695"^^xsd:float ;
+    foaf:name "Arakeri"@en .
+
+<http://dbpedia.org/resource/Araladinni> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Araladinni"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "10363"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Araladinni"@en .
+
+<http://dbpedia.org/resource/Arati_Ankalikar-Tikekar> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Arekeri> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Atharga> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Atharga"@en ;
+    ns1:areaCode "08359" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "8610"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586112" ;
+    ns1:synonym "Athargan or Hatharki" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Atharga"@en,
+        "ಅಥರ್ಗಾ"@en ;
+    foaf:nick "ಅಥರ್ಗಾ"@en .
+
+<http://dbpedia.org/resource/Aurangabadi_Mahal> ns1:deathPlace <http://dbpedia.org/resource/Bijapur> ;
+    ns1:restingPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/B.L.D.E.A's_V.P._Dr._P.G._Halakatti_College_of_Engineering_and_Technology> ns1:campus <http://dbpedia.org/resource/Bijapur> ;
+    ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Babalad> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Balaganur> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Balaganur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5780"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Balaganur"@en .
+
+<http://dbpedia.org/resource/Ballolli> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ballolli"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6264"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Ballolli"@en .
+
+<http://dbpedia.org/resource/Baragudi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Baragudi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.316666666666666 75.93333333333334" ;
+    ns2:lat "17.316668"^^xsd:float ;
+    ns2:long "75.933334"^^xsd:float ;
+    foaf:name "Baragudi"@en .
+
+<http://dbpedia.org/resource/Bardol> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Bardol"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Indi,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6866"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.18027777777778 75.95305555555555" ;
+    ns2:lat "17.180277"^^xsd:float ;
+    ns2:long "75.95306"^^xsd:float ;
+    foaf:name "Bardol"@en .
+
+<http://dbpedia.org/resource/Basangouda_Patil_Yatnal> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> ;
+    ns1:residence <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Basavan_Bagevadi> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Basavan Bagevadi"@en ;
+    ns1:areaCode "08358" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 6.07e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "28582"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586 203" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Basava_cropped.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.5833 75.967" ;
+    ns2:lat "16.5833"^^xsd:float ;
+    ns2:long "75.967"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Basava_cropped.jpg> ;
+    foaf:name "Basavana Bagevadi"@en .
+
+<http://dbpedia.org/resource/Basavana_Bagewadi> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Town,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q3957>,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Basavana Bagewadi"@en ;
+    ns1:areaCode "08358" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 6.07e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "28582"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586 203" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Basava_cropped.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Town_Panchayat_(T.P.)> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.5833 75.967" ;
+    ns2:lat "16.5833"^^xsd:float ;
+    ns2:long "75.967"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Basava_cropped.jpg> ;
+    foaf:name "Basavana Bagevadi"@en,
+        "ಬಸವನ ಬಾಗೇವಾಡಿ"@en .
+
+<http://dbpedia.org/resource/Battle_of_Talikota> ns1:place <http://dbpedia.org/resource/Talikota> .
+
+<http://dbpedia.org/resource/Bijapur_Airport> ns1:city <http://dbpedia.org/resource/Bijapur> ;
+    ns1:location <http://dbpedia.org/resource/Bijapur>,
+        <http://dbpedia.org/resource/Madabhavi> .
+
+<http://dbpedia.org/resource/Bijapur_Bulls> ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Bijapur_Fort> ns1:location <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Bijjaragi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Bijjaragi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6264"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Bijjargi"@en .
+
+<http://dbpedia.org/resource/Chadchan> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Chadchan"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "13116"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Chadchan"@en .
+
+<http://dbpedia.org/resource/Chandkavathe> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Chandkavathe"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5434"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Chandkavathe"@en .
+
+<http://dbpedia.org/resource/Chimmalagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Chimmalagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.38 75.85" ;
+    ns2:lat "16.38"^^xsd:float ;
+    ns2:long "75.85"^^xsd:float ;
+    foaf:name "Chimmalagi"@en .
+
+<http://dbpedia.org/resource/Devangaon> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Devangaon"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5380"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Devangaon"@en .
+
+<http://dbpedia.org/resource/Devar_Hipparagi> a ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Devar Hipparagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 5e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "27749"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.92 76.23" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.23"^^xsd:float ;
+    foaf:name "Devar Hipparagi"@en .
+
+<http://dbpedia.org/resource/Devara_Hippargi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Devara Hippargi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "11513"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Devara Hippargi"@en .
+
+<http://dbpedia.org/resource/Dhumakanal> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Dr._Ambedkar_Stadium> ns1:location <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Dyaberi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Dyaberi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.89002 75.84244" ;
+    ns2:lat "16.89002"^^xsd:float ;
+    ns2:long "75.84244"^^xsd:float ;
+    foaf:name "Dyaberi"@en .
+
+<http://dbpedia.org/resource/Garasangi> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInBijapurDistrict,Karnataka>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Garasangi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.488 75.694" ;
+    ns2:lat "16.488"^^xsd:float ;
+    ns2:long "75.694"^^xsd:float ;
+    foaf:name "Garasangi"@en .
+
+<http://dbpedia.org/resource/Golasangi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Golasangi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6028"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Golasangi"@en .
+
+<http://dbpedia.org/resource/Gunadal> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Gunadal"@en ;
+    ns1:areaCode "08355" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "2711"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586125" ;
+    ns1:synonym "Gundal" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.53638888888889 75.49583333333334" ;
+    ns2:lat "16.536388"^^xsd:float ;
+    ns2:long "75.495834"^^xsd:float ;
+    foaf:homepage <http://www.gunadal.com> ;
+    foaf:name "Gunadal"@en .
+
+<http://dbpedia.org/resource/Halasangi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Halasangi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5211"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Halasangi"@en ;
+    foaf:nick "Navilapur, Karnatakada Poundichary"@en .
+
+<http://dbpedia.org/resource/Hanamasagar> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Hanamasagar"@en ;
+    ns1:areaCode "08355" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationDensity 2e+02 ;
+    ns1:populationTotal "1500"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586125" ;
+    ns1:synonym "Halasagar" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.65 75.88" ;
+    ns2:lat "16.65"^^xsd:float ;
+    ns2:long "75.88"^^xsd:float ;
+    foaf:homepage <http://www.hanamasagar.com> ;
+    foaf:name "Hanamasagar"@en .
+
+<http://dbpedia.org/resource/Hanjagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Hanjagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5462"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Hanjagi"@en .
+
+<http://dbpedia.org/resource/Honawad> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Honawad"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7921"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.81 75.42" ;
+    ns2:lat "16.81"^^xsd:float ;
+    ns2:long "75.42"^^xsd:float ;
+    foaf:name "Honawad"@en .
+
+<http://dbpedia.org/resource/Horti> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Horti"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7662"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:homepage <http://horti-village.blogspot.in/> ;
+    foaf:name "Horti"@en .
+
+<http://dbpedia.org/resource/Huvinahippargi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Huvinahippargi"@en ;
+    ns1:areaCode "08358" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationDensity 2.5e+02 ;
+    ns1:populationTotal "12000"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586208" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:homepage <http://www.huvinhipparagi.in> ;
+    foaf:name "Huvin  Hipparagi"@en,
+        "Huvinahippargi"@en .
+
+<http://dbpedia.org/resource/Ingaleshwar> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ingaleshwar"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6926"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Ingaleshwar"@en .
+
+<http://dbpedia.org/resource/Ingaleshwara> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ingaleshwara"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6926"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Ingaleshwara"@en .
+
+<http://dbpedia.org/resource/Jalageri> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Jalageri"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5444"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Jalageri"@en .
+
+<http://dbpedia.org/resource/Jalwad> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Jalwad"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5224"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Jalwad"@en .
+
+<http://dbpedia.org/resource/Kakhandaki> a <http://dbpedia.org/class/yago/VillagesInBijapurDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Kalkeri> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kalkeri"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7662"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Kalakeri"@en .
+
+<http://dbpedia.org/resource/Kambagi> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kambagi"@en ;
+    ns1:areaCode "08355" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationDensity 2e+02 ;
+    ns1:populationTotal "3095"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586125" ;
+    ns1:synonym "Kambogi" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.560555555555556 75.53833333333333" ;
+    ns2:lat "16.560556"^^xsd:float ;
+    ns2:long "75.53833"^^xsd:float ;
+    foaf:homepage <http://www.Kambagi.com> ;
+    foaf:name "Kambagi"@en .
+
+<http://dbpedia.org/resource/Kameshwar_C._Wali> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Kanamadi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kanamadi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "8436"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586114" ;
+    ns1:synonym "Kanakamadi" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Kanamadi"@en ;
+    foaf:nick "Golden Village"@en .
+
+<http://dbpedia.org/resource/Kannolli> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kannolli"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5357"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Kannolli"@en .
+
+<http://dbpedia.org/resource/Karnataka_State_Women's_University> ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Katakanahalli> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Katakanahalli"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "2226"^^xsd:nonNegativeInteger ;
+    ns1:synonym "Katnalli" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.765555555555554 75.80666666666667" ;
+    ns2:lat "16.765556"^^xsd:float ;
+    ns2:long "75.80666"^^xsd:float ;
+    foaf:name "Katakanahalli"@en .
+
+<http://dbpedia.org/resource/Katnalli> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Kolhar,_Bijapur> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Kolhar, Bijapur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "11935"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Kolhar"@en .
+
+<http://dbpedia.org/resource/Kolhar_(Old)> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kolhar (Old)"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "11935"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Kolhar (Old)"@en .
+
+<http://dbpedia.org/resource/Korwar> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Korwar"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7154"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Korwar"@en .
+
+<http://dbpedia.org/resource/Kudari_Salawadgi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kudari Salawadgi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7064"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Kudari Salawadgi"@en .
+
+<http://dbpedia.org/resource/Kudgi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kudgi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6108"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Kudgi"@en .
+
+<http://dbpedia.org/resource/Lachyan,_Karnataka> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Lachyan, Karnataka"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:postalCode "586211" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.276297222222222 75.96736944444444" ;
+    ns2:lat "17.276297"^^xsd:float ;
+    ns2:long "75.96737"^^xsd:float ;
+    foaf:name "Lachyan"@en .
+
+<http://dbpedia.org/resource/Loni_(B.K.)> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Loni (B.K.)"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5139"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Loni (B.K.)"@en .
+
+<http://dbpedia.org/resource/M._B._Patil> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> ;
+    ns1:region <http://dbpedia.org/resource/Babaleshwar> .
+
+<http://dbpedia.org/resource/Mamadapur,_Bijapur> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Mamadapur, Bijapur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "4641"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.535555555555554 75.59805555555556" ;
+    ns2:lat "16.535555"^^xsd:float ;
+    ns2:long "75.59805"^^xsd:float ;
+    foaf:name "Mamadapur"@en .
+
+<http://dbpedia.org/resource/Managuli> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Managuli"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "14306"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.65 75.81" ;
+    ns2:lat "16.65"^^xsd:float ;
+    ns2:long "75.81"^^xsd:float ;
+    foaf:name "Managuli"@en .
+
+<http://dbpedia.org/resource/Masabinal> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Masabinal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5402"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Masabinal"@en .
+
+<http://dbpedia.org/resource/Mir_Turab_Ali_Khan,_Salar_Jung_I> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Moratgi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Moratgi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5403"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Moratgi"@en .
+
+<http://dbpedia.org/resource/Mulawad> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Mulawad"@en ;
+    ns1:areaCode "08426" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6383"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586108" ;
+    ns1:synonym "Mulavad" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Mulawad"@en .
+
+<http://dbpedia.org/resource/Muttagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Muttagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5043"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Muttagi"@en .
+
+<http://dbpedia.org/resource/Naad(k_d)> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Nagathan> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Nagathan"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7255"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Nagathan"@en .
+
+<http://dbpedia.org/resource/Nalatawad> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Nalatawad"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "13558"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.34 76.14" ;
+    ns2:lat "16.34"^^xsd:float ;
+    ns2:long "76.14"^^xsd:float ;
+    foaf:name "Nalatawad"@en .
+
+<http://dbpedia.org/resource/National_Highway_13_(India)(old_numbering)> ns1:routeJunction <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Nidoni> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Nidoni"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5534"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.7 75.53" ;
+    ns2:lat "16.7"^^xsd:float ;
+    ns2:long "75.53"^^xsd:float ;
+    foaf:name "Nidoni"@en .
+
+<http://dbpedia.org/resource/Pandit_Rao_Dharennavar> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Pralhad_Joshi> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Ramesh_Jigajinagi> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> ;
+    ns1:residence <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/SECAB_Institute_of_Engineering_&_Technology> ns1:campus <http://dbpedia.org/resource/Bijapur> ;
+    ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Salotgi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Salotgi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "10664"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Salotgi"@en .
+
+<http://dbpedia.org/resource/Sarawad> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Sarawad"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6255"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Sarawad"@en .
+
+<http://dbpedia.org/resource/Shahar_Banu_Begum> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Shivagiri> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Shivagiri"@en ;
+    ns1:areaCode "08382" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Bijapur,_Karnataka> ;
+    ns3:point "16.8 75.72" ;
+    ns2:lat "16.8"^^xsd:float ;
+    ns2:long "75.72"^^xsd:float ;
+    foaf:name "Lord Shiva Statue,Bijapur"@en .
+
+<http://dbpedia.org/resource/Shivanagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Shivanagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7068"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Shivanagi"@en .
+
+<http://dbpedia.org/resource/Shri_B._M._Patil_Medical_College> ns1:city <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Siege_of_Bijapur> ns1:place <http://dbpedia.org/resource/Bijapur_district,_Karnataka> .
+
+<http://dbpedia.org/resource/Simpi_Linganna> ns1:birthPlace <http://dbpedia.org/resource/Bijapur_district,_Karnataka> .
+
+<http://dbpedia.org/resource/Sindagi> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInBijapurDistrict,Karnataka>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Town,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q3957>,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Sindagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 5e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "67587"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586 128" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.92 76.23" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.23"^^xsd:float ;
+    foaf:homepage <http://www.sindagitown.gov.in> ;
+    foaf:name "Sindagi"@en,
+        "ಸಿಂದಗಿ"@en .
+
+<http://dbpedia.org/resource/Sunil_Kumar_Desai> ns1:birthPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Tadavalga> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Tadavalga"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "8971"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.17 75.96" ;
+    ns2:lat "17.17"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Tadavalga"@en .
+
+<http://dbpedia.org/resource/Tajapur_(H)> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Tajapur (H)"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5907"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Tajapur (H)"@en .
+
+<http://dbpedia.org/resource/Talikoti> a ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Talikoti"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 5.09e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:leaderTitle "Leader"@en ;
+    ns1:populationTotal "26217"^^xsd:nonNegativeInteger ;
+    ns1:synonym "Talikote" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.48 76.32" ;
+    ns2:lat "16.48"^^xsd:float ;
+    ns2:long "76.32"^^xsd:float ;
+    foaf:homepage <http://www.talikotetown.gov.in> ;
+    foaf:name "Talikoti"@en,
+        "ತಾಳೀಕೋಟೆ"@en ;
+    foaf:nick "Talikoti"@en .
+
+<http://dbpedia.org/resource/Tangadagi> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Tangadagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka>,
+        <http://dbpedia.org/resource/Muddebihal> ;
+    ns1:synonym "Tangadgi" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:History_of_Karnataka>,
+        <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.215 76.09416666666667" ;
+    ns2:lat "16.215"^^xsd:float ;
+    ns2:long "76.09417"^^xsd:float ;
+    foaf:name "Tangadagi"@en,
+        "ತಂಗಡಗಿ"@en .
+
+<http://dbpedia.org/resource/Tikota> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Tikota"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "11284"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Tikota"@en .
+
+<http://dbpedia.org/resource/Ukkali> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Ukkali"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "7707"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.59 75.96" ;
+    ns2:lat "16.59"^^xsd:float ;
+    ns2:long "75.96"^^xsd:float ;
+    foaf:name "Ukkali"@en .
+
+<http://dbpedia.org/resource/Venkanna_H._Naik> ns1:deathPlace <http://dbpedia.org/resource/Bijapur> .
+
+<http://dbpedia.org/resource/Yalagur> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Yalagur"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:postalCode "586213" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.329095 75.925948" ;
+    ns2:lat "16.329096"^^xsd:float ;
+    ns2:long "75.92595"^^xsd:float ;
+    foaf:homepage <http://www.shriyalguresh.com> ;
+    foaf:name "Shree Kshetra Yalagur"@en .
+
+<http://dbpedia.org/resource/Yankanchi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Yankanchi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "5307"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.92 76.24" ;
+    ns2:lat "16.92"^^xsd:float ;
+    ns2:long "76.24"^^xsd:float ;
+    foaf:name "Yankanchi"@en .
+
+<http://dbpedia.org/resource/Yaragalla> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Yarazari> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> .
+
+<http://dbpedia.org/resource/Zalaki> a ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Zalaki"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "2707"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "17.256944444444443 75.80277777777778" ;
+    ns2:lat "17.256945"^^xsd:float ;
+    ns2:long "75.80278"^^xsd:float ;
+    foaf:name "Zalaki"@en .
+
+dc:rights a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+ns3:point a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+ns2:lat a rdf:Property .
+
+ns2:long a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+foaf:homepage a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:nick a rdf:Property .
+
+foaf:thumbnail a rdf:Property .
+
+<http://dbpedia.org/resource/Babaleshwar> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBijapurDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Babaleshwar"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_Taluka>,
+        <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "22528"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Bijapur_district> ;
+    ns3:point "16.83 75.73" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.73"^^xsd:float ;
+    foaf:name "Babaleshwar"@en .
+
+<http://dbpedia.org/resource/Indi,_Karnataka> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInBijapurDistrict,Karnataka>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Town,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q3957>,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Indi, Karnataka"@en ;
+    ns1:areaCode "08359" ;
+    ns1:areaTotal 1.05e+07 ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 4.64e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationDensity 2.99829e+03 ;
+    ns1:populationTotal "31482"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586 209" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "17.168 75.967" ;
+    ns2:lat "17.168"^^xsd:float ;
+    ns2:long "75.967"^^xsd:float ;
+    foaf:name "Indi, Karnataka"@en,
+        "ಇಂಡಿ"@en .
+
+<http://dbpedia.org/resource/Madabhavi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInBelgaumDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Madabhavi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6864"^^xsd:nonNegativeInteger ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Belgaum_district> ;
+    ns3:point "16.72 75.06" ;
+    ns2:lat "16.72"^^xsd:float ;
+    ns2:long "75.06"^^xsd:float ;
+    foaf:name "Madabhavi"@en .
+
+<http://dbpedia.org/resource/Muddebihal> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInBijapurDistrict,Karnataka>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Muddebihal"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 5.63e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "34217"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586212" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Category:Taluks_of_Karnataka> ;
+    ns3:point "16.33 76.13" ;
+    ns2:lat "16.33"^^xsd:float ;
+    ns2:long "76.13"^^xsd:float ;
+    foaf:name "Muddebihal"@en,
+        "ಮುದ್ದೇಬಿಹಾಳ"@en .
+
+<http://dbpedia.org/resource/Talikota> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInBijapurDistrict,Karnataka>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Talikota"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 5.09e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:leaderTitle "Leader"@en ;
+    ns1:populationTotal "31693"^^xsd:nonNegativeInteger ;
+    ns1:synonym "Talikote" ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Bijapur_district,_Karnataka> ;
+    ns3:point "16.476111111111113 76.31083333333333" ;
+    ns2:lat "16.47611"^^xsd:float ;
+    ns2:long "76.31084"^^xsd:float ;
+    foaf:homepage <http://www.talikotetown.gov.in> ;
+    foaf:name "Talikote"@en ;
+    foaf:nick "Talikoti"@en .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:KarnatakaBijapur.png> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:KarnatakaBijapur.png> .
+
+<http://dbpedia.org/resource/Bijapur> a ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Bijapur"@en ;
+    ns1:areaCode "08352" ;
+    ns1:areaTotal 1.0541e+07 ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 7.7e+02 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationDensity 2.65e+02 ;
+    ns1:populationTotal "327427"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "586101-586105" ;
+    ns1:synonym "Bijapur, Bijjanahalli, Vijapura" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/GolGumbaz2.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Bijapur,_Karnataka>,
+        <http://dbpedia.org/resource/Category:Former_capital_cities_in_India>,
+        <http://dbpedia.org/resource/Category:Tourism_in_Karnataka> ;
+    ns3:point "16.83 75.71" ;
+    ns2:lat "16.83"^^xsd:float ;
+    ns2:long "75.71"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/GolGumbaz2.jpg> ;
+    foaf:homepage <http://bijapur.nic.in> ;
+    foaf:name "Vijayapur"@en,
+        "ವಿಜಾಪುರ, ವಿಜಯಪುರ"@en .
+
+<http://dbpedia.org/resource/Bijapur_district,_Karnataka> a <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/DistrictsOfKarnataka>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Bijapur district, Karnataka"@en ;
+    ns1:areaCode "+ 91 (0) 8352" ;
+    ns1:areaTotal 1.0541e+10 ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Karnataka>,
+        <http://dbpedia.org/resource/South_India> ;
+    ns1:populationDensity 2.5e+02 ;
+    ns1:populationTotal "2206918"^^xsd:nonNegativeInteger ;
+    ns1:synonym "Vijayapura, Bijjanahalli" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/India_Karnataka_Bijapur_district.svg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/District> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1848_establishments_in_India>,
+        <http://dbpedia.org/resource/Category:Belgaum_division>,
+        <http://dbpedia.org/resource/Category:Bijapur_district,_Karnataka>,
+        <http://dbpedia.org/resource/Category:Districts_in_India>,
+        <http://dbpedia.org/resource/Category:Districts_of_Karnataka> ;
+    ns3:point "16.82 75.72" ;
+    ns2:lat "16.82"^^xsd:float ;
+    ns2:long "75.72"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/India_Karnataka_Bijapur_district.svg> ;
+    foaf:homepage <http://bijapur.nic.in> ;
+    foaf:name "Vijayapur District"@en,
+        "ಬಿಜಾಪುರ ಜಿಲ್ಲೆ"@en .
+

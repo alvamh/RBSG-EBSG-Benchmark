@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/phylum>
+
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Brazil> .
+<http://dbpedia.org/resource/Anostomidae> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .

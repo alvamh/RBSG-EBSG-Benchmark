@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:producer rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+ns1:recordLabel rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/resource/Terrorist_Threats> ns1:producer <http://dbpedia.org/resource/Damizza>,
+        <http://dbpedia.org/resource/Fredwreck>,
+        <http://dbpedia.org/resource/Sir_Jinx> .
+

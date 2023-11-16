@@ -1,0 +1,131 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:binomialAuthority a rdf:Property .
+
+ns1:class a rdf:Property .
+
+ns1:conservationStatus a rdf:Property .
+
+ns1:conservationStatusSystem a rdf:Property .
+
+ns1:family a rdf:Property .
+
+ns1:genus a rdf:Property .
+
+ns1:kingdom a rdf:Property .
+
+ns1:order a rdf:Property .
+
+ns1:phylum a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+<http://dbpedia.org/resource/Amphisbaena_alba> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_arenaria> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_bakeri> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_caeca> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_camura> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_carvalhoi> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_darwinii> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_fenestrata> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_fuliginosa> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_hastata> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_heathi> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_heterozonata> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_ibijara> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_mertensii> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_microcephala> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_mitchelli> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_munoai> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_neglecta> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_nigricauda> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> a <http://dbpedia.org/class/yago/Animal100015388>,
+        <http://dbpedia.org/class/yago/Chordate101466257>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Reptile101661091>,
+        <http://dbpedia.org/class/yago/ReptilesOfBrazil>,
+        <http://dbpedia.org/class/yago/Vertebrate101471682>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        ns1:Animal,
+        ns1:Eukaryote,
+        ns1:Reptile,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q729> ;
+    rdfs:label "Amphisbaena ridleyi"@en ;
+    ns1:binomialAuthority <http://dbpedia.org/resource/George_Albert_Boulenger> ;
+    ns1:class <http://dbpedia.org/resource/Reptile> ;
+    ns1:conservationStatus "LC" ;
+    ns1:conservationStatusSystem "IUCN3.1" ;
+    ns1:family <http://dbpedia.org/resource/Amphisbaenidae> ;
+    ns1:genus <http://dbpedia.org/resource/Amphisbaena_(genus)> ;
+    ns1:kingdom <http://dbpedia.org/resource/Animal> ;
+    ns1:order <http://dbpedia.org/resource/Amphisbaenia>,
+        <http://dbpedia.org/resource/Squamata> ;
+    ns1:phylum <http://dbpedia.org/resource/Chordate>,
+        <http://dbpedia.org/resource/Vertebrate> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Amphisbaena>,
+        <http://dbpedia.org/resource/Category:Endemic_fauna_of_Brazil>,
+        <http://dbpedia.org/resource/Category:Fernando_de_Noronha>,
+        <http://dbpedia.org/resource/Category:Reptiles_of_Brazil> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png> .
+
+<http://dbpedia.org/resource/Amphisbaena_schmiditi> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_silvestrii> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_vanzolinii> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaena_xera> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Chirindia> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Lystromycter> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Zygaspis> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+dcterms:subject a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+<http://dbpedia.org/resource/Amphisbaena_(genus)> ns1:family <http://dbpedia.org/resource/Amphisbaenidae> .
+
+<http://dbpedia.org/resource/Amphisbaenidae> rdfs:label "Amphisbaenidae"@en ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_alba03.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Amphisbaenians>,
+        <http://dbpedia.org/resource/Category:Amphisbaenidae> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_alba03.jpg> .
+

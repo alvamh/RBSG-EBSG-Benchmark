@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:director rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+ns1:producer rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/resource/The_Crowd_Snores> rdfs:label "The Crowd Snores"@en ;
+    ns1:director <http://dbpedia.org/resource/Walter_Lantz> ;
+    ns1:series <http://dbpedia.org/resource/Pooch_the_Pup> .
+

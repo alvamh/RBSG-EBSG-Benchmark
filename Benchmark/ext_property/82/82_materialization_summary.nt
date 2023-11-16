@@ -1,0 +1,13 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:genus rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#specializes> .
+
+<http://dbpedia.org/resource/Balanites_aegyptiaca> ns1:genus <http://dbpedia.org/resource/Balanites> .
+
+<http://dbpedia.org/resource/Balanites_maughamii> ns1:genus <http://dbpedia.org/resource/Balanites> .
+
+<http://dbpedia.org/resource/Balanites_roxburghii> ns1:genus <http://dbpedia.org/resource/Balanites> .
+
+<http://dbpedia.org/resource/Balanites> ns1:class <http://dbpedia.org/resource/Eudicots> .
+

@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/conservationStatusSystem>
+
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Barilius_ornatus> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Sidestripe_rasbora> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Rosefin_rasbora> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Pale_rasbora> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Henicorhynchus> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Cyprinidae> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Thailand> .

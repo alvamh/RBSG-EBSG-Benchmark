@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:servingRailwayLine rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#sameSettingAs> .
+
+<http://dbpedia.org/resource/Yayoidai_Station> ns1:country <http://dbpedia.org/resource/Japan> ;
+    ns1:operatedBy <http://dbpedia.org/resource/Sagami_Railway> ;
+    ns1:servingRailwayLine <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg?width=300> .
+

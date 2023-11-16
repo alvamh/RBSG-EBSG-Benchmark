@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/resource/Capitol_Records>
+
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Capitol_Records> .
+<http://dbpedia.org/resource/Capitol_Records> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/All_the_Best!> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Capitol_Records> .

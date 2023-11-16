@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:previousEvent rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#follows> .
+
+ns1:team rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSettingFor> .
+
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> ns1:location <http://dbpedia.org/resource/National_Stadium_(Thailand)> ;
+    ns1:previousEvent <http://dbpedia.org/resource/2010_Kor_Royal_Cup> ;
+    ns1:team <http://dbpedia.org/resource/Chonburi_F.C.> .
+

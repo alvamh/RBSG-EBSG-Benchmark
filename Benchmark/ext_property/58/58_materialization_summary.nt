@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:birthPlace rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation> .
+
+ns1:occupation rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasRole> .
+
+<http://dbpedia.org/resource/Storme_Warren> ns1:birthPlace <http://dbpedia.org/resource/Cincinnati>,
+        <http://dbpedia.org/resource/Ohio>,
+        <http://dbpedia.org/resource/United_States> .
+

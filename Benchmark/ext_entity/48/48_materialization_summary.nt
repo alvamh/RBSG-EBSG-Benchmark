@@ -1,0 +1,12 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/ontology/artist> rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+
+<http://dbpedia.org/ontology/associatedBand> rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isMemberOf> .
+
+<http://dbpedia.org/ontology/associatedMusicalArtist> rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasMember> .
+
+<http://dbpedia.org/ontology/genre> rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isClassifiedBy> .
+
+<http://dbpedia.org/ontology/producer> rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#coparticipatesWith> .
+

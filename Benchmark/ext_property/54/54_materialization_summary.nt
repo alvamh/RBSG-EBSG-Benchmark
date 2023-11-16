@@ -1,0 +1,11 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:careerStation rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasSetting> .
+
+ns1:team rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isSettingFor> .
+
+<http://dbpedia.org/resource/Fabrice_Gautrat> ns1:team <http://dbpedia.org/resource/Orange_County_Blues_FC>,
+        <http://dbpedia.org/resource/Southern_California_Seahorses>,
+        <http://dbpedia.org/resource/UJA_Maccabi_Paris_Métropole> .
+

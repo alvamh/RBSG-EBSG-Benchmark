@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges>
+
+<http://dbpedia.org/resource/Battle_of_Mellrichstadt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+<http://dbpedia.org/resource/Battle_of_Flarchheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+<http://dbpedia.org/resource/Battle_of_Worringen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+<http://dbpedia.org/resource/Battle_of_Detern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+<http://dbpedia.org/resource/Battle_on_the_Marchfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+
+#original summary 5_1
+
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://xmlns.com/foaf/0.1/name> "Battle on the Elster"@en .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zeitz> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/combatant> "Rudolf of Swabia" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/combatant> "Holy Roman Emperor, Henry IV" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .

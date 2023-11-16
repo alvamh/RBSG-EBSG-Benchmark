@@ -1,0 +1,116 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:binomialAuthority a rdf:Property .
+
+ns1:birthDate a rdf:Property .
+
+ns1:birthYear a rdf:Property .
+
+ns1:class a rdf:Property .
+
+ns1:deathDate a rdf:Property .
+
+ns1:deathYear a rdf:Property .
+
+ns1:division a rdf:Property .
+
+ns1:family a rdf:Property .
+
+ns1:kingdom a rdf:Property .
+
+ns1:order a rdf:Property .
+
+<http://dbpedia.org/resource/Dendrobium_lamyaiae> ns1:binomialAuthority <http://dbpedia.org/resource/Gunnar_Seidenfaden> .
+
+<http://dbpedia.org/resource/Didymoplexiopsis> ns1:binomialAuthority <http://dbpedia.org/resource/Gunnar_Seidenfaden> .
+
+<http://dbpedia.org/resource/Thaia_saprophytica> a ns1:Eukaryote,
+        ns1:Plant,
+        ns1:Species,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q756> ;
+    rdfs:label "Thaia saprophytica"@en ;
+    ns1:binomialAuthority <http://dbpedia.org/resource/Gunnar_Seidenfaden> ;
+    ns1:class <http://dbpedia.org/resource/Monocotyledon> ;
+    ns1:division <http://dbpedia.org/resource/Flowering_plant> ;
+    ns1:family <http://dbpedia.org/resource/Epidendroideae>,
+        <http://dbpedia.org/resource/Neottieae>,
+        <http://dbpedia.org/resource/Orchidaceae> ;
+    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
+    ns1:order <http://dbpedia.org/resource/Asparagales> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Myco-heterotrophic_orchids>,
+        <http://dbpedia.org/resource/Category:Neottieae>,
+        <http://dbpedia.org/resource/Category:Orchids_of_Laos>,
+        <http://dbpedia.org/resource/Category:Orchids_of_Thailand>,
+        <http://dbpedia.org/resource/Category:Plants_described_in_1975> ;
+    foaf:name "Thaia"@en .
+
+dc:description a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+foaf:givenName a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:surname a rdf:Property .
+
+<http://dbpedia.org/resource/Gunnar_Seidenfaden> a <http://dbpedia.org/class/yago/Biologist109855630>,
+        <http://dbpedia.org/class/yago/Botanist109868270>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/DanishBotanists>,
+        <http://dbpedia.org/class/yago/DanishDiplomats>,
+        <http://dbpedia.org/class/yago/Diplomat110013927>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Official110372373>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Scientist110560637>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Gunnar Seidenfaden"@en ;
+    ns1:birthDate "1908"^^xsd:gYear ;
+    ns1:birthYear "1908"^^xsd:gYear ;
+    ns1:deathDate "2001-02-09"^^xsd:date ;
+    ns1:deathYear "2001"^^xsd:gYear ;
+    dc:description "Danish botanist and diplomat",
+        "Danish botanist and diplomat"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1908_births>,
+        <http://dbpedia.org/resource/Category:2001_deaths>,
+        <http://dbpedia.org/resource/Category:Ambassadors_of_Denmark_to_Thailand>,
+        <http://dbpedia.org/resource/Category:Botanists_active_in_South_Asia>,
+        <http://dbpedia.org/resource/Category:Botanists_active_in_the_Arctic>,
+        <http://dbpedia.org/resource/Category:Danish_botanists>,
+        <http://dbpedia.org/resource/Category:Danish_diplomats>,
+        <http://dbpedia.org/resource/Category:University_of_Copenhagen_alumni> ;
+    foaf:givenName "Gunnar"@en ;
+    foaf:name "Gunnar Seidenfaden"@en,
+        "Seidenfaden, Gunnar"@en ;
+    foaf:surname "Seidenfaden"@en .
+

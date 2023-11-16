@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/commander>
+
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Estanislao_López> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/José_Rondeau> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Francisco_Ramírez_(governor)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxUnitarians" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxFederals" .

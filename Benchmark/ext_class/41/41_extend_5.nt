@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/MusicalWork>
+
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/MCMXCV_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Bannkreis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Subway_to_Sally> .

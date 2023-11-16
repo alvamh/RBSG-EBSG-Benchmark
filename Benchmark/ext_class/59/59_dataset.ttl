@@ -1,0 +1,1204 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Abdul_Khalim_Atef_Safadie> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Abdul_Khalim_Atef_Safadie__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Abdul_Khalim_Atef_Safadie__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Akhmat_Agrba> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Akhmat_Agrba__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Alan_Dulayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Alan_Dulayev__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Afanasyev_(footballer)> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Afanasyev_(footballer)__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Balakhnin> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Balakhnin__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Bulashenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Bulashenko__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Chernyavskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Chernyavskiy__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Gennadyevich_Lapin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Gennadyevich_Lapin__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Karnaukhov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Karnaukhov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Kobenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Kobenko__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Patokin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Patokin__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Selyukov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Selyukov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Sergeyevich_Stepanov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Sergeyevich_Stepanov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Sergeyevich_Stepanov__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Tikhonov_(footballer,_born_1963)> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Tikhonov_(footballer,_born_1963)__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Tikhonov_(footballer,_born_1963)__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Tumasyan_(football_coach_born_1955)> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Tumasyan_(football_coach_born_1955)__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Valuyskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Valuyskiy__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Vladimirovich_Nechayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Vladimirovich_Nechayev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Vladimirovich_Nechayev__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Vladimirovich_Vasilyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Vladimirovich_Vasilyev__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Vlaskin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Vlaskin__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksandr_Yakimov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksandr_Yakimov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Gerasimenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Gerasimenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Gorelov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Gorelov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Gridnev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Gridnev__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Guseynov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Guseynov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda__10> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda__15> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda__16> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Leonidovich_Sereda__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Lvovich_Nikolayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Lvovich_Nikolayev__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Sizintsev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Sizintsev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Sugak> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Sugak__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Sugak__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Tkach> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Tkach__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Yevgenyevich_Volkov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Yevgenyevich_Volkov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Aleksei_Yuryevich_Kuznetsov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Aleksei_Yuryevich_Kuznetsov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Alexander_Nikolayevich_Petrov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Alexander_Nikolayevich_Petrov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoli_Morozov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anatoli_Morozov__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoli_Morozov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoli_Vanzhula> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anatoli_Vanzhula__15> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoli_Vanzhula__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)__12> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anatoly_Bulgakov_(footballer,_born_1944)__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Garkushin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Garkushin__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Mikheyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Mikheyev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Oleynikov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Oleynikov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Oleynikov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Shemet> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Shemet__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Taranenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Taranenko__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Ustyuzhanin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Ustyuzhanin__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Uvarov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Uvarov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Uvarov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andrei_Vorobyov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andrei_Vorobyov__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Andronik_Karagezyan> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Andronik_Karagezyan__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anton_Gudukin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anton_Gudukin__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anton_Matveyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anton_Matveyev__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Anton_Vlasov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Anton_Vlasov__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artur_Afonin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artur_Afonin__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Andreyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Andreyev__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Maslevskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Maslevskiy__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Orekhov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Orekhov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Orsayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Orsayev__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Serdyuk> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Serdyuk__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Shevchenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Shevchenko__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Syomka> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Artyom_Syomka__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Artyom_Syomka__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ayrat_Karimov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ayrat_Karimov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Barys_Haravoy> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Barys_Haravoy__12> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Barys_Haravoy__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Denis_Bakurskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Denis_Bakurskiy__10> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Denis_Posylayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Denis_Posylayev__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Denis_Valekhovich_Rodionov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Denis_Valekhovich_Rodionov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Devis_Uko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Devis_Uko__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Belokolosov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Belokolosov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Belokolosov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Boksha> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Boksha__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Bolshakov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Bolshakov__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Kirichenko> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Kirichenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Kutepov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Kutepov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Malchenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Malchenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Malchenko__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Mutyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Mutyev__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitri_Pinchuk> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitri_Pinchuk__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Dmitry_Yuryevich_Belyayev_(born_1989)> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Dmitry_Yuryevich_Belyayev_(born_1989)__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Eduard_Posylayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Eduard_Posylayev__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Elbrus_Tandelov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Elbrus_Tandelov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Emil_Tsatskin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Emil_Tsatskin__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Enver_Yulgushov> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Enver_Yulgushov__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Erik_Aminev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Erik_Aminev__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Fuad_Geydarov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Fuad_Geydarov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Fyodor_Novikov> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Fyodor_Novikov__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Gennadi_Bondaruk> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Gennadi_Bondaruk__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Georgi_Arkania> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Georgi_Arkania__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Georgi_Potapov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Georgi_Potapov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Georgi_Smurov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Georgi_Smurov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Khankeyev> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Igor_Khankeyev__10> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Korobeynikov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Igor_Korobeynikov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Lediakhov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Lediakhov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Piskunov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Igor_Piskunov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Sadovskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Sadovskiy__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Sklyarov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Igor_Sklyarov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Velikorodny> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Igor_Velikorodny__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Igor_Velikorodny__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ilya_Kirillov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ilya_Kirillov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ilya_Soshnin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ilya_Soshnin__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ivan_Dyagolchenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ivan_Dyagolchenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ivan_Lyakh> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ivan_Lyakh__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Karlen_Vartanyan> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Karlen_Vartanyan__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Kirill_Zaika> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Kirill_Zaika__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Leonid_Reshetnikov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Leonid_Reshetnikov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Magomed_Kurbanov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Magomed_Kurbanov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Chernokozov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Maksim_Chernokozov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Chernokozov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Kovalskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Maksim_Kovalskiy__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Nesterov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Maksim_Nesterov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Petrenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Maksim_Petrenko__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Maksim_Ryabov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Maksim_Ryabov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Aleksandrov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Mikhail_Aleksandrov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Anokhin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Mikhail_Anokhin__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Biryukov_(footballer_born_1987)> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Mikhail_Biryukov_(footballer_born_1987)__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Ignatov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Mikhail_Ignatov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Rudkovskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Mikhail_Rudkovskiy__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Mikhail_Rudkovskiy__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikita_Gigolayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikita_Gigolayev__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikita_Gigolayev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikolai_Kazachenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikolai_Kazachenko__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikolai_Pestretsov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikolai_Pestretsov__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikolai_Shabonin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikolai_Shabonin__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikolay_Boyarintsev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikolay_Boyarintsev__10> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Nikolay_Shirshov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Nikolay_Shirshov__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleg_Misyura> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Oleg_Misyura__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleg_Polyarush> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Oleg_Polyarush__12> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleg_Sanko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Oleg_Sanko__12> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleg_Sanko__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleh_Smolyaninov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Oleh_Smolyaninov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Oleksandr_Holokolosov_(football_manager)> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Oleksandr_Holokolosov_(football_manager)__15> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Pavel_Dorokhin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Pavel_Dorokhin__12> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Pavel_Ivashentsev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Pavel_Ivashentsev__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Pavel_Korchagin_(footballer)> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Pavel_Korchagin_(footballer)__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Pavel_Panteleyevich_Gusev> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Pavel_Panteleyevich_Gusev__14> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Rafael_Saryan> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Rafael_Saryan__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Roman_Kalmykov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Roman_Kalmykov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Roman_Sukharev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Roman_Sukharev__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Roman_Timorgaleyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Roman_Timorgaleyev__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ruslan_Gazzayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ruslan_Gazzayev__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Ruslan_Qurbanov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Ruslan_Qurbanov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Aleksandrovich_Dyakov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Aleksandrovich_Dyakov__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Andreyevich_Smirnov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Andreyevich_Smirnov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Balakhnin> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Balakhnin__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Dementyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Dementyev__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Gavrilov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Gavrilov__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Igorevich_Nekrasov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Igorevich_Nekrasov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Ivanov_(footballer,_born_1964)> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Ivanov_(footballer,_born_1964)__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Lukash> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Lukash__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Lukash__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Lukash__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Nechay> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Nechay__13> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Nechay__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Nechay__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergei_Sechin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergei_Sechin__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergey_Chernyshev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Sergey_Chernyshev__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Sergey_Chernyshev__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Stanislav_Rudenko> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Stanislav_Rudenko__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Stanislav_Zakharchenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Stanislav_Zakharchenko__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> a <http://dbpedia.org/class/yago/Athlete109820263>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Contestant109613191>,
+        <http://dbpedia.org/class/yago/FootballPlayer110101634>,
+        <http://dbpedia.org/class/yago/LivingPeople>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Player110439851>,
+        <http://dbpedia.org/class/yago/RussianFootballers>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Athlete,
+        ns1:Person,
+        ns1:SoccerPlayer,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        <http://www.wikidata.org/entity/Q937857>,
+        foaf:Person ;
+    rdfs:label "Svyatoslav Tanasov"@en ;
+    ns1:birthDate "1989-08-02"^^xsd:date ;
+    ns1:birthYear "1989"^^xsd:gYear ;
+    ns1:careerStation <http://dbpedia.org/resource/Svyatoslav_Tanasov__2> ;
+    ns1:height 1.78e+00 ;
+    ns1:position <http://dbpedia.org/resource/Defender_(association_football)> ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dc:description "Russian footballer",
+        "Russian footballer"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1989_births>,
+        <http://dbpedia.org/resource/Category:FC_Taganrog_players>,
+        <http://dbpedia.org/resource/Category:Living_people>,
+        <http://dbpedia.org/resource/Category:Russian_footballers> ;
+    foaf:givenName "Svyatoslav"@en ;
+    foaf:name "Svyatoslav Sergeyevich Tanasov"@en,
+        "Svyatoslav Tanasov"@en,
+        "Tanasov, Svyatoslav"@en ;
+    foaf:surname "Tanasov"@en .
+
+<http://dbpedia.org/resource/Tikhon_Zelenskiy> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Tikhon_Zelenskiy__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Timur_Sokolov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Timur_Sokolov__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vadim_Balabanov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vadim_Balabanov__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vadim_Sklyadnev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vadim_Sklyadnev__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valentin_Reznikov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Valentin_Reznikov__8> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valentin_Yerokhin> ns1:managerClub <http://dbpedia.org/resource/FC_Taganrog> ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Valentin_Yerokhin__10> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valentin_Yerokhin__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valentin_Yerokhin__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valeri_Tskhovrebov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Valeri_Tskhovrebov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Valeri_Zubakov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Valeri_Zubakov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vasili_Brovin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vasili_Brovin__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vasili_Stan> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vasili_Stan__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Viktor_Zubchenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Viktor_Zubchenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Viktor_Zubchenko__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Viktor_Zubchenko__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vitali_Kirichenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vitali_Kirichenko__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vitali_Kolomiytsev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vitali_Kolomiytsev__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vitali_Shipilov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vitali_Shipilov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vitali_Ushakov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vitali_Ushakov__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vitali_Yermilov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vitali_Yermilov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladilen_Aleksandrov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladilen_Aleksandrov__9> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Chechulin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Chechulin__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Danilov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Danilov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Rashcheyev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Rashcheyev__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Rashcheyev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Shamara> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Shamara__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Skokov> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Skokov__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladimir_Zabuga> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vladimir_Zabuga__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladislav_Rudenko> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vladislav_Rudenko__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vyacheslav_Dmitriyenko> ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Vyacheslav_Dmitriyenko__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Vyacheslav_Dmitriyenko__6> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yan_Kazayev> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yan_Kazayev__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yegor_Ridosh> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yegor_Ridosh__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yegor_Ridosh__7> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Gurulyov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Gurulyov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Kornilov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yevgeni_Kornilov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Malov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yevgeni_Malov__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Odintsov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yevgeni_Odintsov__5> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Protsanov> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yevgeni_Protsanov__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Protsanov__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yevgeni_Sinitsa> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yevgeni_Sinitsa__1> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Dyadyuk> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yuri_Dyadyuk__2> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Myrza> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yuri_Myrza__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Rodzin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yuri_Rodzin__14> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Savin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yuri_Savin__4> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Vostrukhin> a ns1:SoccerPlayer ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:FC_Taganrog_players> .
+
+<http://dbpedia.org/resource/Yuri_Vostrukhin__11> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Yuri_Vostrukhin__3> ns1:team <http://dbpedia.org/resource/FC_Taganrog> .
+
+<http://dbpedia.org/resource/Svyatoslav_Tanasov__2> a ns1:CareerStation,
+        ns1:TimePeriod,
+        owl:Thing ;
+    ns1:numberOfGoals 0 ;
+    ns1:numberOfMatches 6 ;
+    ns1:team <http://dbpedia.org/resource/FC_Taganrog> ;
+    ns1:years "2009"^^xsd:gYear .
+
+<http://dbpedia.org/resource/FC_Taganrog> a <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Association108049401>,
+        <http://dbpedia.org/class/yago/AssociationFootballClubsEstablishedIn2006>,
+        <http://dbpedia.org/class/yago/Club108227214>,
+        <http://dbpedia.org/class/yago/FootballClubsInRussia>,
+        <http://dbpedia.org/class/yago/Group100031264>,
+        <http://dbpedia.org/class/yago/Organization108008335>,
+        <http://dbpedia.org/class/yago/SocialGroup107950920>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Agent,
+        ns1:Organisation,
+        ns1:SoccerClub,
+        ns1:SportsTeam,
+        <http://schema.org/Organization>,
+        <http://schema.org/SportsTeam>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q43229>,
+        <http://www.wikidata.org/entity/Q476028> ;
+    rdfs:label "FC Taganrog"@en ;
+    ns1:ground <http://dbpedia.org/resource/Torpedo_Stadium_(Taganrog)> ;
+    ns1:position <http://dbpedia.org/resource/Russian_Professional_Football_League> ;
+    ns1:season <http://dbpedia.org/resource/2014–15_Russian_Professional_Football_League> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_establishments_in_Russia>,
+        <http://dbpedia.org/resource/Category:2015_establishments_in_Russia>,
+        <http://dbpedia.org/resource/Category:Association_football_clubs_disestablished_in_2015>,
+        <http://dbpedia.org/resource/Category:Association_football_clubs_established_in_2006>,
+        <http://dbpedia.org/resource/Category:Football_clubs_in_Russia>,
+        <http://dbpedia.org/resource/Category:Sport_in_Rostov_Oblast> ;
+    foaf:homepage <http://www.fctaganrog.ru/> ;
+    foaf:name "FC Taganrog"@en,
+        "Football Club Taganrog"@en .
+

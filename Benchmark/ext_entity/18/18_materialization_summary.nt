@@ -1,0 +1,12 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:battle rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf> .
+
+ns1:isPartOfMilitaryConflict rdfs:subPropertyOf ns1:isPartOf,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf> .
+
+<http://dbpedia.org/resource/Burgery_ambush> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Irish_War_of_Independence> .
+
+ns1:isPartOf rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf> .
+

@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:isPartOf rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isPartOf> .
+
+<http://dbpedia.org/resource/Akalwadi> ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bijapur_district,_Karnataka> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> .
+

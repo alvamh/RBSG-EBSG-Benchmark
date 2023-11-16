@@ -1,0 +1,12 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:birthPlace rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation> .
+
+ns1:country rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation> .
+
+<http://dbpedia.org/resource/Jim_Watts> ns1:birthPlace <http://dbpedia.org/resource/Henlow> .
+
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> ns1:birthPlace <http://dbpedia.org/resource/Bedfordshire_County_Cricket_Club>,
+        <http://dbpedia.org/resource/Henlow> .
+

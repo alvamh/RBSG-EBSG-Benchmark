@@ -1,0 +1,10 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:region rdfs:subPropertyOf <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasLocation> .
+
+<http://dbpedia.org/resource/Sauxillanges> ns1:country <http://dbpedia.org/resource/France> ;
+    ns1:department <http://dbpedia.org/resource/Puy-de-Dôme> ;
+    ns1:inseeCode "63415" ;
+    ns1:region <http://dbpedia.org/resource/Auvergne_(region)> .
+
