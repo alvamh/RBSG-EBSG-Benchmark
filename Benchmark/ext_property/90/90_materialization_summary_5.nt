@@ -1,8 +1,0 @@
-@prefix ns1: <http://dbpedia.org/ontology/> .
-
-<http://dbpedia.org/resource/Trichoscypha_cavalliensis> ns1:class <http://dbpedia.org/resource/Eudicots> ;
-    ns1:family <http://dbpedia.org/resource/Anacardiaceae> ;
-    ns1:genus <http://dbpedia.org/resource/Trichoscypha> ;
-    ns1:kingdom <http://dbpedia.org/resource/Plant> ;
-    ns1:order <http://dbpedia.org/resource/Sapindales> .
-

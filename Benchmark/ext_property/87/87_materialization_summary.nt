@@ -1,8 +1,0 @@
-@prefix ns1: <http://dbpedia.org/ontology/> .
-
-<http://dbpedia.org/resource/Pseudanos_trimaculatus> ns1:class <http://dbpedia.org/resource/Actinopterygii> ;
-    ns1:family <http://dbpedia.org/resource/Anostomidae> ;
-    ns1:genus <http://dbpedia.org/resource/Pseudanos> ;
-    ns1:kingdom <http://dbpedia.org/resource/Animal> ;
-    ns1:phylum <http://dbpedia.org/resource/Chordate> .
-
