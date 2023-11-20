@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/resource/Schleswig-Flensburg>
+
+<http://dbpedia.org/resource/Schleswig-Flensburg> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Schleswig-Flensburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .

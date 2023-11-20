@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/Mountain>
+
+<http://dbpedia.org/resource/Rorspitzli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Salbitschijen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Stucklistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Dammastock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Gwächtenhorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Uri_Alps> .
+<http://dbpedia.org/resource/Rorspitzli> <http://dbpedia.org/ontology/parentMountainPeak> <http://dbpedia.org/resource/Fleckistock> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/elevation> "3417.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Switzerland> .

@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Iraqi–Kurdish_conflict>
+
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Iraqi_Kurdistan> .
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kurdish_protests_and_rebellions> .
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kurdistan_independence_movement> .
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Abdullah_Öcalan> .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/IraqiKurdishPeople> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kurdish_nationalists> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/deathDate> "1985-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/birthDate> "1957-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/commander>
+
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Estanislao_López> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/José_Rondeau> .
+<http://dbpedia.org/resource/Decembrist_revolution_(Argentina)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Estanislao_López> .
+<http://dbpedia.org/resource/Battle_of_Márquez_Bridge> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Estanislao_López> .
+<http://dbpedia.org/resource/Battle_of_Cerrito> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/José_Rondeau> .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Francisco_Ramírez_(governor)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxUnitarians" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxFederals" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Santa_Fe_Province> .

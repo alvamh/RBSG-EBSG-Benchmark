@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/conservationStatusSystem>
+
+<http://dbpedia.org/resource/Trichoscypha_mannii> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sclerocarya_gillettii> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antrocaryon_micraster> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mangifera_rufocostata> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pistacia_cucphuongensis> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+#original summary 5_0 with a new triple instead of label
+
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Trichoscypha> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anacardiaceae> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/conservationStatus> "VU" .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3" .

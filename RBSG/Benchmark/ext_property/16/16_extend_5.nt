@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/commander>
+
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Živojin_Mišić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vicho_Dikov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mihail_Savov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Stiliyan_Kovachev> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Janko_Vukotić> .

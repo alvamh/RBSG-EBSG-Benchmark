@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/resource/Billy_Joel>
+
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/Billy_Joel> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rock_and_roll> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Glass_Houses> .

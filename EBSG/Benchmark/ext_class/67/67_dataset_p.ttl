@@ -1,0 +1,1839 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns3: <http://www.georss.org/georss/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:activeYearsEndYear a rdf:Property .
+
+ns1:activeYearsStartYear a rdf:Property .
+
+ns1:areaCode a rdf:Property .
+
+ns1:areaTotal a rdf:Property .
+
+ns1:battle a rdf:Property .
+
+ns1:birthDate a rdf:Property .
+
+ns1:birthName a rdf:Property .
+
+ns1:birthPlace a rdf:Property .
+
+ns1:birthYear a rdf:Property .
+
+ns1:broadcastArea a rdf:Property .
+
+ns1:builder a rdf:Property .
+
+ns1:campus a rdf:Property .
+
+ns1:capital a rdf:Property .
+
+ns1:causalties a rdf:Property .
+
+ns1:child a rdf:Property .
+
+ns1:city a rdf:Property .
+
+ns1:club a rdf:Property .
+
+ns1:combatant a rdf:Property .
+
+ns1:commander a rdf:Property .
+
+ns1:country a rdf:Property .
+
+ns1:date a rdf:Property .
+
+ns1:deathDate a rdf:Property .
+
+ns1:deathPlace a rdf:Property .
+
+ns1:deathYear a rdf:Property .
+
+ns1:elevation a rdf:Property .
+
+ns1:formerBandMember a rdf:Property .
+
+ns1:foundationPlace a rdf:Property .
+
+ns1:headquarter a rdf:Property .
+
+ns1:isPartOf a rdf:Property .
+
+ns1:knownFor a rdf:Property .
+
+ns1:leaderTitle a rdf:Property .
+
+ns1:location a rdf:Property .
+
+ns1:locationCity a rdf:Property .
+
+ns1:manager a rdf:Property .
+
+ns1:militaryCommand a rdf:Property .
+
+ns1:monarch a rdf:Property .
+
+ns1:nationality a rdf:Property .
+
+ns1:notableCommander a rdf:Property .
+
+ns1:occupation a rdf:Property .
+
+ns1:office a rdf:Property .
+
+ns1:orderInOffice a rdf:Property .
+
+ns1:parent a rdf:Property .
+
+ns1:place a rdf:Property .
+
+ns1:placeOfBurial a rdf:Property .
+
+ns1:populationMetro a rdf:Property .
+
+ns1:postalCode a rdf:Property .
+
+ns1:predecessor a rdf:Property .
+
+ns1:recordedIn a rdf:Property .
+
+ns1:region a rdf:Property .
+
+ns1:regionServed a rdf:Property .
+
+ns1:residence a rdf:Property .
+
+ns1:result a rdf:Property .
+
+ns1:routeJunction a rdf:Property .
+
+ns1:routeStart a rdf:Property .
+
+ns1:stateOfOrigin a rdf:Property .
+
+ns1:strength a rdf:Property .
+
+ns1:successor a rdf:Property .
+
+ns1:team a rdf:Property .
+
+ns1:termPeriod a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+ns1:timeZone a rdf:Property .
+
+ns1:title a rdf:Property .
+
+ns1:type a rdf:Property .
+
+ns1:utcOffset a rdf:Property .
+
+<http://dbpedia.org/resource/1503_in_India> dcterms:subject <http://dbpedia.org/resource/Category:1503_in_India> .
+
+<http://dbpedia.org/resource/1933_Santos_FC_season> ns1:manager <http://dbpedia.org/resource/Francisco_de_Almeida> .
+
+<http://dbpedia.org/resource/2015_National_Games_of_India> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/5th_Portuguese_India_Armada_(Albuquerque,_1503)> dcterms:subject <http://dbpedia.org/resource/Category:1503_in_India> .
+
+<http://dbpedia.org/resource/A._Vincent> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Acodez> ns1:foundationPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:locationCity <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Action_of_12–17_January_1640> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Action_of_1_February_1625> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Action_of_23_March_1654> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Action_of_2_May_1654> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Action_of_30_September_1639> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Action_of_Faial> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Ajay_Devaloka> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Akhila_Sasidharan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Anjali_Menon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ann_Augustine> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Anoop_Menon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ansiba_Hassan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Anuroop_B._S.> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Arun_Vishnu> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Augustine_(actor)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ayinoor_Vasu> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/B._M._Gafoor> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Babu_Narayanan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Baburaj> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Balabhumi> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Balan_K._Nair> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Basava_Premanand> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Battle_of_4_May> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Azemmour> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Bantam> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Barcelona_(1359)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Cabrita_Point> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> a ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Battle of Calicut (1502)"@en ;
+    ns1:causalties "Low" ;
+    ns1:combatant "Arab privateers",
+        "Calicut",
+        "Portuguese Empire" ;
+    ns1:commander <http://dbpedia.org/resource/Vasco_da_Gama> ;
+    ns1:date "1502-01-06"^^xsd:date ;
+    ns1:place <http://dbpedia.org/resource/India>,
+        <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:result "Portuguesevictory" ;
+    ns1:strength "10 carracks",
+        "20 large ships",
+        "40 gun-mountedsambuks",
+        "6 caravels",
+        "Hundreds of smaller ships" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1503_in_India>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_1503>,
+        <http://dbpedia.org/resource/Category:History_of_Kozhikode>,
+        <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> ;
+    foaf:name "Battle of Calicut"@en .
+
+<http://dbpedia.org/resource/Battle_of_Calicut_(1790)> dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+
+<http://dbpedia.org/resource/Battle_of_Cannanore> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Cape_St._Vincent_(1337)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Cerignola> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Battle_of_Chaul> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Cochin_(1504)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1503_in_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Dabul> ns1:commander <http://dbpedia.org/resource/Francisco_de_Almeida> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Diu_(1509)> ns1:commander <http://dbpedia.org/resource/Francisco_de_Almeida> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Garigliano_(1503)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Battle_of_Goa_(1638)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Guinea> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Matapan> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Montevideo_(1823)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Pandarane> ns1:commander <http://dbpedia.org/resource/Lopo_Soares_de_Albergaria> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Battle_of_Ponta_Delgada> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Rio_de_Janeiro> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Rio_de_Janeiro_(1710)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_River_Duyon> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Ruvo> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Battle_of_Seminara_(1503)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Battle_of_Swally> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Tunmen> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_Xicaowan> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_the_Gulf_of_Oman> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_the_Saltes_Island> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Battle_of_the_Tagus> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Bhagyalakshmi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Biyon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Bombardment_of_Algiers_(1784)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/C._H._Mohammed_Koya> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Calicut_International_Airport> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Calicut_Medical_College_Stadium> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Capture_of_Malacca_(1511)> ns1:commander <http://dbpedia.org/resource/Afonso_de_Albuquerque> .
+
+<http://dbpedia.org/resource/Capture_of_Ormuz_(1507)> ns1:commander <http://dbpedia.org/resource/Afonso_de_Albuquerque> .
+
+<http://dbpedia.org/resource/Challenge_of_Barletta> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Chandrika_(newspaper)> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Chempanoda> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Chinmaya_Vidyalaya,_Kozhikode> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Chintha_Ravi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Cidade_Negra> ns1:formerBandMember <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Cristóvão_da_Gama> ns1:parent <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Dano-Swedish_War_(1501–12)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+
+<http://dbpedia.org/resource/Dinanath_Puthenchery> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ditheko_Mototo> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Ditheko_Mototo__4> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Dreamz_Infotainments> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Duarte_Pacheco_Pereira> ns1:successor <http://dbpedia.org/resource/Afonso_de_Albuquerque> .
+
+<http://dbpedia.org/resource/E._K._Aboobacker_Musliar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Elamaram_Kareem> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:region <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Elban_Krishna> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Erinaldo_Santos_Rabelo> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Erinaldo_Santos_Rabelo__5> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Fadlu_Davids> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Fadlu_Davids__7> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Fall_of_Calicut_(1526)> dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+
+<http://dbpedia.org/resource/Farook_College> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/First_Battle_of_Cannanore> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Fort_Anjediva> ns1:builder <http://dbpedia.org/resource/Francisco_de_Almeida> .
+
+<http://dbpedia.org/resource/Francis_Fernandes> ns1:birthPlace <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Francisco_de_Mascarenhas> a <http://dbpedia.org/class/yago/16th-centuryPeople>,
+        <http://dbpedia.org/class/yago/Absentee109757653>,
+        <http://dbpedia.org/class/yago/Assistant109815790>,
+        <http://dbpedia.org/class/yago/AzoreanPeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/ColonialPeopleInMozambique>,
+        <http://dbpedia.org/class/yago/Deputy110005280>,
+        <http://dbpedia.org/class/yago/Exile110071332>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromFaialIsland>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExpatriatesInMozambique>,
+        <http://dbpedia.org/class/yago/PortuguesePeople>,
+        <http://dbpedia.org/class/yago/Traveler109629752>,
+        <http://dbpedia.org/class/yago/Vice-regent110751710>,
+        <http://dbpedia.org/class/yago/Vice-regentsOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Francisco de Mascarenhas"@en ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:deathDate "1608-09-04"^^xsd:date ;
+    ns1:monarch <http://dbpedia.org/resource/Philip_II_of_Spain> ;
+    ns1:office "Viceroy of Portuguese India" ;
+    ns1:termPeriod <http://dbpedia.org/resource/Francisco_de_Mascarenhas__1> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Mascarenha.jpg?width=300> ;
+    dc:description "Portuguese colonial governor",
+        "Portuguese colonial governor"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Colonial_people_in_Mozambique>,
+        <http://dbpedia.org/resource/Category:Donatary-Captains_of_the_Azores>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_nobility>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Mascarenha.jpg> ;
+    foaf:givenName "Francisco"@en ;
+    foaf:name "Francisco Mascarenhas"@en,
+        "Francisco de Mascarenhas"@en,
+        "Mascarenhas, Francisco"@en ;
+    foaf:surname "Mascarenhas"@en .
+
+<http://dbpedia.org/resource/Frederick_Goodwyn> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Galician_campaign_(1384)> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Gireesh_Puthenchery> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Government_Engineering_College,_Kozhikode> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Government_Homoeopathic_Medical_College_Calicut> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Government_Law_College,_Kozhikode> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Gustavo_Borges> ns1:club <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Hilite_Mall> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/History_of_Brazil> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/History_of_Kozhikode> dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+
+<http://dbpedia.org/resource/I._V._Sasi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Indian_Business_Museum> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Indian_Institute_of_Spices_Research> ns1:campus <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Indu_Menon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/John_Abraham_(actor)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/John_Abraham_(director)> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/K._Kelappan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/K._P._Kesava_Menon> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/K._P._Ummer> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/K._S._Manilal> ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/KK_Muhammed> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/KMCT_College_of_Engineering> ns1:campus <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/KT_Manu_Musliar> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/K_Surendran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kadavanad_Kuttikrishnan> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kandyan_commerce_raiding_against_Portugal_(1612–13)> ns1:commander <http://dbpedia.org/resource/Jerónimo_de_Azevedo> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Kanthapuram_A._P._Aboobacker_Musalyar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Keerthana_Sabarish> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kerala_Monorail_Corporation> ns1:regionServed <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kerala_Nadvathul_Mujahideen> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kerala_Soaps_Limited> ns1:locationCity <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Koolimadu> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kozhikodan> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kozhikode_Abdul_Kader> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kozhikode_Light_Metro> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kozhikode_Monorail> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kozhikode_Narayanan_Nair> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kunjandi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kuthiravattam_Pappu> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kuttikrishna_Marar> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Kuttyedathi_Vilasini> ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/M._K._Muneer> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:region <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/M._K._Raghavan> ns1:region <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/M._T._Ramesh> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/MBL_Media_School> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/M_P_Ahammed> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Machan_Varghese> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Madhu_Kaithapram> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Madhyamam_Daily> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Madhyamam_Weekly> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mahalakshmi_Iyer> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Malabar_Christian_College> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Malabar_District> ns1:capital <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Malabar_Institute_of_Medical_Sciences> ns1:locationCity <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Malayan–Portuguese_war> ns1:commander <http://dbpedia.org/resource/Afonso_de_Albuquerque>,
+        <http://dbpedia.org/resource/Martim_Afonso_de_Castro> .
+
+<http://dbpedia.org/resource/Maloram> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mamukkoya> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mananchira> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mani_Damodara_Chakyar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mani_Madhava_Chakyar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mathrubhumi> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Media_One_TV> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Meenakshi_(Malayalam_actress)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mona_Vasu> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mridula_Warrier> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mukkam_Muslim_Orphanage> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mullappally_Ramachandran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Muslim_Educational_Society> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Mysore's_campaigns_against_the_states_of_Malabar_(1757)> dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+
+<http://dbpedia.org/resource/N._N._Kakkad> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/N._P._Rajendran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Narendra_Prasad> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/National_Highway_17_(India)(old_numbering)> ns1:routeJunction <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/National_Highway_212_(India)> ns1:routeStart <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/National_Highway_766_(India)> ns1:routeStart <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/National_Institute_of_Technology_Calicut> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Naval_Battle_of_Calicut_(1752)> ns1:place <http://dbpedia.org/resource/Kozhikode> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode>,
+        <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Naval_Battle_of_the_Tejo> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Neena_Kurup> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Neeraj_Madhav> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Nithya_Das> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Njan_Sthree> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Nochad> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Nossa_Senhora_da_Graça_incident> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Odessa_Sathyan> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Oduvil_Unnikrishnan> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ottoman–Portuguese_conflicts_(1558–66)> ns1:commander <http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira> .
+
+<http://dbpedia.org/resource/P._K._Pokker> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._M._Taj> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._S._Nivas> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._Sathidevi> ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._T._A._Rahim> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:region <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._T._Usha> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/P._Vijayan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Padmarajan> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Paragon_Restaurant> ns1:foundationPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:locationCity <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Parannur_Ibrahim_Musliyar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Parvathy_Menon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Pavel_Vieira> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Pavel_Vieira__7> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Pazhassi_Raja_Archaeological_Museum> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Poolacode> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Portuguese_Army> ns1:notableCommander <http://dbpedia.org/resource/Afonso_de_Albuquerque> .
+
+<http://dbpedia.org/resource/Portuguese_conquest_of_Goa> ns1:commander <http://dbpedia.org/resource/Afonso_de_Albuquerque> .
+
+<http://dbpedia.org/resource/Pottassery-I> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Prabodhanam> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Prajin> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Pratheeksha_(special_school)> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Praveen_Prabhakar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Prem_Nawas> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Puthuppadi> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Pêro_Vaz_de_Caminha> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/R._Ramachandran> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Radio_Mango_91.9> ns1:broadcastArea <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ranjith_(director)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Raroth> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Rasheed_Ummer> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Raveendra_Geethangal> ns1:recordedIn <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Ravi_Varma_of_Padinjare_Kovilakam> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Reghu_Kumar> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Reji_Nair> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/S._K._Pottekkatt> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/S._M._Street> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sabu_Cyril> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sacred_Heart_Forane_Church,_Thiruvambady> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sajitha_Madathil> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Samastha_Kerala_Sunni_Students_Federation> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sandeep_Pampally> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sandeep_Unnikrishnan> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Santha_Devi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Santhosh_Pandit> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sasi_Kalinga> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Algeciras> dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Shaalin_Zoya> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Shahinlal_Meloly> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Shajoon_Kariyal> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Shalom_TV_India> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sija_Rose> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Siraj_Daily> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sithara_(singer)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Solidarity_Youth_Movement> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sreelakshmi_Suresh> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Sreeram_Ramachandran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Srinath_Rajendran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/St._Joseph's_Boys'_Higher_Secondary_School> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/St._Sebastian's_School,_Koodaranji> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/State_Highway_28_(Kerala)> ns1:routeStart <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/State_Highway_54_(Kerala)> ns1:routeStart <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Steven_Hoffman_(footballer)> ns1:team <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Sunil_(director)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Suprabhaatham> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Surabhi_Lakshmi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/T._A._Shahid> ns1:residence <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/T._Damodaran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/T._V._Kochubava> ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Tathva> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Technology_Business_Incubator_TBI-NITC> ns1:city <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Thangam_Philip> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Thazhecode> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/The_Cradle_Hospital_Calicut> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Thejas> ns1:headquarter <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Thinoor> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/U._K._Kumaran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/V._Balakrishna_Eradi> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/V._K._Krishna_Menon> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/V._M._Vinu> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Valayam> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Valiyaveetil_Diju> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Veeran> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Velom> ns1:isPartOf <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Verghese_Kurien> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Vijayan_(actor)> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Vimcy> ns1:birthPlace <http://dbpedia.org/resource/Kozhikode> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kozhikode> .
+
+<http://dbpedia.org/resource/Zamorin's_Guruvayurappan_College> ns1:location <http://dbpedia.org/resource/Kozhikode> .
+
+dc:description a rdf:Property .
+
+dc:rights a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+ns3:point a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+rdfs:seeAlso a rdf:Property .
+
+ns2:lat a rdf:Property .
+
+ns2:long a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+foaf:givenName a rdf:Property .
+
+foaf:homepage a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:nick a rdf:Property .
+
+foaf:surname a rdf:Property .
+
+foaf:thumbnail a rdf:Property .
+
+<http://dbpedia.org/resource/Battle_of_Cape_Rachado> ns1:commander <http://dbpedia.org/resource/Martim_Afonso_de_Castro> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+
+<http://dbpedia.org/resource/Constantino_of_Braganza> a <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/ColonialHeadsOfCapeVerde>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Head110162991>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Constantino of Braganza"@en ;
+    ns1:birthDate "1528"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:birthYear "1528"^^xsd:gYear ;
+    ns1:deathDate "1575-07-15"^^xsd:date,
+        "1575"^^xsd:gYear ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:deathYear "1575"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/Dom_(title)>,
+        <http://dbpedia.org/resource/Sebastian_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Captain of Ribeira Grande",
+        "Viceroy of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Dom_(title)> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Constantino_of_Braganza__1>,
+        <http://dbpedia.org/resource/Constantino_of_Braganza__2> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/ConstantinoBraganca.jpg?width=300> ;
+    dc:description "Portuguese noble",
+        "Portuguese noble"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1528_births>,
+        <http://dbpedia.org/resource/Category:1575_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Colonial_heads_of_Cape_Verde>,
+        <http://dbpedia.org/resource/Category:House_of_Braganza>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/ConstantinoBraganca.jpg> ;
+    foaf:name "Constantino Of Braganza"@en,
+        "Constantino de Bragança"@en .
+
+<http://dbpedia.org/resource/Diogo_de_Melo_Coutinho> ns1:successor <http://dbpedia.org/resource/António_de_Noronha> .
+
+<http://dbpedia.org/resource/Duarte_de_Menezes> a <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Duarte de Menezes"@en ;
+    ns1:battle <http://dbpedia.org/resource/Moroccan–Portuguese_conflicts> ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:child <http://dbpedia.org/resource/João_de_Meneses,_1st_Count_of_Tarouca> ;
+    ns1:country <http://dbpedia.org/resource/Portuguese_Empire> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:monarch <http://dbpedia.org/resource/John_III_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Governor of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira> ;
+    ns1:successor <http://dbpedia.org/resource/Vasco_da_Gama> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Duarte_de_Menezes__1> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/D._Duarte_de_Meneses_4°_governador_da_Índia.JPG?width=300> ;
+    dc:description "Portuguese noble",
+        "Portuguese noble"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:15th-century_births>,
+        <http://dbpedia.org/resource/Category:16th-century_deaths>,
+        <http://dbpedia.org/resource/Category:Governors_of_Tangier>,
+        <http://dbpedia.org/resource/Category:History_of_Kerala>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_nobility>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/D._Duarte_de_Meneses_4°_governador_da_Índia.JPG> ;
+    foaf:givenName "Duarte De"@en ;
+    foaf:name "Duarte De Menezes"@en,
+        "Duarte de Menezes"@en,
+        "Menezes, Duarte De"@en ;
+    foaf:surname "Menezes"@en .
+
+<http://dbpedia.org/resource/Dutch–Portuguese_War> ns1:commander <http://dbpedia.org/resource/Martim_Afonso_de_Castro> .
+
+<http://dbpedia.org/resource/Estêvão_da_Gama_(15th_century)> ns1:knownFor <http://dbpedia.org/resource/Vasco_da_Gama> .
+
+<http://dbpedia.org/resource/Fernando_de_Albuquerque> ns1:predecessor <http://dbpedia.org/resource/António_de_Noronha> .
+
+<http://dbpedia.org/resource/Francisco_Barreto> a <http://dbpedia.org/class/yago/16th-centuryExplorers>,
+        <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/Absentee109757653>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/ColonialPeopleInMozambique>,
+        <http://dbpedia.org/class/yago/EnlistedPerson110058777>,
+        <http://dbpedia.org/class/yago/Exile110071332>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAfrica>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromFaro,Portugal>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExpatriatesInMozambique>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/PortugueseSoldiers>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Soldier110622053>,
+        <http://dbpedia.org/class/yago/Traveler109629752>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Francisco Barreto"@en ;
+    ns1:birthDate "1520"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Faro,_Portugal>,
+        <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:birthYear "1520"^^xsd:gYear ;
+    ns1:deathDate "1573-07-09"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Portuguese_Mozambique> ;
+    ns1:deathYear "1573"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/John_III_of_Portugal>,
+        <http://dbpedia.org/resource/Sebastian_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Governor of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Pedro_Mascarenhas> ;
+    ns1:successor <http://dbpedia.org/resource/Constantino_of_Braganza> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Francisco_Barreto__1> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_Barreto,_governador.jpg?width=300> ;
+    dc:description "Portuguese colonial governor",
+        "Portuguese colonial governor"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1520_births>,
+        <http://dbpedia.org/resource/Category:1573_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_explorers>,
+        <http://dbpedia.org/resource/Category:Colonial_people_in_Mozambique>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Africa>,
+        <http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_Mozambique>,
+        <http://dbpedia.org/resource/Category:People_from_Faro,_Portugal>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_expatriates_in_Mozambique>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Portuguese_soldiers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_Barreto,_governador.jpg> ;
+    foaf:givenName "Francisco"@en ;
+    foaf:name "Barreto, Francisco"@en,
+        "Francisco Barreto"@en ;
+    foaf:surname "Barreto"@en .
+
+<http://dbpedia.org/resource/Francisco_de_Meneses> ns1:predecessor <http://dbpedia.org/resource/Jerónimo_de_Azevedo> .
+
+<http://dbpedia.org/resource/Martim_Afonso_de_Sousa> ns1:successor <http://dbpedia.org/resource/João_de_Castro> .
+
+<http://dbpedia.org/resource/Pedro_Lopes_de_Sousa> ns1:successor <http://dbpedia.org/resource/Jerónimo_de_Azevedo> .
+
+<http://dbpedia.org/resource/Pedro_Mascarenhas> a <http://dbpedia.org/class/yago/16th-centuryExplorers>,
+        <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Pedro Mascarenhas"@en ;
+    ns1:birthDate "1470"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Mértola> ;
+    ns1:birthYear "1470"^^xsd:gYear ;
+    ns1:deathDate "1555-06-16"^^xsd:date,
+        "1555-06-23"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Goa>,
+        <http://dbpedia.org/resource/Portuguese_India> ;
+    ns1:deathYear "1555"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/John_III_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Captain-majorofPortuguese Malacca",
+        "Viceroy of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Afonso_de_Noronha> ;
+    ns1:successor <http://dbpedia.org/resource/Francisco_Barreto> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Pedro_Mascarenhas__1>,
+        <http://dbpedia.org/resource/Pedro_Mascarenhas__2> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/D._Pedro_Mascarenhas.jpg?width=300> ;
+    dc:description "Portuguese explorer and colonial administrator",
+        "Portuguese explorer and colonial administrator"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1470_births>,
+        <http://dbpedia.org/resource/Category:1555_deaths>,
+        <http://dbpedia.org/resource/Category:15th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_explorers>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/D._Pedro_Mascarenhas.jpg> ;
+    foaf:givenName "Pedro"@en ;
+    foaf:name "Mascarenhas, Pedro"@en,
+        "Pedro Mascarenhas"@en ;
+    foaf:surname "Mascarenhas"@en .
+
+<http://dbpedia.org/resource/Second_Siege_of_Diu> ns1:commander <http://dbpedia.org/resource/João_de_Castro> .
+
+<http://dbpedia.org/resource/Siege_of_Malacca_(1606)> ns1:commander <http://dbpedia.org/resource/Martim_Afonso_de_Castro> .
+
+<http://dbpedia.org/resource/Zamorin_of_Calicut> ns1:capital <http://dbpedia.org/resource/Kozhikode> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+
+<http://dbpedia.org/resource/António_de_Noronha> a <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "António de Noronha"@en ;
+    ns1:monarch <http://dbpedia.org/resource/Sebastian_of_Portugal> ;
+    ns1:office "12th Captain-major of Portuguese Ceylon",
+        "Viceroy of Portuguese India" ;
+    ns1:orderInOffice "25th" ;
+    ns1:predecessor <http://dbpedia.org/resource/Diogo_de_Melo_Coutinho>,
+        <http://dbpedia.org/resource/João_de_Mendonça> ;
+    ns1:successor <http://dbpedia.org/resource/Fernando_de_Albuquerque>,
+        <http://dbpedia.org/resource/Luís_de_Ataíde> ;
+    ns1:termPeriod <http://dbpedia.org/resource/António_de_Noronha__1>,
+        <http://dbpedia.org/resource/António_de_Noronha__2> ;
+    dc:description "Viceroy of Portuguese India",
+        "Viceroy of Portuguese India"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Captain-majors_of_Ceilão>,
+        <http://dbpedia.org/resource/Category:Christianity_in_Karnataka>,
+        <http://dbpedia.org/resource/Category:History_of_Mangalore>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:givenName "Antonio"@en ;
+    foaf:name "Antonio Noronha"@en,
+        "António de Noronha"@en,
+        "Noronha, Antonio"@en ;
+    foaf:surname "Noronha"@en .
+
+<http://dbpedia.org/resource/João_de_Castro> a <http://dbpedia.org/class/yago/16th-centuryExplorers>,
+        <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Communicator109610660>,
+        <http://dbpedia.org/class/yago/EnlistedPerson110058777>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromLisbon>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/PortugueseRenaissanceWriters>,
+        <http://dbpedia.org/class/yago/PortugueseSoldiers>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Soldier110622053>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/Writer110794014>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "João de Castro"@en ;
+    ns1:battle <http://dbpedia.org/resource/Conquest_of_Tunis_(1535)>,
+        <http://dbpedia.org/resource/Ottoman–Portuguese_conflicts>,
+        <http://dbpedia.org/resource/Second_Siege_of_Diu> ;
+    ns1:birthDate "1500-02-07"^^xsd:date,
+        "1500-02-27"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:birthYear "1500"^^xsd:gYear ;
+    ns1:country <http://dbpedia.org/resource/Portuguese_Empire> ;
+    ns1:deathDate "1548-06-06"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Goa>,
+        <http://dbpedia.org/resource/Portuguese_India> ;
+    ns1:deathYear "1548"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/John_III_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Governor and Viceroy of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Martim_Afonso_de_Sousa> ;
+    ns1:successor <http://dbpedia.org/resource/Garcia_de_Sá> ;
+    ns1:termPeriod <http://dbpedia.org/resource/João_de_Castro__1> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Joao_de_Castro.jpg?width=300> ;
+    dc:description "Portuguese explorer",
+        "Portuguese explorer"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1500_births>,
+        <http://dbpedia.org/resource/Category:1548_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_explorers>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:People_from_Lisbon>,
+        <http://dbpedia.org/resource/Category:Portuguese_Renaissance_writers>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Portuguese_soldiers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India>,
+        <http://dbpedia.org/resource/Category:World_Digital_Library_related> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Joao_de_Castro.jpg> ;
+    foaf:givenName "Joao de"@en ;
+    foaf:name "Castro, Joao de"@en,
+        "Joao de Castro"@en,
+        "João de Castro"@en ;
+    foaf:surname "Castro"@en .
+
+<http://dbpedia.org/resource/Lopo_Soares_de_Albergaria> a <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/Admiral109771204>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541>,
+        <http://dbpedia.org/class/yago/CommissionedOfficer109942970>,
+        <http://dbpedia.org/class/yago/FlagOfficer110094584>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromLisbon>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseAdmirals>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Lopo Soares de Albergaria"@en ;
+    ns1:battle <http://dbpedia.org/resource/Ottoman–Portuguese_conflicts> ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:country <http://dbpedia.org/resource/Portuguese_Empire> ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Torres_Vedras> ;
+    ns1:militaryCommand "6th Portuguese India Armada" ;
+    ns1:monarch <http://dbpedia.org/resource/John_II_of_Portugal>,
+        <http://dbpedia.org/resource/Manuel_I_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Captain-majorofPortuguese Gold Coast",
+        "Governor of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Afonso_de_Albuquerque> ;
+    ns1:successor <http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Lopo_Soares_de_Albergaria__1>,
+        <http://dbpedia.org/resource/Lopo_Soares_de_Albergaria__2> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Lopo_Soares_de_Albergaria,_in_Livro_de_Lisuarte_de_Abreu.jpg?width=300> ;
+    dc:description "third Governor of Portuguese India",
+        "third Governor of Portuguese India"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1460s_births>,
+        <http://dbpedia.org/resource/Category:1515_in_India>,
+        <http://dbpedia.org/resource/Category:1518_in_India>,
+        <http://dbpedia.org/resource/Category:1520s_deaths>,
+        <http://dbpedia.org/resource/Category:15th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Captain-majors_of_Portuguese_Gold_Coast>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:People_from_Lisbon>,
+        <http://dbpedia.org/resource/Category:Portuguese_admirals>,
+        <http://dbpedia.org/resource/Category:Portuguese_in_Kerala>,
+        <http://dbpedia.org/resource/Category:Portuguese_nobility>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India>,
+        <http://dbpedia.org/resource/Category:Year_of_birth_uncertain>,
+        <http://dbpedia.org/resource/Category:Year_of_death_uncertain> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Lopo_Soares_de_Albergaria,_in_Livro_de_Lisuarte_de_Abreu.jpg> ;
+    foaf:givenName "Lopo Soares De"@en ;
+    foaf:name "Albergaria, Lopo Soares De"@en,
+        "Lopo Soares De Albergaria"@en,
+        "Lopo Soares de Albergaria"@en ;
+    foaf:surname "Albergaria"@en .
+
+<http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira> a <http://dbpedia.org/class/yago/16th-centuryExplorers>,
+        <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/Admiral109771204>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541>,
+        <http://dbpedia.org/class/yago/CommissionedOfficer109942970>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/FlagOfficer110094584>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseAdmirals>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Diogo Lopes de Sequeira"@en ;
+    ns1:birthDate "1465"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Alandroal>,
+        <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:birthYear "1465"^^xsd:gYear ;
+    ns1:deathDate "1530"^^xsd:gYear ;
+    ns1:deathPlace <http://dbpedia.org/resource/Alandroal>,
+        <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:deathYear "1530"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/John_III_of_Portugal>,
+        <http://dbpedia.org/resource/Manuel_I_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Captain-majorofPortuguese Gold Coast",
+        "Governor of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Lopo_Soares_de_Albergaria> ;
+    ns1:successor <http://dbpedia.org/resource/Duarte_de_Menezes> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira__1>,
+        <http://dbpedia.org/resource/Diogo_Lopes_de_Sequeira__2> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Lopes_de_Sequeira.jpg?width=300> ;
+    dc:description "Governor ofPortuguese India",
+        "Governor of Portuguese India"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1465_births>,
+        <http://dbpedia.org/resource/Category:1530_deaths>,
+        <http://dbpedia.org/resource/Category:15th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_explorers>,
+        <http://dbpedia.org/resource/Category:Captain-majors_of_Portuguese_Gold_Coast>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:History_of_Malacca>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:Portuguese_admirals>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Diogo_Lopes_de_Sequeira.jpg> ;
+    foaf:givenName "Diogo"@en ;
+    foaf:name "Diogo Lopes De Sequeira"@en,
+        "Diogo Lopes de Sequeira"@en,
+        "Lopes De Sequeira, Diogo"@en ;
+    foaf:surname "Lopes De Sequeira"@en .
+
+<http://dbpedia.org/resource/Jerónimo_de_Azevedo> a <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/Aristocrat109807754>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Knight110238375>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MaleAristocrat110285135>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseKnights>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Jerónimo de Azevedo"@en ;
+    ns1:birthDate "1540"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:birthYear "1540"^^xsd:gYear ;
+    ns1:deathDate "1625"^^xsd:gYear ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:deathYear "1625"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/Philip_III_of_Spain>,
+        <http://dbpedia.org/resource/Philip_II_of_Spain> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Governor of Portuguese Ceylon",
+        "Viceroy of Portuguese India" ;
+    ns1:orderInOffice "2nd" ;
+    ns1:predecessor <http://dbpedia.org/resource/Pedro_Lopes_de_Sousa>,
+        <http://dbpedia.org/resource/Rui_Lourenço_de_Távora> ;
+    ns1:successor <http://dbpedia.org/resource/Francisco_de_Meneses>,
+        <http://dbpedia.org/resource/João_Coutinho> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Jerónimo_de_Azevedo__1>,
+        <http://dbpedia.org/resource/Jerónimo_de_Azevedo__2> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/P1170551_D._Jerónimo_de_Azevedo.JPG?width=300> ;
+    dc:description "Colonial governor of Ceylon",
+        "Colonial governor of Ceylon"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1540_births>,
+        <http://dbpedia.org/resource/Category:1625_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:17th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Governors_of_Portuguese_Ceylon>,
+        <http://dbpedia.org/resource/Category:Portuguese_knights>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/P1170551_D._Jerónimo_de_Azevedo.JPG> ;
+    foaf:givenName "Jeronimo"@en ;
+    foaf:name "De Azevedo, Jeronimo"@en,
+        "Jeronimo De Azevedo"@en,
+        "Jerónimo de Azevedo"@en ;
+    foaf:surname "De Azevedo"@en .
+
+<http://dbpedia.org/resource/Francisco_de_Almeida> a <http://dbpedia.org/class/yago/16th-centuryExplorers>,
+        <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/EnlistedPerson110058777>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromLisbon>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/PortugueseSoldiers>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Soldier110622053>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Francisco de Almeida"@en ;
+    ns1:birthName "Francisco de Almeida"@en ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:birthYear "1450"^^xsd:gYear ;
+    ns1:deathDate "1510"^^xsd:gYear ;
+    ns1:deathPlace <http://dbpedia.org/resource/Cape_of_Good_Hope>,
+        <http://dbpedia.org/resource/Table_Bay> ;
+    ns1:deathYear "1510"^^xsd:gYear ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:occupation <http://dbpedia.org/resource/Exploration>,
+        <http://dbpedia.org/resource/Francisco_de_Almeida__1>,
+        <http://dbpedia.org/resource/List_of_governors_of_Portuguese_India> ;
+    ns1:stateOfOrigin <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Almeida.jpg?width=300> ;
+    dc:description "Portuguese nobleman and soldier",
+        "Portuguese nobleman and soldier"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1450s_births>,
+        <http://dbpedia.org/resource/Category:1510_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:16th-century_explorers>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:People_from_Lisbon>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Portuguese_in_Kerala>,
+        <http://dbpedia.org/resource/Category:Portuguese_military_personnel_killed_in_action>,
+        <http://dbpedia.org/resource/Category:Portuguese_soldiers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Almeida.jpg> ;
+    foaf:givenName "Francisco De"@en ;
+    foaf:name "Almeida, Francisco De"@en,
+        "Francisco De Almeida"@en,
+        "Francisco de Almeida"@en ;
+    foaf:surname "Almeida"@en .
+
+<http://dbpedia.org/resource/Martim_Afonso_de_Castro> a <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleOfTheDutch%E2%80%93PortugueseWar>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseMilitaryOfficers>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:OfficeHolder,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Martim Afonso de Castro"@en ;
+    ns1:battle <http://dbpedia.org/resource/Battle_of_Cape_Rachado>,
+        <http://dbpedia.org/resource/Dutch–Portuguese_War>,
+        <http://dbpedia.org/resource/Siege_of_Malacca_(1606)> ;
+    ns1:birthDate "1560"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal> ;
+    ns1:birthYear "1560"^^xsd:gYear ;
+    ns1:country <http://dbpedia.org/resource/Portuguese_Empire> ;
+    ns1:deathDate "1607-06-03"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Malacca>,
+        <http://dbpedia.org/resource/Portuguese_Malacca> ;
+    ns1:deathYear "1607"^^xsd:gYear ;
+    ns1:monarch <http://dbpedia.org/resource/Sebastian_of_Portugal> ;
+    ns1:nationality <http://dbpedia.org/resource/Portuguese_people> ;
+    ns1:office "Viceroy of Portuguese India" ;
+    ns1:predecessor <http://dbpedia.org/resource/Aires_de_Saldanha> ;
+    ns1:successor <http://dbpedia.org/resource/Aleixo_de_Menezes> ;
+    ns1:termPeriod <http://dbpedia.org/resource/Martim_Afonso_de_Castro__1> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Martim_Afonso_de_Castro++.jpg?width=300> ;
+    dc:description "Portuguese colonial administrator",
+        "Portuguese colonial administrator"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1560_births>,
+        <http://dbpedia.org/resource/Category:1607_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:17th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:History_of_Goa>,
+        <http://dbpedia.org/resource/Category:People_of_the_Dutch–Portuguese_War>,
+        <http://dbpedia.org/resource/Category:Portuguese_military_officers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Martim_Afonso_de_Castro++.jpg> ;
+    foaf:givenName "Martim Afonso De"@en ;
+    foaf:name "Castro, Martim Afonso De"@en,
+        "Martim Afonso De Castro"@en,
+        "Martim Afonso de Castro"@en ;
+    foaf:surname "Castro"@en .
+
+<http://dbpedia.org/resource/Afonso_de_Albuquerque> a <http://dbpedia.org/class/yago/16th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/Admiral109771204>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239>,
+        <http://dbpedia.org/class/yago/CommissionedNavalOfficer109943541>,
+        <http://dbpedia.org/class/yago/CommissionedOfficer109942970>,
+        <http://dbpedia.org/class/yago/Communicator109610660>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/FlagOfficer110094584>,
+        <http://dbpedia.org/class/yago/General110123844>,
+        <http://dbpedia.org/class/yago/GeneralOfficer110125786>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromLisbon>,
+        <http://dbpedia.org/class/yago/PeopleFromVilaFrancaDeXiraMunicipality>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseAdmirals>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/PortugueseGenerals>,
+        <http://dbpedia.org/class/yago/PortugueseRenaissanceWriters>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/Writer110794014>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Noble,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Afonso de Albuquerque"@en ;
+    ns1:activeYearsEndYear "1515"^^xsd:gYear ;
+    ns1:activeYearsStartYear "1515"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Vila_Franca_de_Xira> ;
+    ns1:deathDate "1515-12-16"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Goa>,
+        <http://dbpedia.org/resource/Portuguese_India> ;
+    ns1:occupation <http://dbpedia.org/resource/Duke_of_Goa>,
+        <http://dbpedia.org/resource/List_of_governors_of_Portuguese_India> ;
+    ns1:placeOfBurial <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Lisbon> ;
+    ns1:successor <http://dbpedia.org/resource/Brás_de_Albuquerque> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Afonso_de_Albuquerque.jpg?width=300> ;
+    ns1:title "Governor and Captain-General of the Seas of India, Viceroy of India, First Duke of Goa"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1453_births>,
+        <http://dbpedia.org/resource/Category:1515_deaths>,
+        <http://dbpedia.org/resource/Category:16th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:People_from_Vila_Franca_de_Xira_Municipality>,
+        <http://dbpedia.org/resource/Category:Portuguese_Renaissance_writers>,
+        <http://dbpedia.org/resource/Category:Portuguese_admirals>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Portuguese_generals>,
+        <http://dbpedia.org/resource/Category:Portuguese_in_Kerala>,
+        <http://dbpedia.org/resource/Category:Shipwreck_survivors>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Afonso_de_Albuquerque.jpg> ;
+    foaf:name "Afonso de Albuquerque"@en .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Flag_Portugal_(1495).svg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Flag_Portugal_(1495).svg> .
+
+<http://dbpedia.org/resource/Vasco_da_Gama> a <http://dbpedia.org/class/yago/15th-centuryPortuguesePeople>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Explorer110072708>,
+        <http://dbpedia.org/class/yago/ExplorersOfAfrica>,
+        <http://dbpedia.org/class/yago/ExplorersOfAsia>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/PortugueseColonialGovernorsAndAdministrators>,
+        <http://dbpedia.org/class/yago/PortugueseExplorers>,
+        <http://dbpedia.org/class/yago/Viceroy110751785>,
+        <http://dbpedia.org/class/yago/ViceroysOfPortugueseIndia>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:Person,
+        ns1:Royalty,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Vasco da Gama"@en ;
+    ns1:activeYearsStartYear "1519"^^xsd:gYear ;
+    ns1:birthDate "1469"^^xsd:gYear ;
+    ns1:birthPlace <http://dbpedia.org/resource/Alentejo>,
+        <http://dbpedia.org/resource/Kingdom_of_Portugal>,
+        <http://dbpedia.org/resource/Sines>,
+        <http://dbpedia.org/resource/Vidigueira> ;
+    ns1:birthYear "1469"^^xsd:gYear ;
+    ns1:deathDate "1524-12-23"^^xsd:date,
+        "1524-12-24"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Kochi>,
+        <http://dbpedia.org/resource/Portuguese_India> ;
+    ns1:deathYear "1524"^^xsd:gYear ;
+    ns1:occupation <http://dbpedia.org/resource/List_of_governors_of_Portuguese_India> ;
+    ns1:parent <http://dbpedia.org/resource/Estêvão_da_Gama_(15th_century)> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Vasco_da_Gama.png?width=300> ;
+    ns1:title "Admiral of the Seas of Arabia, Persia, India and all the Orients ([[#Titles, styles, and honours"@en ;
+    dc:description "Portuguese explorer",
+        "Portuguese explorer"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1460s_births>,
+        <http://dbpedia.org/resource/Category:1524_deaths>,
+        <http://dbpedia.org/resource/Category:15th-century_Portuguese_people>,
+        <http://dbpedia.org/resource/Category:15th-century_Roman_Catholics>,
+        <http://dbpedia.org/resource/Category:Age_of_Discovery>,
+        <http://dbpedia.org/resource/Category:Colonial_Kerala>,
+        <http://dbpedia.org/resource/Category:Da_Gama_family>,
+        <http://dbpedia.org/resource/Category:Deaths_from_malaria>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Africa>,
+        <http://dbpedia.org/resource/Category:Explorers_of_Asia>,
+        <http://dbpedia.org/resource/Category:Explorers_of_India>,
+        <http://dbpedia.org/resource/Category:History_of_Goa>,
+        <http://dbpedia.org/resource/Category:Infectious_disease_deaths_in_India>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_Portugal>,
+        <http://dbpedia.org/resource/Category:Maritime_history_of_South_Africa>,
+        <http://dbpedia.org/resource/Category:Portuguese_Roman_Catholics>,
+        <http://dbpedia.org/resource/Category:Portuguese_colonial_governors_and_administrators>,
+        <http://dbpedia.org/resource/Category:Portuguese_explorers>,
+        <http://dbpedia.org/resource/Category:Viceroys_of_Portuguese_India> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Vasco_da_Gama.png> ;
+    foaf:givenName "Vasco"@en ;
+    foaf:name "Vasco da Gama"@en,
+        "da Gama, Vasco"@en ;
+    foaf:surname "da Gama"@en .
+
+<http://dbpedia.org/resource/Kozhikode> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/CitiesAndTownsInKozhikodeDistrict>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/PopulatedCoastalPlacesInIndia>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Site108651247>,
+        <http://dbpedia.org/class/yago/Tract108673395>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Kozhikode"@en ;
+    ns1:areaCode "91 (0)495" ;
+    ns1:areaTotal 1.28e+08 ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:elevation 1e+00 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Kerala>,
+        <http://dbpedia.org/resource/Kozhikode_district> ;
+    ns1:leaderTitle "City Police Commissioner"@en,
+        "Collector"@en,
+        "Mayor"@en,
+        "Member of Parliament"@en ;
+    ns1:populationMetro "2030519"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "673 0xx" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Mananchira,Calicut.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Metropolis> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Articles_containing_Malayalam-language_text>,
+        <http://dbpedia.org/resource/Category:Articles_containing_non-English-language_text>,
+        <http://dbpedia.org/resource/Category:Kozhikode>,
+        <http://dbpedia.org/resource/Category:Kozhikode_district> ;
+    ns3:point "11.25 75.77" ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Education>,
+        <http://dbpedia.org/resource/Kerala>,
+        <http://dbpedia.org/resource/Zamorin_of_Calicut> ;
+    ns2:lat "11.25"^^xsd:float ;
+    ns2:long "75.77"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Mananchira,Calicut.jpg> ;
+    foaf:homepage <http://kozhikode.nic.in/>,
+        <http://www.kozhikode.nic.in/> ;
+    foaf:name "Kozhikode / Calicut"@en,
+        "കോഴിക്കോട്"@en ;
+    foaf:nick "City of Spices, City of Sculptures, City of Truth"@en,
+        "thumb|Mananchira, Kozhikode"@en,
+        "thumb|View of Kappad beach"@en .
+

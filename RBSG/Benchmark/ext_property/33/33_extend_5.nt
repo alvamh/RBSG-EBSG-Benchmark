@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/conservationStatus>
+
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Cebu_warty_pig> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities> .

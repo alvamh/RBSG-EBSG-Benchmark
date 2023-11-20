@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/Bird>
+
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Tockus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/Hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bird> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Hornbill> .

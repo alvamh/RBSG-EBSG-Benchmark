@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Johnny_Douglas_(conductor)>
+
+<http://dbpedia.org/resource/Johnny_Douglas_(conductor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/EnglishFilmScoreComposers> .
+<http://dbpedia.org/resource/Johnny_Douglas_(conductor)> <http://dbpedia.org/ontology/birthDate> "1920-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Johnny_Douglas_(conductor)> <http://dbpedia.org/ontology/deathDate> "2003-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/The_Railway_Children_(1970_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Johnny_Douglas_(conductor)> .
+<http://dbpedia.org/resource/Victim_Five> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Johnny_Douglas_(conductor)> .
+
+#original summary 5_0 and 5_3 (they are the same summary)
+
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Lance_Comfort> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/William_Lucas_(actor)> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Johnny_Douglas_(conductor)> .

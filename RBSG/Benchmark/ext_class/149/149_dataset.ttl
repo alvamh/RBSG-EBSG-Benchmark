@@ -1,0 +1,2766 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/18th_U-boat_Flotilla> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/1936–39_Arab_revolt_in_Palestine> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/1940–44_insurgency_in_Chechnya> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/2001–02_India–Pakistan_standoff> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/2008_Indo-Pakistani_standoff> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/2011_military_intervention_in_Libya> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/2nd_Spanish_Armada> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/8th_Coastal_Defence_Flotilla> ns1:patron <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Abbey_River,_Limerick> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Abrolhos_Archipelago> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Absecon_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Achill_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Achillbeg> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Acklins> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_in_Tarafal_Bay> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_10_April_1795> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_10_March_1917> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_10_November_1944> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_13_May_1942> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_13_May_1944> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_13_November_1943> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_14_February_1944> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_14_October_1918> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_14_September_1779> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_15_October_1917> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_16_January_1916> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_16_October_1799> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_17_July_1761> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_17_July_1944> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_17_November_1917> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_18_June_1918> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_20_November_1779> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_21_May_1918> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_21_October_1794> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_23_April_1945> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_24_July_1945> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_24_October_1793> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_26_April_1944> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_27_February_1941> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_27_March_1942> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_28_January_1945> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_29_April_1758> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_30_June_1798> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_31_July_1793> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_4_April_1918> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_4_April_1941> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_5_September_1918> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_6_June_1942> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_6_November_1794> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_6_October_1944> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_of_7_May_1794> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_of_8_May_1941> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Action_off_Lerwick> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Action_off_Lofoten> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Actions_of_5–6_May_1945> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Adalbert_Schneider> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Admiralty_Islands_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Adour> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Afghanistan–Pakistan_skirmishes> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/African_Slave_Trade_Patrol> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Air_battle_over_Niš> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Aitape–Wewak_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Ajuda_da_Bretanha> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Al_Moore> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alan_Goodrich_Kirk> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Albanian_resistance_during_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Albert_Jewell> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alcantarilha_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alex_Chola> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alex_M._Diachenko> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alexander_D._Goode> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alfred_Gwynne_Vanderbilt_I> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alfred_Wolf> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Algibre_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Algoz_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alibey_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alice_Moore_Hubbard> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Aljezur_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Allied_advance_from_Paris_to_the_Rhine> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Allied_siege_of_La_Rochelle> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Allison_family> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Altamaha_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Alte_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Altmark_Incident> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Amazon_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/American_Civil_War> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/American_Revolutionary_War> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/American_Theater_(World_War_II)> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ammassalik_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anastasios_Tsamados> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Andrea_Doria> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Anglo-French_War_(1778–83)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anglo-Spanish_War_(1585–1604)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anglo-Spanish_War_(1625–30)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anglo-Spanish_War_(1779–83)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anglo-Spanish_War_(1796–1808)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Angústias> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ankobra_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anllóns> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Anton_Bourguignon_von_Baumberg> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Apusiaajik_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Arade_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Archibald_Bisset_Smith> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Arctic_convoys_of_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Ardoileán> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Arthur_Irwin> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Assateague_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Atlantic_Beach,_North_Carolina> owl:differentFrom <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Atlantic_Bridge,_Panama> ns1:crosses <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Atlantic_Container_Line> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Atlantic_Transport_Line> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Attack_on_Aruba> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Attack_on_Broome> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Attack_on_Convoy_BN_7> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Attack_on_Orleans> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Attack_on_Yokosuka> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Augusto_Hamann_Rademaker_Grünewald> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Augustus_Aikhomu> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Aulne> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Aven_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Avia_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ayensu_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/BX_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Bahia_incident> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ballinakill,_County_Galway> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bandeiras_(Madalena)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Banff-class_sloop> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Bannec> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Baralong_incidents> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Barbate_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bas_Jan_Ader> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Basil_W._Maturin> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bataan_Death_March> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Batangas__Battle_of_Batangas__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_between_HMAS_Sydney_and_German_auxiliary_cruiser_Kormoran> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_for_Castle_Itter> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_for_Cebu_City> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_for_Narva_Bridgehead> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_for_the_Kapelsche_Veer> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_42nd_Street> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Aachen> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Ambon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Angaur> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Arawe> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Arras_(1940)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Auvere> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bacsil_Ridge> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Badung_Strait> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Baguio_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Balikpapan_(1942)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bataan> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bataan_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bautzen_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bayona_Islands_(1590)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_Beda_Fomm> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Borneo_(1941–42)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Bowmanville> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Britain> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Cape_Finisterre_(1761)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_Cape_Gloucester> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Ceber> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Central_Henan> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Chambois> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Changde> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Changsha_(1944)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Corregidor> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Corregidor_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Crater_Hill> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Crucifix_Hill> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Dakar> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Davao> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Delaware_Bay> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_Dražgoše> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Dunkirk> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Elsenborn_Ridge> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Eniwetok> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Fayal> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_Finschhafen> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Flores_(1592)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_Fort_Eben-Emael> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Gabon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Goodenough_Island> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Graveney_Marsh> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Grengam> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Battle_of_Guilin–Liuzhou> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Gurun> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Halbe> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Hannut> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Heartbreak_Crossroads> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Heilbronn_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Heraklion> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Hürtgen_Forest> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Iwo_Jima> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Java_(1942)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Jaworów> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Jitra> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kaiapit> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kampar> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kankiryo_Saddle> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Karavia_Bay> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kassel_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kesternich> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kuala_Lumpur> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Kwajalein> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Labuan> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Livno> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Lone_Tree_Hill> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Luzon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Makassar_Strait> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Makin> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Manila_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Metz> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Mindanao> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Montcornet> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Morotai> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Murowana_Oszmianka> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Mutanchiang> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Nancy_(1944)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Nikolayevka> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Noemfoor> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Okinawa> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Overloon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Palembang> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Peleliu> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Pierres_Noires> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Piotrków_Trybunalski> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Podu_Iloaiei> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Point_Judith> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Porkuni> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Port_Moresby> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Păuliș> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Rabaul_(1942)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Remagen> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Rethymno> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Sagami_Bay> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Saipan> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Sansapor> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Schoenfeld> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Shumshu> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Slim_River> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Slivice> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Sunda_Strait> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Tarawa> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_The_Pimple> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Tinian> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Troina> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Turda> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Ushant_(1944)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Vevi_(1941)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Vianden> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Voronezh_(1942)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Voronezh_(1943)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Wakde> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Westerplatte> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Wide_Bay> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Władypol> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Yunnan-Burma_Road> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Afsluitdijk> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Atlantic> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Battle_of_the_Barents_Sea> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Bay_of_Biscay> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_the_Bay_of_Biscay_(1592)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_the_Bismarck_Sea> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Bulge> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Bzura> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Chesapeake> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_the_Denmark_Strait> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Falkland_Islands> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_the_Java_Sea> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Komandorski_Islands> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_North_Cape> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_River_Plate> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battle_of_the_Scheldt> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Transdanubian_Hills> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Visayas> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_the_Ypres-Comines_Canal> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_of_Łomża_(1939)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Battle_off_Barbados> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Battles_of_Narvik> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Batumi_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Baudoin_Liwanga> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Bay_of_Angra> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bay_of_Arabat> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bay_of_Gibraltar> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bay_of_Refugo> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bay_of_Salga> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Baía_de_Todos_os_Santos> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Beginish_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Beiginis> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Benito_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Benjamin_Briggs> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Benoît_Lecomte> ns1:knownFor <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Berezan_Estuary> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Berg_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bia_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Big_Week> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bill_Tilman> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Biscayne_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bjarnarey> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bjørn_Helland-Hansen> ns1:knownFor <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Black_Friday_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Black_May_(1943)> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Blame_Canada> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Blavet> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Blockade_of_Africa> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Blockade_of_Germany> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bo_Rein> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Boa_Vista,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Boina_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bombardment_of_Cherbourg> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombardment_of_Ellwood> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombing_of_Toyokawa_in_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombing_of_Vienna_in_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombing_of_Wewak> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombing_of_Yawata_(June_1944)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bombing_of_the_Bezuidenhout> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Bootsmannsmaat> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Borneo_campaign_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Boudigau> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Boyle_River_(Ireland)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bras_d'Or_Lake> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Brava,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Budaki_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Budury_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Burnas_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Bushrod_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/C.D._Marinha_de_Guerra_(basketball)> ns1:president <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/CAM_ship> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/CU_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Cactus_Ridge> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Caher_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Camus_(musician)> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Candelária_(Madalena)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cape_Breton_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cape_Fear_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capelo> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capers_Island,_South_Carolina> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capibaribe_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_HMS_Dominica> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_HMS_Frolic> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_HMS_Savage> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_Recife_(1595)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_USS_Chesapeake> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_the_Brillante> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_the_Jeune_Richard> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Capture_of_the_Veloz_Passagera> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Carlisle_Bay,_Barbados> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Carolyn_Bessette-Kennedy> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Carvalho_Araújo> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Castelo_Branco_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cat_Stevens> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Caveira> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cedros_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Charente_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Charles_Drake> ns1:restingPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Charles_Frohman> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Charles_Klein> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Charles_Melville_Hays> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Chen_Yeong-kang> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Chesapeake_Bay> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/China_Burma_India_Theater> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Churchill_River_(Atlantic)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Clark_V._Poling> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Claudene_Christian> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cleggan_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Clew_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cobequid_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Cocos_Islands_mutiny> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Collanmore_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Colmar_Pocket> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Compostela,_Cebu__Battle_of_Guila-Guila__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Conceição_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Coney_Island,_County_Sligo> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Congo_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Constantine_Kanaris> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Convoy_Battles_of_World_War_II> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_FS_271> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_Faith> a ns1:MilitaryConflict ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_GP55> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Convoy_HG_73> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HG_76> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HG_84> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX-47> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_106> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_112> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_126> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_133> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_156> a ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Convoy HX 156"@en ;
+    ns1:combatant "25pxGermany",
+        "25pxUnited Kingdom" ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:date "1941-10-22"^^xsd:date ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/World_War_II> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:strength "16 escorts",
+        "52 merchant ships" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> ;
+    foaf:name "Convoy HX.156"@en .
+
+<http://dbpedia.org/resource/Convoy_HX_212> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_HX_228> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_231> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_237> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_300> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_65> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_72> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_79> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_84> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_HX_90> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_Hi-71> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Convoy_Hi-81> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Convoy_KMS_96G> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_LN-7> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_OA_178> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_OB_293> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_OB_318> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_OG_69> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_OG_71> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_OG_82> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_ONS_5> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_ONS_5_order_of_battle> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_113> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_ON_115> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_ON_122> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_127> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_144> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_153> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_ON_154> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_166> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_207> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_67> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_ON_92> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_PQ_17> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Convoy_QP_14> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_QS-15> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_QS-33> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_100> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_104> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_107> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_118> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_121> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_129> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_130> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_143> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_19> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_2> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_20> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_26> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_42> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_48> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SC_67> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_7> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SC_94> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_SL_138/MKS_28> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Convoy_SL_139/MKS_30> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Convoy_SL_140/MKS_31> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Convoy_SL_78> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_SQ-36> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_TAG_18> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_TAG_19> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_TAG_5> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_TM_1> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoy_TS_37> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Convoy_rescue_ship> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoys_HX_229/SC_122> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoys_HX_229/SC_122_order_of_battle> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoys_ONS_18/ON_202> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoys_ONS_20/ON_206> a ns1:MilitaryConflict ;
+    ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Convoys_SG-6/LN-6> a ns1:MilitaryConflict ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Corfu_incident> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Cornwallis's_Retreat> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Criação_Velha> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Croatian_Navy> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/David_Ernest_Hornell> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/De_Contas_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Deal_Lake> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Deenish_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Delaware_Route_26> ns1:routeEnd <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Demyansk_Pocket> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Dennis_J._Buckley,_Jr.> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Densu_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Desertas_Islands> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Dewees_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Diana's_Peak> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Dniester_Estuary> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Don_Allum> ns1:knownFor <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Dorinish> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Dudley_Ward_(judge)> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Dunkirk_evacuation> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Dzhantshey_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Eagle_Island,_County_Mayo> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/East_Falkland> ns1:country <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/East_Pomeranian_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Eastbourne_College> ns1:chairperson <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Easter_Sunday_Raid> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Eastern_Front_(World_War_II)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Eberhard_Bopst> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ed_Podolak> ns1:highschool <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ed_Porray> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Edith_Corse_Evans> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Edward_Fegen> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Edward_Hawke,_1st_Baron_Hawke> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Edward_Smith_(sea_captain)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Eino_Viljami_Panula> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/El_Hierro> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Elbert_Hubbard> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Eleuthera> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Elsie_Mackay> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/English_Channel> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Eric_Dill> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Erich_Bey> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Erich_Würdemann> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ernest_Martin_Jehan__Action_of_15_August_1915__1> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ernst_Lindemann> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Erwin_Rostin> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Espiche_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Estonian_Navy> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/European_theatre_of_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Exercise_Tiger> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Expansion_operations_and_planning_of_the_Axis_Powers> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/F-class_escort_ship> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Fajã_Grande> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fajãzinha> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Falacho_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fatma_Ceren_Necipoğlu> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fazenda_(Lajes_das_Flores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Felipe_de_Sotelo_Osorio> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Feodosia_Gulf> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ferdinand_Schiess> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fernando_de_Noronha> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Feteira_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fighter_catapult_ship> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Finisterre_Range_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/First_Battle_of_Târgu_Frumos> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/First_Bombardment_of_Midway> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/First_Jassy–Kishinev_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Flamengos> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Flores_Island_(Azores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Flower-class_corvette> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Fogo,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Food_Lion> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fora_Islet> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Forrest_O._Rednour> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Francis_Davis_Millet> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Francis_Janssens> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Franco-Spanish_War_(1635–59)> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Franco-Thai_War> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Frank_L._Dunbar> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Franne_Golde> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Frederick_Daniel_Parslow> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Frederick_Stark_Pearson> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/French_Navy> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:secondCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/French_submarine_Surcouf__Seizure_of_Surcouf__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Fritz-Julius_Lemp> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fritz_Fliegel> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Fuerteventura> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Full_Intention> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/G_and_H-class_destroyer> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Gameel_Al-Batouti> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gardiners_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Garonne> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gberefu_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/General_Government> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Geoffrey_Hornby> ns1:relation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Geography_of_Bermuda> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Geography_of_Greenland> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Georg_Wüst> ns1:knownFor <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/George_Adams_(musician)> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/George_Dunton_Widener> ns1:restingPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/George_L._Fox> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Georgian_uprising_on_Texel> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Gerhard_Bigalk> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/German_attacks_on_Nauru> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/German_submarine_U-486> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/German_submarine_V-80> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Giampaolo_Di_Paola> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Gianfranco_Gazzana-Priaroggia> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gilbert_and_Marshall_Islands_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Glashedy> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gola_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gonzalo_Méndez_de_Canço> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Gordon_Wallace_Scott> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gorumna> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gough_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gran_Canaria> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Grand_Bahama> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Granville_Raid> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Great_Blasket_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Great_Egg_Harbor_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Green_Mountain> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Green_River_(Northern_Cape)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Greenland_in_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Guadalquivir> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Guadalupe_(Santa_Cruz_da_Graciosa)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Guajataca_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Guanabara_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Burgas> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Kalamita> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Mexico> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Odessa> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Tendra> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Varna> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Gulf_of_Yalta> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Günther_Lütjens> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Günther_Müller-Stöckheim> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Günther_Seibicke> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/HMCS_Protector> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/HX_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Hal_Prewitt> ns1:award <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Halifax_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hans-Hartwig_Trojer> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hans-Heinrich_Döhler> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hans-Jürgen_Hellriegel> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hans_Buchholz> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hans_Dominik_(Schutztruppe)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Harro_Schacht> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Harry_Charles_Birnie> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Harry_Elkins_Widener> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Harry_Markland_Molson> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hasselwood_Rock> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hauptfeldwebel_(appointment)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Hauptfeldwebel_(rank)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Heinrich_Schonder> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Heinz-Otto_Schultze> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Heinz_Krey> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Helen's_Reef> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Henry_B._Harris> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Herbert_Schneider> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hercules_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hermann_Oelrichs> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hermann_Rentzsch> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Hofsá> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Horst_Höltring> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Horta,_Azores> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hryhorivsky_Estuary> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hudson_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Hugh_Lane> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Huon_Peninsula_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Ilha_Grande> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilha_da_Queimada_Grande> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_Grande> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_Laje_Branca> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_Rabo_de_Junco> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_de_Cima> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_de_Sal_Rei> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ilhéu_dos_Pássaros> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Illanmaster> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Imo_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inaccessible_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Indian_Navy> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Indian_Ocean_raid> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Indo-Pakistani_War_of_1971> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Inish_Turk_Beg> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishark> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishbiggle> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishbofin,_County_Donegal> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishbofin,_County_Galway> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishdooey> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inisheer> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishlyre> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishmaan> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishmore> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishmurray> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishnee> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishtooskert> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishturk> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Inishvickillane> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Invasion_of_Iceland> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Invasion_of_Lingayen_Gulf> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Invasion_of_Sumatra_(1942)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Invasion_of_the_Kuril_Islands> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Inácio_de_Azevedo> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Island_Eddy> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Islands_Voyage> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Isles_of_Shoals> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Itabapoana_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Italian_Civil_War> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Itamar_Franco> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Itamaracá__Island__1> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Itaparica_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ivory_Coast_Expedition> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Jack_Phillips_(wireless_officer)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Jacob_Pieter_van_Braam> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Jacques_Futrelle> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Jacques_l'Hermite> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Jalajala,_Rizal__Invasion_of_Jalajala__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/James_E._Kyes> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/James_Paul_Moody> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Japanese_air_attacks_on_the_Mariana_Islands> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Japanese_invasion_of_Malaya> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Joachim_Berger> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Joachim_Schepke> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Joey_McIntyre> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_F._Kennedy_Jr.> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_Gell_(Royal_Navy_officer)> ns1:knownFor <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/John_L._Gihon> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_Laforey> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_P._Washington> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_S._McCain_Jr.> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/John_W._Wilcox,_Jr.> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Johnston_Blakeley> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Joint_Chiefs_of_Staff_(Republic_of_Korea)> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:thirdCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Jonathan_Mann_(WHO_official)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Joseph_Philippe_Lemercier_Laroche> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/José_Baptista_Pinheiro_de_Azevedo> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Julius_Maus> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Justus_Miles_Forman> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Jólnir> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Jökulsárlón> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kantarō_Suzuki> ns1:militaryRank <http://dbpedia.org/resource/Admiral> ;
+    ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Kao_Kuang-chi> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Karachaus_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Karkinit_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Karl_Thurmann> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Keisuke_Okada> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Kemal_Kayacan> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Kennebec_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kenneth_Martin_Willett> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kerch_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Khadzhyder_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kholm_Pocket> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Killala_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Killary_Harbour> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Klaus_Ewerth> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kourou_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kristina_Cruises> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kulusuk_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Kurudiol_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/LaHave_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/La_Gomera> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/La_Palma> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lajedo_(Lajes_das_Flores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lajes_das_Flores_(parish)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lake_Shabla> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Landing_at_Jacquinot_Bay> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Landing_at_Nadzab> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Landing_at_Saidor> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Landing_on_Emirau> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Lanzarote> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lazaretto_Creek> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Laïta> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lee_Hsi-min> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Leon_Vance> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Leslie_Hamilton> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Liberation_of_Paris> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Liberation_of_Strasbourg> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Lin_Chen-yi> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Lisbon> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/List_of_Allied_convoy_codes_during_World_War_II> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/List_of_Allied_convoys_during_World_War_II_by_region> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/List_of_islands_of_the_Faroe_Islands> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/List_of_main_characters_of_seaQuest_DSV_season_2> ns1:relative <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Little_Belt_Affair> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Little_Skellig> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lloyd_W._Bertaud> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lobster_War> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Lofa_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Loire> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lomba_(Lajes_das_Flores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lomba_da_Maia> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/London_Nights_(song)> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Long_Cay> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Long_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Long_Island_(Hermitage_Bay,_Newfoundland)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lookout_Air_Raids> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Lothrop_Withington> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Luca_Leoni> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lucy_Beall_Candler_Owens_Heinz_Leide> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Luis_Carrero_Blanco> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Luz_(Santa_Cruz_da_Graciosa)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Lwów_Uprising> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/MV_San_Demetrio> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Madalena_(Azores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Madeira> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:region <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Madeira__Madeira__1> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Magdalen_Islands> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Magharee_Islands> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mahala_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Maia_(Ribeira_Grande)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Maio,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Malayan_Campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Malyi_Sasyk_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Manadas> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Maquis_des_Glières> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Marinduque__Battle_of_Marinduque__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Maritime_Security_Agency> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Martaza_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mary_Jemison> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mason_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Massachusetts_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Master-at-arms> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Matriz_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Max-Martin_Teichert> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mayoyao,_Ifugao__Battle_of_Mayoyao_Ridge__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Mediterranean_Sea> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mediterranean_and_Middle_East_theatre_of_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Medway_River_(Nova_Scotia)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mellacorée_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mercury_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Merrimack_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mersey_River_(Nova_Scotia)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Merton_B._Myers> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mid-Ocean_Escort_Force> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Minho_(river)> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mira_River_(Portugal)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mitsumasa_Yonai> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Molochnyi_Liman> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Morgan_Island,_South_Carolina> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Moriches_Bay> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Moses_O._Williamson> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mosteiro_(Lajes_das_Flores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Motagua_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mount_Adam,_Falkland_Islands> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mount_Desert_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mount_Maria> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mount_Usborne> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mundaú_Lagoon> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Musicians_of_the_RMS_Titanic> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mutton_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Mutton_Island,_County_Galway> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nampicuan,_Nueva_Ecija__Battle_of_Nampicuan__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Napoleonic_Wars> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nature_Park_of_Faial> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Naval_Battle_of_Casablanca> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Naval_operations_in_the_American_Revolutionary_War> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Naviera_Armas> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nejat_Tümer> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/New_Providence> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Newfoundland_(island)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nicholas_Biddle_(naval_officer)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nicolai_Clausen> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Niger_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Nightingale_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Noirmoutier_(island)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Norte_Grande_(Azores)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Norte_Pequeno> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/North_Rona> ns1:archipelago <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/North_Sea> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Northeast_Cape_Fear_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Norwegian_Campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Norwegian_heavy_water_sabotage> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/ON_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Oberstabsbootsmann> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Oceans_(TV_series)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Odelouca_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Odet> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Oil_Campaign_of_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Oileán_Ruaidh> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Olifants_River_(Western_Cape)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Oléron> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Omey_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Operation_Ambassador> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Anklet> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Archery> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Archway> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Arsenal> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Astonia> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Bamberg> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Basalt> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Biting> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Blackcock> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Bodenplatte> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Caesar> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Candytuft> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Carthage> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Cartoon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Chahar> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Chastise> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Chestnut> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Clipper> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Collar_(commando_raid)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Colossus> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Copper> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Cottbus> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Devon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Dexterity> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Doomsday> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Downfall> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Fischreiher> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Fish> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Forfar> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Frankton> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Fritham> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Gauntlet> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Goodwood_(naval)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Grenade> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Hailstone> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Hannover> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Hardtack_(commando_raid)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Harling> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Hornung> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Ichi-Go> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Jericho> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Koltso> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Krohcol> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Ladbroke> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Lumberjack> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Maple_(Italy)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Musketoon> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Ostra_Brama> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Plunder> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Python> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Python_(1943–44)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Queen> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Rah-e-Nijat> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Silver_Fox> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Source> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Spring_Awakening> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Tarbrush> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Teardrop> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Operation_Terminal> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Tiderace> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Trident_(1971)> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Tungsten> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Turkey_Buzzard> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Operation_Wellhit> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Winter_Storm> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Wotan> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Wunderland> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Operation_Zipper> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Operation_Zitronella> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Orange_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Order_of_battle_for_Convoy_SC_7> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Oregon_Maneuver> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Orinoco> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Oslo_Mosquito_raid> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Ostrogozhsk–Rossosh_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Owey_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/P-class_cruiser> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/PASKAL> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/PNS_Karsaz> ns1:patron <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Pacific_War> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Pakistan_Marines> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Pakistan_Maritime_Museum> ns1:patron <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Pakistan_Navy> ns1:commander <http://dbpedia.org/resource/Admiral> ;
+    ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Paraíba_do_Sul> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Parnaíba_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Patrick_Joseph_Walsh> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Paul-Hermann_Werner> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Peconic_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Pedro_Menéndez_de_Avilés> ns1:occupation <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Pedro_Miguel> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Pedro_Porter_Casanate> ns1:profession <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Pejibaye_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Penfeld> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Penn-ar-Bed_(company)> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Penobscot_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Peter_Corney> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Petsamo–Kirkenes_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Piedade_(Lajes_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Piscataqua_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Pitsunda_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Plum_Island_(New_York)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ponta_Delgada,_Santa_Cruz_das_Flores> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ponta_Delgada_(district)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Porto> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Porto_Santo_Island> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Prague_uprising> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Praia_(Santa_Cruz_da_Graciosa)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Praia_do_Norte> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Prainha_(São_Roque_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Presumpscot_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Princess_Anne_of_Löwenstein-Wertheim-Freudenberg> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Puerto_Rican_Campaign> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Puffin_Island_(County_Kerry)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Qeertartivatsiaq_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Quarteira_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/RAF_Coastal_Command_order_of_battle_during_World_War_II> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/RFA_Northmark> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Rabacca_Dry_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Race_to_Berlin> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Raid_on_Taipei> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Requiem_(London_Boys_song)> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_Grande_(stream)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_Seca_(Calheta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_da_Garça> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_da_Janela,_Cape_Verde> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_do_Calhau> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeira_do_Paul> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeiras> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeirinha_(Horta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ribeirinha_(Lajes_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rio_de_la_Plata_(Puerto_Rico)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/River-class_frigate> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/River_Annalee> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/River_Corrib> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/River_Inny,_Westmeath> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/River_Suck> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/River_Swilly> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rocas_Atoll> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rockall> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rokel_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rolf_Mützelburg> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Romanian_Armies_in_the_Battle_of_Stalingrad> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Romanian_Naval_Forces> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Rosais> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Rotten_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Royal_Malaysian_Navy> ns1:secondCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Rudolf_Olden> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ruhr_Pocket> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Rutland_Island,_County_Donegal> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Río_Grande_(Tierra_del_Fuego)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Río_Grande_de_Loíza> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Río_Negro_(Argentina)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/SC_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/SS_Dorchester> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/SS_Stephen_Hopkins__Action_of_27_September_1942__1> a ns1:MilitaryConflict ;
+    ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/SS_Tregenna> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Sabotage_at_the_General_Post_Office_in_Zagreb> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Saco_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sailor_(TV_series)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Saint_John_River_(Liberia)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Saint_Lawrence_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Saint_Peter_and_Saint_Paul_Archipelago> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Saint_Vincent_(Antilles)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Saitō_Makoto> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Salt_River_(Western_Cape)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Salão> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/San_Salvador_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sancho_Pardo_Donlebún> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Catarina_(Lisbon)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Cruz_da_Graciosa_(parish)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Cruz_das_Flores> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Cruz_das_Flores_(parish)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Luzia,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santa_Luzia_(São_Roque_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santiago,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_Amaro_(São_Roque_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_Amaro_(Velas)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_Antão,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_Antão_(Calheta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_António_(São_Roque_do_Pico)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Santo_Espírito> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sarmento_de_Beires> ns1:knownFor <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sasyk_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Savannah_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Scariff_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Second_Battle_of_the_Java_Sea> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Selvagem_Grande_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Selvagem_Pequena_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sergei_Preminin> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Seudre> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Shahany_Lagoon> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Shark_River_(New_Jersey)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sheepscot_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Shelling_of_Newcastle> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Shin'yō_Maru_incident> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Sichuan_invasion> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Siege_of_Lille_(1940)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Siege_of_Warsaw_(1939)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Siegfried_Strelow> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Siegfried_von_Forstner> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sierra_Leone_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sil_(river)> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Silver_River_(Ireland)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sinking_of_Prince_of_Wales_and_Repulse> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Sinking_of_the_Petrel> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sinoe_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Skellig_Islands> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Skellig_Michael> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sligo_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Slovak_National_Uprising> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Smyril_Line> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Solone_Ozero> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/South-East_Asian_theatre_of_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/South_Shore_Estuary> ns1:outflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Southern_Thule> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Soviet_evacuation_of_Tallinn> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Soviet_invasion_of_Manchuria> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Soviet_invasion_of_Poland> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Soviet–Japanese_War_(1945)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Spanish_Navy> ns1:fourthCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Speedwell_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Navy> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Sruwaddacon_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/St._Johns_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/St._Mary's_River_(Nova_Scotia)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Strandfaraskip_Landsins> ns1:regionServed <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Strategic_bombing_during_World_War_II> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Sudak_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sukhumi_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sukhyi_Estuary> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sula_Sgeir> ns1:archipelago <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sule_Skerry> ns1:archipelago <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sule_Stack> ns1:archipelago <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Swedish_Intervention_in_the_Winter_War> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/São_Caetano_(Madalena)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/São_Mateus_(Madalena)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/São_Nicolau,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/São_Pedro_(Vila_do_Porto)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/São_Vicente,_Cape_Verde> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/São_Vicente_Ferreira> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Sèvre_Niortaise> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tain_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tano_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Team_America:_World_Police__Team_America:_World_Police__1> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tearaght_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/The_Blitz> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/The_Pinnacle,_Battle_of_Okinawa> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Third_Fernandine_War> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Thomas_Byles> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Thomas_Stegg> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Three_Hundred_and_Thirty_Five_Years'_War> ns1:commander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Thug_Life> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tierra_del_Fuego> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Timonha_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tjörnes> ns1:locatedInArea <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Topo_(Calheta)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Topsail_Island> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Torpedo_Alley> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Tortola> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Town-class_destroyer> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Toyohashi_Air_Raid> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Treasury-class_cutter> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Trindade_and_Martim_Vaz> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tung_Hsiang-lung> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Tuzly_Lagoons> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Tylihul_Estuary> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Type_37_torpedo_boat> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/UG_convoys> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/USS_Constitution_vs_HMS_Guerriere> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/USS_United_States_vs_HMS_Macedonian> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Ulrich_Folkers> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Una_River_(Pernambuco)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Union_blockade> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/United_States_Army_Air_Forces_in_Australia> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/United_States_Army_Air_Forces_in_Okinawa> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_Central_Pacific_Area> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_South_Pacific_Area> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_South_West_Pacific_Theatre> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/United_States_Exploring_Expedition> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/United_States_Navy_operations_during_World_War_I> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/United_States_Seventh_Fleet> ns1:notableCommander <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Urzelina> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/V-1_and_V-2_Intelligence> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/V_and_W-class_destroyer> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Verdugo_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Vila_do_Porto_(parish)> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Vilaine> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Virgin_Gorda> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Volcano_and_Ryukyu_Islands_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Volta_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Vouga_River> ns1:mouthMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:mouthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Vyborg–Petrozavodsk_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Walter_Donald_Douglas> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Walter_S._Gorka> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/War_of_1812> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/War_of_the_Portuguese_Succession> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/War_of_the_Third_Coalition> ns1:place <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Warsaw_Ghetto_Uprising> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Warsaw_Uprising> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Werner_Hartenstein> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/West_Falkland> ns1:country <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Western_Front_(World_War_II)> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Western_Local_Escort_Force> dcterms:subject <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .
+
+<http://dbpedia.org/resource/Western_New_Guinea_campaign> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Westmoreland_Davis> ns1:birthPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/White_Oak_River> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Whitesand_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Wilhelm_Rollmann> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Willa_L._Fulmer> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_Cornwallis> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/William_J._Pattison> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_J._Yokes> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_Jay_Gaynor> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_Lowndes_(congressman)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_McMaster_Murdoch> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_Mintram> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/William_Willis_(sailor)> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Windward_Islands> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Winter_War> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Woman's_World_(novel)> ns1:publisher <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Woodstock_(song)> ns1:recordLabel <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Xallas_(river)> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Yahorlyk_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Yamamoto_Gonnohyōe> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://dbpedia.org/resource/Yelavarthy_Nayudamma> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Yelnya_Offensive> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Yevpatoria_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Yuzhnaya_Bay> ns1:inflow <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Zamboanga_(province)__Battle_of_Zamboanga__1> a ns1:MilitaryConflict .
+
+<http://dbpedia.org/resource/Zeta_Island,_Bermuda> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Água_de_Pau> ns1:lowestMountain <http://dbpedia.org/resource/Atlantic_Ocean> ;
+    ns1:lowestPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Álsey> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Élorn> ns1:riverMouth <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Émile_Barrière> ns1:deathPlace <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Île_Saint-Joseph> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Île_Verte_(Finistère)> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Île_de_Ré> ns1:location <http://dbpedia.org/resource/Atlantic_Ocean> .
+
+<http://dbpedia.org/resource/Özden_Örnek> ns1:militaryRank <http://dbpedia.org/resource/Admiral> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:War_Ensign_of_Germany_1938-1945.svg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/War_Ensign_of_Germany_1938-1945.svg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:War_Ensign_of_Germany_1938-1945.svg> .
+
+<http://dbpedia.org/resource/Admiral> a owl:Thing ;
+    rdfs:label "Admiral"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Admirals>,
+        <http://dbpedia.org/resource/Category:Naval_ranks> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Admiralty> .
+
+<http://dbpedia.org/resource/Atlantic_Ocean> a owl:Thing ;
+    rdfs:label "Atlantic Ocean"@en ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic_Ocean_-_en.png?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Articles_containing_video_clips>,
+        <http://dbpedia.org/resource/Category:Atlantic_Ocean>,
+        <http://dbpedia.org/resource/Category:History_of_the_Atlantic_Ocean>,
+        <http://dbpedia.org/resource/Category:Landforms_of_the_Atlantic_Ocean>,
+        <http://dbpedia.org/resource/Category:Oceans> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Environmental_impact_of_shipping>,
+        <http://dbpedia.org/resource/Macaronesia> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic_Ocean_-_en.png> .
+

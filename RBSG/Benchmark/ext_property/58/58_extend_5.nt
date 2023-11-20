@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/birthPlace>
+
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Cincinnati> .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ohio> .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthDate> "1970-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .

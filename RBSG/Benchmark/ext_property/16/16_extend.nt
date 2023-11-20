@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/commander>
+
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Živojin_Mišić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vicho_Dikov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Janko_Vukotić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexander_I_of_Yugoslavia> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Mihail_Savov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Stiliyan_Kovachev> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Radomir_Putnik> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Petar_Bojović> .
+
+#2 triples from original summary 5_
+
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Second_Balkan_War> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/date> "1913-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .

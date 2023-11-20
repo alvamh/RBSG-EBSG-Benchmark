@@ -1,0 +1,2482 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/11th_Street_Bridges> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Abbott_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Abshenasan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Adams_Avenue_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Adelaide_Avenue> a ns1:Road .
+
+<http://dbpedia.org/resource/Adelaide–Mannum_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Aguinaldo_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ahang_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Airport_Drive_(Melbourne)> a ns1:Road .
+
+<http://dbpedia.org/resource/Airport_Link,_Brisbane> a ns1:Road .
+
+<http://dbpedia.org/resource/Akita_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Alaska_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Albany_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Alexander_Hamilton_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/All_American_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Allameh_Jafari_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Allen_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Alligator_Alley> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Alpine_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Ambala_Chandigarh_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/American_Legion_Memorial_Bridge_(Potomac_River)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Anthony_Henday_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Aomori_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Appin_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Arlington_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Army_Trail_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Arnhem_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Arroyo_Seco_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Arthur_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ashrafi_Esfahani_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Atlantic_City_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Atlantic_City–Brigantine_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Atlantic_Ocean_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Attiki_Odos> a ns1:Road .
+
+<http://dbpedia.org/resource/Auckland_Northern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Auckland_Southern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Audubon_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Avenue_of_the_Giants> a ns1:Road .
+
+<http://dbpedia.org/resource/Avenue_of_the_Saints> a ns1:Road .
+
+<http://dbpedia.org/resource/Ayatollah_Kashani_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ayer_Rajah_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Azadegan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Babayi_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Badaling_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bagdad_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Bagheri_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ballarat_Road,_Melbourne> a ns1:Road .
+
+<http://dbpedia.org/resource/Balonne_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Baltimore_Harbor_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Baltimore_Pike> a ns1:Road .
+
+<http://dbpedia.org/resource/Baltimore–Washington_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bamroli_Althan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ban-etsu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bangalore_Chennai_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bangalore–Mysore_Infrastructure_Corridor> a ns1:Road .
+
+<http://dbpedia.org/resource/Bangsar_–_Petaling_Jaya_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Bardstown_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Barkly_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Barrenjoey_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Barrier_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Barry_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Barton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Barwon_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Basij_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bass_Highway,_Tasmania> a ns1:Road .
+
+<http://dbpedia.org/resource/Bass_Highway_(Victoria)> a ns1:Road .
+
+<http://dbpedia.org/resource/Bataan_Provincial_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bathurst-Ilford_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Batman_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Batu_Gajah_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Batu_Tiga-Sungai_Buloh_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bayfront_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Bayshore_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bedford_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Behesht-e_Zahra_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Belghoria_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Belgrade–Bar_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bellarine_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bells_Line_of_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Belmera_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Benicia–Martinez_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Benjamin_Franklin_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Berlin_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Bert_T._Combs_Mountain_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Besat_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bethlehem_Pike> a ns1:Road .
+
+<http://dbpedia.org/resource/Bethpage_State_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Birdsville_Track> a ns1:Road .
+
+<http://dbpedia.org/resource/Black_Horse_Pike> a ns1:Road .
+
+<http://dbpedia.org/resource/Blue_Star_Turnpike> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Blue_Water_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Bluegrass_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bogor_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Bonang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Borung_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Boston_Mountains_Scenic_Loop> a ns1:Road .
+
+<http://dbpedia.org/resource/Boulevard_(Richmond,_Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Bradley_Airport_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Bradshaw_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Brand_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Brenner_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Brighton_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Brisbane_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Broad_Street_(Richmond,_Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Broad_Street_Station_(Richmond)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Brockman_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Brockway_Mountain_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Bronx–Whitestone_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Brooker_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Brooklyn–Battery_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Brookton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bruce_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bruckner_Expressway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Bruckner_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Brussels_Ring> a ns1:Road .
+
+<http://dbpedia.org/resource/Bruxner_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Buchanan_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bucketts_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Buckman_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Bukit_Jalil_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bukit_Payung-Telemung_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bukit_Tagar_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bukit_Timah_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bulleen_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Buntine_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bunya_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Burke_Developmental_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Burley_Griffin_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Burnett_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Burnt_Bridge_Creek_Deviation> a ns1:Road .
+
+<http://dbpedia.org/resource/Burwood_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bussell_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Butner,_North_Carolina> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Butterworth_Outer_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Butterworth–Kulim_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Bylong_Valley_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Cabin_John_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cahill_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Calder_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Calder_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Camden_Valley_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/CanAm_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Canning_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cape_Fear_Skyway> a ns1:Road .
+
+<http://dbpedia.org/resource/Capitol_Loop> a ns1:Road .
+
+<http://dbpedia.org/resource/Capricorn_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Captain_Cook_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Carnarvon_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Carpentaria_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Carquinez_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Carretera_Costera_Riviera_Mayo> a ns1:Road .
+
+<http://dbpedia.org/resource/Cascade_Lakes_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Castlereagh_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Centenary_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Central_Artery> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Central_Coast_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Central_Cross-Island_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Central_Expressway,_Singapore> a ns1:Road .
+
+<http://dbpedia.org/resource/Central_Expressway_(Dallas)> a ns1:Road .
+
+<http://dbpedia.org/resource/Central_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chamran_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chandler_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Channel_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Charles_Street_(Baltimore)> a ns1:Road .
+
+<http://dbpedia.org/resource/Chennai_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Chennai_Elevated_Expressways> a ns1:Road .
+
+<http://dbpedia.org/resource/Chennai_HSCTC> a ns1:Road .
+
+<http://dbpedia.org/resource/Cheras_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cheras–Kajang_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cherno_More_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cherokee_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Chesapeake_Expressway> a <http://dbpedia.org/class/yago/TollRoadsInVirginia> .
+
+<http://dbpedia.org/resource/Cheung_Tsing_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chiba-Tōgane_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Chicago_Skyway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Chickasaw_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Chisholm_Trail_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chitahantō_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Chitaōdan_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Christchurch_Northern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Christchurch_Southern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Christchurch–Lyttelton_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chubu_International_Airport_Connecting_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Church_Hill_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Chūbu-Ōdan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Chūō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cikampek-Palimanan_toll_road> a ns1:Road .
+
+<http://dbpedia.org/resource/Cimarron_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Cipularang_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Citation_Boulevard> a ns1:Road .
+
+<http://dbpedia.org/resource/CityLink> a ns1:Road .
+
+<http://dbpedia.org/resource/Cleveland_Memorial_Shoreway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cobb_Cloverleaf> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Cobb_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Colorado_Boulevard> a ns1:Road .
+
+<http://dbpedia.org/resource/Commonwealth_Avenue,_Quezon_City> a ns1:Road .
+
+<http://dbpedia.org/resource/Conestoga_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Conlin–Whitehead_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Connecticut_Turnpike> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Coolgardie–Esperance_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Copper_River_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Coral_Way_(street)> a ns1:Road .
+
+<http://dbpedia.org/resource/Creek_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Cross_Bronx_Expressway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Crosstown_Expressway_(Chicago)> a ns1:Road .
+
+<http://dbpedia.org/resource/Crowchild_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Crowsnest_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cumberland_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cunningham_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Cypress_Street_Viaduct> a ns1:Road .
+
+<http://dbpedia.org/resource/D'Aguilar_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/DND_Flyway> a ns1:Road .
+
+<http://dbpedia.org/resource/Daegu–Busan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Daejeon_Nambu_Sunhwan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dale_Mabry_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dallas-Fort_Worth_Turnpike> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+
+<http://dbpedia.org/resource/Dallas_North_Tollway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dalton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Damansara–Puchong_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dames_Point_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Dan_Ryan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dandenong_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Daniel_Webster_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Darul_Aman_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dawson_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Deerfoot_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Delaware_Memorial_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Delaware_River_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Delaware_River–Turnpike_Toll_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Delaware_Turnpike> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Delaware_Water_Gap_Toll_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Delhi_Faridabad_Skyway> a ns1:Road .
+
+<http://dbpedia.org/resource/Delhi_Gurgaon_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Delta_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Denali_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Denver–Boulder_Turnpike> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+
+<http://dbpedia.org/resource/Derby_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dinding_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Docklands_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dodge_Street> a ns1:Road .
+
+<http://dbpedia.org/resource/Domain_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Don_Mueang_Tollway> a ns1:Road .
+
+<http://dbpedia.org/resource/Don_Valley_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Donghae_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Doran_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dowd_Avenue_(Elizabeth,_New_Jersey)> a ns1:Road .
+
+<http://dbpedia.org/resource/Downtown_Connector> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Downtown_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Driscoll_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dukes_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dulles_Corridor_Users_Group> a <http://dbpedia.org/class/yago/TollRoadsInVirginia> .
+
+<http://dbpedia.org/resource/Dunedin_Southern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Duta–Ulu_Klang_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Dōtō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Earhart_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/EastLink_(Melbourne)> a ns1:Road .
+
+<http://dbpedia.org/resource/East_Coast_Elevated_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/East_Coast_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/East_Coast_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/East_Derwent_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/East_Tamar_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Eastern_Distributor> a ns1:Road .
+
+<http://dbpedia.org/resource/Eastern_Express_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Eastern_Freeway_(Melbourne)> a ns1:Road .
+
+<http://dbpedia.org/resource/Eastern_Freeway_(Mumbai)> a ns1:Road .
+
+<http://dbpedia.org/resource/Eastern_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/East–West_Highway_(Malaysia)> a ns1:Road .
+
+<http://dbpedia.org/resource/East–West_Link_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/East–West_Motorway_(Romania)> a ns1:Road .
+
+<http://dbpedia.org/resource/Edgerton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Eje_Central> a ns1:Road .
+
+<http://dbpedia.org/resource/Elevated_Expressways_in_Hyderabad> a ns1:Road .
+
+<http://dbpedia.org/resource/Elliott_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Elton_B._Stephens_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Escort_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Esk_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Esk–Hampton_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Everett_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Eyre_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fairfax_County_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fall_Line_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fanling_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fath_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Federal_Highway_(Australia)> a ns1:Road .
+
+<http://dbpedia.org/resource/Ferguson_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Flatbush_Avenue_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Flinders_Highway,_Queensland> a ns1:Road .
+
+<http://dbpedia.org/resource/Flinders_Highway,_South_Australia> a ns1:Road .
+
+<http://dbpedia.org/resource/Florida's_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Forrest_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fort_Bend_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fort_Lee_lane_closure_scandal> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Fort_McHenry_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Fossickers_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Fox_Valley_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Francis_Scott_Key_Bridge_(Baltimore)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Franklin_Street_(Richmond)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Frankston_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Fuller_Warren_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Fulton_Yard> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Futtsu_Tateyama_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/GRTC_Pulse> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Gambang–Kuantan_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ganga_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Garden_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Garden_State_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gardiner_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gary_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gateway_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gawler_bypass_road> a ns1:Road .
+
+<http://dbpedia.org/resource/Gebeng_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Geelong_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Gelugor_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Genting_Klang–Pahang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Genting_Sempah_–_Genting_Highlands_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/George_Parks_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/George_Washington_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Georgia_State_Route_295> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Gilcrease_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Girard_Point_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Glenelg_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Glenn_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Goethals_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Gold_Coast_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gold_Star_Memorial_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Golden_Glades_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Golden_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Golden_Quadrilateral> a ns1:Road .
+
+<http://dbpedia.org/resource/Goldenrod_Road_Extension> a ns1:Road .
+
+<http://dbpedia.org/resource/Goldfields_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Goldfields_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Good-Latimer_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gore_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Goulburn-Oberon_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Goulburn_Valley_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Goulburn_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Graham_Farmer_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Grant_McConachie_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Alpine_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Eastern_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Eastern_Highway_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Lakes_Circle_Tour> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Northern_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Smoky_Mountains_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Smoky_Mountains_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Southern_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Great_Western_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Greensboro_Urban_Loop> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Greensborough_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gregory_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Groat_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Gulf_Developmental_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Gungahlin_Drive_Extension> a ns1:Road .
+
+<http://dbpedia.org/resource/Guthrie_Corridor_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gwydir_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gyeongbu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Gyeongin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/H._E._Bailey_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Hachinohe_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Haines_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hakim_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hakone_Shindō> a ns1:Road .
+
+<http://dbpedia.org/resource/Hal_Rogers_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hamilton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hammonasset_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Hampton_Roads_Beltway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hampton_Roads_Bridge-Tunnel> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+
+<http://dbpedia.org/resource/Hampton_Roads_Bridge–Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .
+
+<http://dbpedia.org/resource/Hardy_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Healesville_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hells_Canyon_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hemmat_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hemus_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Henry_G._Shirley_Memorial_Highway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Henry_Lawson_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Henty_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Higashi-Kantō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Higashi-Meihan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Higashi-Mito_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Higashifuji-goko_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Hill_Highway_(Kerala)> a ns1:Road .
+
+<http://dbpedia.org/resource/Hillsborough_Jane_Doe> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Historic_Columbia_River_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hitachinaka_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Hoddle_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hokkaidō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hokuriku_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Holland_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Hollywood_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Homestead_Extension_of_Florida's_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Honam_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hope_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hopkins_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hosur_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Hull_Street_Station> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Hume_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hunter_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Huon_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hutan_Kampung_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Hyland_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Iksan–Pohang_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Illawarra_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Illiana_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Imam_Ali_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Incheon_International_Airport_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Indian_Nation_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Indiana_Toll_Road> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Inner_Loop_(Washington,_D.C.)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Innkreis_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/International_Selkirk_Loop> a ns1:Road .
+
+<http://dbpedia.org/resource/Interstate_185> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_185_(Georgia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_185_(South_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_190_(New_York)> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_195> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(Florida)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(Maine)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(New_Jersey)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(Rhode_Island–Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_195_(Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Interstate_285> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_285_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_295> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Delaware–New_Jersey)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Florida)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Maine)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Maryland–District_of_Columbia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(New_York)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Rhode_Island–Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_295_(Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_355> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_376> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_385> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_385_Business> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_395> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_395_(Connecticut–Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_395_(District_of_Columbia–Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_395_(Florida)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_395_(Maine)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_395_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_476> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_485> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_485_(Georgia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_495> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(Capital_Beltway)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(Delaware)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(Maine)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(New_Jersey)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(New_York)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_495_Business> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_585> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_585_Business> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_595> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_595_(Baltimore,_Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_595_(Florida)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_595_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_595_(Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_64_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Interstate_685> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_695> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(District_of_Columbia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(New_Jersey)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(New_York)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_695_(Pennsylvania)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_785> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_795> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_795_(Florida)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_795_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_795_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_85> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_Business_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_Business_(Spartanburg,_South_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_in_Alabama> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_in_Georgia> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_in_North_Carolina> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_in_South_Carolina> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_85_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Interstate_885_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Interstate_895> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895A> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895B> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(Delaware)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(Maryland)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(New_Jersey–Pennsylvania)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(New_York)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(Rhode_Island–Massachusetts)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_895_(Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Interstate_95> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95E> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95E_in_Massachusetts> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95E_in_Rhode_Island> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_Business_(Brunswick,_Georgia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_Business_(Darien,_Georgia)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_Business_(North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_Business_(Rocky_Mount,_North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_Business_(Wilson,_North_Carolina)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Connecticut> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Delaware> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Florida> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Georgia> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Maine> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Maryland> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Massachusetts> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_New_Hampshire> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Interstate_95_in_New_Jersey> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_New_York> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_North_Carolina> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Pennsylvania> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Rhode_Island> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_South_Carolina> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_95_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Interstate_95_in_the_District_of_Columbia> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Interstate_985> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Ipoh–Lumut_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ipswich_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Iron_Pipeline> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Irrigation_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Ise_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Isewangan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Isis_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Iskandar_Coastal_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Island_Eastern_Corridor> a ns1:Road .
+
+<http://dbpedia.org/resource/Iway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/JFK_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jacksonville_Eastern_Beltway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Jacksonville_Western_Beltway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Jadranska_Avenue> a ns1:Road .
+
+<http://dbpedia.org/resource/Jagorawi_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jaipur-Kishangarh_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jakarta_Inner_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jakarta_Outer_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jakarta–Cikampek_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jakarta–Serpong_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jakarta–Tangerang_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalal-e-Ale_Ahmad_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Bangsar> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Damansara> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Jambatan_Kota> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Kemajuan_Subang> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Klang_Lama> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Kuching–Serian> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Kulim_Hi-Tech> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Lapangan_Terbang_Baru> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Lencongan_Timur> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Mambong–Sejingkat> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Senawang–Paroi> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Seri_Kembangan> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Serian–Tebedu> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Subang_–_Batu_Tiga> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Sungai_Lembing> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Syed_Putra> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Tampoi> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Tun_Dr_Awang> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Tun_Fuad_Stephens> a ns1:Road .
+
+<http://dbpedia.org/resource/Jalan_Uniten–Dengkil> a ns1:Road .
+
+<http://dbpedia.org/resource/James_E._Ross_Highway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/James_River_Bridge_(Interstate_95)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/James_River_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/James_Ruse_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Jane_Addams_Memorial_Tollway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Jasin–NSE_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jelas_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jinbin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jinji_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Johansen_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/John_Kilpatrick_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Johnsonville–Porirua_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Johor_Bahru_East_Coast_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Johor_Bahru_Inner_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Joppa_Road> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        ns1:Road .
+
+<http://dbpedia.org/resource/Jungang_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jungbu_Naeryuk_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jōban_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Jōshin-etsu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/KLIA_East_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/KLIA_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/KLIA_Outer_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Kajang_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kajang_Dispersal_Link_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kajang–Seremban_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kakadu_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kallang–Paya_Lebar_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kalyani_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kamilaroi_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kan-Etsu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kansas_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Karawanken_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Kazemi_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Keiyō_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Kemaman_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kempas_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ken-Ō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kennedy_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kennedy_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kentucky_Turnpike> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+
+<http://dbpedia.org/resource/Kepong–Selayang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kidman_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Kiewa_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kimanis–Keningau_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kingery_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kingston_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kisei_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kita-Kantō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Klang–Banting_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Klondike_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kordestan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kota_Kinabalu_West_Coast_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kota_Tinggi_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kranji_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kuala_Lumpur_Inner_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Kuala_Lumpur_–_Rawang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kuantan_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kuching_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Kulaijaya-NSE_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kundli–Manesar–Palwal_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kwinana_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Kyushu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/LISRAM_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/La_Cienega_Boulevard> a ns1:Road .
+
+<http://dbpedia.org/resource/Lachlan_Valley_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Lake_Cook_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Lake_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Lake_Shore_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Lakeland_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Landsborough_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Langkawi_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Lantau_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Lasseter_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Leach_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Lebuh_AMJ> a ns1:Road .
+
+<http://dbpedia.org/resource/Lebuh_Ayer_Keroh> a ns1:Road .
+
+<http://dbpedia.org/resource/Lebuh_SPA> a ns1:Road .
+
+<http://dbpedia.org/resource/Lebuh_Sentosa,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Lee_Roy_Selmon_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Leeds_Inner_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Legacy_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Leichhardt_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Liard_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Lincoln_Heritage_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Lincoln_Highway_(Australia)> a ns1:Road .
+
+<http://dbpedia.org/resource/Lincoln_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Loddon_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Logan_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Loop_(Texarkana)> a ns1:Road .
+
+<http://dbpedia.org/resource/Lowell_Connector> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Lumut_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Lyell_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Lyulin_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/MEC_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mackinac_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Mahallati_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Main_Central_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Main_Eastern_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Main_North_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Main_Street_Station_(Richmond)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Maine_State_Route_11> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Maine_Turnpike> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Majlis_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Major_Deegan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Maju_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mallee_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mammoth_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Mancunian_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Manila–Cavite_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Marietta_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Marina_Coastal_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Maritsa_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Marlborough_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Maroondah_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Massachusetts_Route_128> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Massachusetts_Turnpike> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Matang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/McCarthy_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/McIvor_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Meeting_of_the_Great_Rivers_Scenic_Route> a ns1:Road .
+
+<http://dbpedia.org/resource/Meishin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Melba_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Melton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Memorial_Drive_(Calgary)> a ns1:Road .
+
+<http://dbpedia.org/resource/Mentakab–Temerloh_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Merritt_Parkway> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        ns1:Road .
+
+<http://dbpedia.org/resource/Metro_Manila_Skyway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mianus_River_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Mid-Western_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mid_County_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Midland_Highway_(Tasmania)> a ns1:Road .
+
+<http://dbpedia.org/resource/Midland_Highway_(Victoria)> a ns1:Road .
+
+<http://dbpedia.org/resource/Midtown_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Milford_Parkway_(Connecticut)> a ns1:Road .
+
+<http://dbpedia.org/resource/Millard_E._Tydings_Memorial_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Minami-Hanna_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Minamichita_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Minamikyushu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Minnesota_Drive_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Miri–Baram_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mitchell_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mitchell_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Miyazaki_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Modares_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mohammad_Ali_Jenah_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Monaro_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Monash_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Monument_Avenue> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Mon–Fayette_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Moonie_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Moorooduc_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mornington_Peninsula_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Moses_Wheeler_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Mount_Hood_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mount_Hood_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mount_Lindesay_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mountain_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mountain_Loop_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mountain_View_Corridor> a ns1:Road .
+
+<http://dbpedia.org/resource/Muar_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Muirs_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mulligan_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mumbai_Nashik_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mumbai_Pune_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Mumbai_Vadodara_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Murchison_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Murray_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Muskogee_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Mühlkreis_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/NAIA_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nabesna_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Nagano_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nagasaki_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nagpur–Aurangabad–Mumbai_express_highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Namhae_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Navvab_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nawab_Yusuf_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Nehalem_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nepean_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/New_England_Thruway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/New_Jersey_Route_495> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/New_Jersey_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/New_Klang_Valley_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/New_North_Klang_Straits_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/New_Pantai_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/New_River_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/New_Road,_Oxford> a ns1:Road .
+
+<http://dbpedia.org/resource/New_York_State_Thruway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Newark_Airport_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Newark_Bay_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Newburgh–Beacon_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Newcastle_Inner_City_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Newell_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Niagara_Thruway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Niayesh_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nichol's_Gap_Road> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+
+<http://dbpedia.org/resource/Nihonkai-Tōhoku_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nikkō_Utsunomiya_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Nisga'a_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nishi-Fuji_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Nishi-Meihan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nishiseto_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nonsan–Cheonan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Nordost_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/North_Carolina_Highway_22> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/North_Central_Freeway_(Washington,_D.C.)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/North_Klang_Straits_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/North_Lantau_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/North_Luzon_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/North_Spokane_Corridor> a ns1:Road .
+
+<http://dbpedia.org/resource/North_West_Coastal_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Northeast_Freeway_(Washington,_D.C.)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Northern_Behesht-e_Zahra_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Northern_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Northport_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Northwest_Arm_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Northwest_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Northwestern_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/North–South_Expressway_(Singapore)> a ns1:Road .
+
+<http://dbpedia.org/resource/North–South_Expressway_Central_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/North–South_Expressway_Northern_Route> a ns1:Road .
+
+<http://dbpedia.org/resource/North–South_Expressway_Southern_Route> a ns1:Road .
+
+<http://dbpedia.org/resource/North–South_Port_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/O'Connell_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Oak_Street_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Ocean_Drive_(New_Jersey)> a ns1:Road .
+
+<http://dbpedia.org/resource/Ocean_Highway_(New_Jersey)> a ns1:Road .
+
+<http://dbpedia.org/resource/Odawara-Atsugi_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Ohio_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Okinawa_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Oklahoma_City_Crosstown_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Old_Court_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Old_Cutler_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Old_Princes_Highway,_Victoria> a ns1:Road .
+
+<http://dbpedia.org/resource/Olympic_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Omeo_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Oodnadatta_Track> a ns1:Road .
+
+<http://dbpedia.org/resource/Osceola_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ost_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Outback_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Owings_Mills_Boulevard> a ns1:Road .
+
+<http://dbpedia.org/resource/Oxley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pacific_Highway_(Australia)> a ns1:Road .
+
+<http://dbpedia.org/resource/Padaleunyi_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Palimanan-Kanci_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Palisades_Interstate_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Palmerston_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pan_Island_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Panipat_Elevated_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pasig_River_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pasir_Gudang_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pasir_Puteh_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Pathankot_Ajmer_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pawtucket_River_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Peachoid> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Peak_Downs_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pearl_Harbor_Memorial_Bridge_(Connecticut)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Penang_Bridge> a ns1:Road .
+
+<http://dbpedia.org/resource/Penang_Middle_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Penang_Outer_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Peninsula_Extension> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Peninsula_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Pennant_Hills_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Pennsylvania_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Pennsylvania_Turnpike/Interstate_95_Interchange_Project> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Penny's_Bay_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pennyrile_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Perimeter_Highway_(Winnipeg)> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_APEC> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Kenanga,_Petaling_Jaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Kerjaya,_Glenmarie> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Kewajipan> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_PKFZ> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Perdana,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Persekutuan,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Raja_Muda_Musa> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Selatan,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Sultan,_Shah_Alam> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Sultan_Salahuddin_Abdul_Aziz_Shah,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Surian,_Petaling_Jaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Timur,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Tujuan> a ns1:Road .
+
+<http://dbpedia.org/resource/Persiaran_Utara,_Putrajaya> a ns1:Road .
+
+<http://dbpedia.org/resource/Petersburg_(Amtrak_station)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Peña_Boulevard> a ns1:Road .
+
+<http://dbpedia.org/resource/Phillip_Island_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Picton_Road,_New_South_Wales> a ns1:Road .
+
+<http://dbpedia.org/resource/Pierce_Stocking_Scenic_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Pineville_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pinkie_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Piscataqua_River_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Pittwater_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Plenty_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Plenty_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Plimoth_Plantation_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Pontchartrain_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Port_Dickson_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Port_River_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Port_Wakefield_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Port_of_Richmond_(Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Port_of_Tanjung_Pelepas_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Portage_Glacier_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Portrush_Road,_Adelaide> a ns1:Road .
+
+<http://dbpedia.org/resource/President_George_Bush_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Prince_William_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Princes_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Princes_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Prof._Dr._Sedyatmo_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Prospect_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Prospect_Mountain_Veterans_Memorial_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Providence_Viaduct> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Puerto_Rico_Highway_22> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Puerto_Rico_Highway_52> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Puerto_Rico_Highway_53> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Puerto_Rico_Highway_66> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Pulau_Indah_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Puncheon_Run_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Purchase_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Putrajaya_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Putrajaya_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Putrajaya–Cyberjaya_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Putty_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Pyhrn_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Pyrenees_Highway,_Victoria> a ns1:Road .
+
+<http://dbpedia.org/resource/Qale_Morghi_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Queen_Elizabeth_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Queens–Midtown_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Quirino_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rabat–Fes_expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rainbow_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Raipur-Bhilai-Durg_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Randall_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Randolph_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Raymond_E._Baldwin_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Red_Coat_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Reid_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Remembrance_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Resalat_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rhode_Island_Route_3> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Richardson_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Richmond_International_Airport> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Richmond_Metropolitan_Authority> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Richmond_Parkway_(California)> a ns1:Road .
+
+<http://dbpedia.org/resource/Richmond_Staples_Mill_Road_(Amtrak_station)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Richmond_and_Alleghany_Railroad> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> a <http://dbpedia.org/class/yago/Artifact100021939>,
+        <http://dbpedia.org/class/yago/Expressway103306610>,
+        <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        <http://dbpedia.org/class/yago/Highway103519981>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Road104096066>,
+        <http://dbpedia.org/class/yago/TollRoadsInVirginia>,
+        <http://dbpedia.org/class/yago/Turnpike104501018>,
+        <http://dbpedia.org/class/yago/Way104564698>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:ArchitecturalStructure,
+        ns1:Infrastructure,
+        ns1:Location,
+        ns1:Place,
+        ns1:Road,
+        ns1:RouteOfTransportation,
+        <http://schema.org/Place>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q34442> ;
+    rdfs:label "Richmond–Petersburg Turnpike"@en ;
+    ns1:length 5.632704e+04 ;
+    ns1:routeTypeAbbreviation "I" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia>,
+        <http://dbpedia.org/resource/Category:Interstate_85>,
+        <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg> ;
+    foaf:name "Richmond–Petersburg Turnpike"@en .
+
+<http://dbpedia.org/resource/Richmond–San_Rafael_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Riddoch_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ridge_Route> a ns1:Road .
+
+<http://dbpedia.org/resource/Rila_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ringwood_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/River_Road_National_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Riverina_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Riverside_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Robert_Moses_State_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodoanel_Mário_Covas> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Adhemar_de_Barros> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Anchieta> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Ariovaldo_de_Almeida_Viana> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Assis_Chateaubriand> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Brigadeiro_Faria_Lima> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Carvalho_Pinto> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Castelo_Branco> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Cândido_Portinari> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Dom_Pedro_I> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Doutor_Roberto_Moreira> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Euclides_da_Cunha> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Fernão_Dias> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Floriano_Rodrigues_Pinheiro> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Marechal_Cândido_Rondon> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Presidente_Dutra> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Professor_Zeferino_Vaz> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Raposo_Tavares> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Régis_Bittencourt> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Sen._José_Ermírio_de_Moraes> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_Washington_Luís> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_dos_Bandeirantes> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_dos_Imigrantes> a ns1:Road .
+
+<http://dbpedia.org/resource/Rodovia_dos_Tamoios> a ns1:Road .
+
+<http://dbpedia.org/resource/Roe_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rogue-Umpqua_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Rokeby_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Ronald_Reagan_Memorial_Tollway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Roper_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ruta_Panorámica> a ns1:Road .
+
+<http://dbpedia.org/resource/SMART_Tunnel> a ns1:Road .
+
+<http://dbpedia.org/resource/Sadr_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Saidi_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Salisbury_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/San'yō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/San_Francisco–Oakland_Bay_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/San_Tin_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sandover_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Santa_Ana_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sapi-Nangoh_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sasson_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Savannah_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Sayyad_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Scudder_Falls_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Second_East–West_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Second_Gyeongin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Second_Jungbu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Second_Link_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Seishō_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Seletar_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Senai_Airport_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Senai–Desaru_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sentul_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Seohaean_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Seoul_Ring_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Serdang-Kinrara-Putrajaya_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Seremban_Inner_Ring_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Seremban_–_Bukit_Nenas_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Setia_Alam_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Seward_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sha_Tin_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Shah_Alam_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shah_Alam_–_Puchong_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shahid_Gomnam_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shahid_Haghani_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shahid_Sattari_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shawnee_Expressway_(West_Virginia)> a ns1:Road .
+
+<http://dbpedia.org/resource/Sheikh_Fazl-allah_Nouri_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sherwood_Park_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shimla_Chandigarh_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shin-Kūkō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shin-Tōmei_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Shinshōnan_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Ship_Yard> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Short_Pump_Express> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Sibu-Tanjung_Manis_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sierra_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sierra_Vista_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Silver_City_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Skudai_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Skudai–Pontian_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Snicker's_Gap_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Snowy_Mountains_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Somerset_Freeway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Sorensen_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Arm_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Chappell_Street_Car_Barn> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/South_Coast_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Eastern_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Gippsland_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Gippsland_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Klang_Valley_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Luzon_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Road,_Adelaide> a ns1:Road .
+
+<http://dbpedia.org/resource/South_Western_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/South_of_the_Border_(attraction)> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Southern_Cross-Island_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Southern_Evacuation_Lifeline> a ns1:Road .
+
+<http://dbpedia.org/resource/Southern_Outlet,_Hobart> a ns1:Road .
+
+<http://dbpedia.org/resource/Southern_Ports_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Southern_Scenic_Route> a ns1:Road .
+
+<http://dbpedia.org/resource/Southern_Tagalog_Arterial_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Spaulding_Turnpike> a ns1:Road .
+
+<http://dbpedia.org/resource/Springfield_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Sprint_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/St._Joseph_Valley_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Stadium_Freeway_(Wisconsin)> a ns1:Road .
+
+<http://dbpedia.org/resource/Steese_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sterling_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Stirling_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Stone_Mountain_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Stoney_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Struma_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Strzelecki_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Stuart_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sturt_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Subang_–_Kelana_Jaya_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Sultan_Abdul_Aziz_Shah_Airport_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sultan_Abdul_Halim_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sultan_Ismail_–_Kampung_Pandan_Link> a ns1:Road .
+
+<http://dbpedia.org/resource/Summerland_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Summerlin_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Suncheon–Wanju_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sungai_Buloh_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sunraysia_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sunshine_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Sunshine_Skyway_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Sydney_Road,_Melbourne> a ns1:Road .
+
+<http://dbpedia.org/resource/Sylamore_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Süd_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Südost_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Tablelands_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Takamatsu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tampines_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tangerang–Merak_Toll_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Tangjin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tanjung_Lumpur_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tanjung_Malim_–_Slim_River_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tappan_Zee_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Tasman_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tateyama_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tauern_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/Taylor_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ted_Williams_Tunnel> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Texas_State_Highway_OSR> a ns1:Road .
+
+<http://dbpedia.org/resource/Thompsons_Road,_Melbourne> a ns1:Road .
+
+<http://dbpedia.org/resource/Three_Notch'd_Road> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Throgs_Neck_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Thunderbolts_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Tod_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tokyo_Gaikan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tolo_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tom_Moreland_Interchange> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Tondguyan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tonkin_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Toodyay_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Trail_Ridge_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Trakia_motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/Trans-Java_toll_road> a ns1:Road .
+
+<http://dbpedia.org/resource/Trans-Manhattan_Expressway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Transportation_in_Richmond,_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Tri-State_Tollway> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Triangle_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Triborough_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Trout_River_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95>,
+        <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Tsing_Long_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tualatin_Valley_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tuen_Mun_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Tugun_Bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Tullamarine_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tun_Dr_Lim_Chong_Eu_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tun_Razak_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Turner_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Tōhoku-Chūō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tōhoku_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tōkai-Hokuriku_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tōkai-Kanjō_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Tōmei_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/U.S._Route_1> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_1/9> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_15> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_17> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_1_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_201> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_250_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_301> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_301_Alternate_(Petersburg,_Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_301_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia>,
+        <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_33_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_360> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_40> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/U.S._Route_460_Alternate_(Petersburg,_Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_460_Business_(Petersburg,_Virginia)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_460_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/U.S._Route_60_in_Virginia> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Ulsan_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Union_Station_(Petersburg)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Vasco_Road_(California)> a ns1:Road .
+
+<http://dbpedia.org/resource/Vasse_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ventura_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Verrazano–Narrows_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Veterans_Memorial_Tollway> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Vibhavadi_Rangsit_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Victor_Harbor_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Victoria_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Vietnam_Veterans_Memorial_Highway> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Virginia_Beach_Expressway> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        <http://dbpedia.org/class/yago/TollRoadsInVirginia> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_Overland_Transportation> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_10> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_106> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_142> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_147> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_150> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_161> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_195> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_197> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_2> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_33> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_36> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_5> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_6> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Virginia_State_Route_76> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Wade_Avenue> a ns1:Road .
+
+<http://dbpedia.org/resource/Walt_Whitman_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Warburton_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Warrego_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Warrigal_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Warringah_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/Warwick_Road_(Chesterfield_County)> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Waterfall_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Wayne_Gretzky_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Wellington_Urban_Motorway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Autobahn> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Cascades_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Coast_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Coast_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Gate_Freeway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Side_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Tamar_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/West_Virginia_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/Westall_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Express_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Freeway,_Brisbane> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Freeway_(Mumbai)> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Freeway_(Victoria)> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Highway_(Victoria)> a ns1:Road .
+
+<http://dbpedia.org/resource/Western_Kentucky_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Westham_Station> dcterms:subject <http://dbpedia.org/resource/Category:Transportation_in_Richmond,_Virginia> .
+
+<http://dbpedia.org/resource/Westpark_Tollway> a ns1:Road .
+
+<http://dbpedia.org/resource/White_Mountain_Trail> a ns1:Road .
+
+<http://dbpedia.org/resource/Whitefish_Bay_National_Forest_Scenic_Byway> a ns1:Road .
+
+<http://dbpedia.org/resource/Whitemud_Drive> a ns1:Road .
+
+<http://dbpedia.org/resource/Whitney_Avenue> a ns1:Road .
+
+<http://dbpedia.org/resource/Wide_Bay_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Wilbur_Cross_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Wilbur_Cross_Parkway> a <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates>,
+        ns1:Road .
+
+<http://dbpedia.org/resource/Will_Rogers_Turnpike> a ns1:Road ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+
+<http://dbpedia.org/resource/William_H._Natcher_Parkway> a ns1:Road .
+
+<http://dbpedia.org/resource/Willow_Brook_Connector> a ns1:Road .
+
+<http://dbpedia.org/resource/Wilmington–Ucolta_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Wimmera_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Winston-Salem_Beltway> a ns1:Road .
+
+<http://dbpedia.org/resource/Wombeyan_Caves_Road> a ns1:Road .
+
+<http://dbpedia.org/resource/Woodrow_Wilson_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_95> .
+
+<http://dbpedia.org/resource/Yadegar-e-Emam_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yadkin_River_Veterans_Memorial_Bridge> dcterms:subject <http://dbpedia.org/resource/Category:Interstate_85> .
+
+<http://dbpedia.org/resource/Yamagata_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yamuna_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yarra_Bank_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yasini_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yass_Valley_Way> a ns1:Road .
+
+<http://dbpedia.org/resource/Yedshi–Latur–Nanded_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yellowhead_Trail_(Edmonton)> a ns1:Road .
+
+<http://dbpedia.org/resource/Yeongdong_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Yuen_Long_Highway> a ns1:Road .
+
+<http://dbpedia.org/resource/Zagreb_bypass> a ns1:Road .
+
+<http://dbpedia.org/resource/Zeinoddin_Expressway> a ns1:Road .
+
+<http://dbpedia.org/resource/Ōita_Expressway> a ns1:Road .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg> .
+

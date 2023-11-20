@@ -1,0 +1,267 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns3: <http://www.georss.org/georss/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:areaCode a rdf:Property .
+
+ns1:birthPlace a rdf:Property .
+
+ns1:country a rdf:Property .
+
+ns1:deathPlace a rdf:Property .
+
+ns1:hometown a rdf:Property .
+
+ns1:isPartOf a rdf:Property .
+
+ns1:populationTotal a rdf:Property .
+
+ns1:postalCode a rdf:Property .
+
+ns1:regionServed a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+ns1:timeZone a rdf:Property .
+
+ns1:type a rdf:Property .
+
+ns1:utcOffset a rdf:Property .
+
+<http://dbpedia.org/resource/Abbigeri,_Gadag> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Adarakatti> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Adavisomapur,_Gadag> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Adrahalli> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Akkigund> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Ayyappa_Masagi> ns1:birthPlace <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Balehosur> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Belavanaki> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Bellatti> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Bhimsen_Joshi> ns1:birthPlace <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Halakere> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Halligudi> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Hammigi> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Harlapur,_Gadag> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Harti_(Gadag_district)> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Hirewaddatti> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Holealur> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Hombal> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Kanaginahal> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Kanavi> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Koliwada,_Gadag> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Korlahalli> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Kotumachagi> a <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Settlement108672562>,
+        <http://dbpedia.org/class/yago/Village108672738>,
+        <http://dbpedia.org/class/yago/VillagesInGadagDistrict>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Village,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q532> ;
+    rdfs:label "Kotumachagi"@en ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "6895"^^xsd:nonNegativeInteger ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:type <http://dbpedia.org/resource/Village> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> ;
+    ns3:point "15.54259 75.77102" ;
+    ns2:lat "15.54259"^^xsd:float ;
+    ns2:long "75.77102"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg> ;
+    foaf:name "Kotumachagi"@en,
+        "ಕೋಟುಮಚಗಿ"@en .
+
+<http://dbpedia.org/resource/Lakkundi> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Meundi> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Mulgund> ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/North_Western_Karnataka_Road_Transport_Corporation> ns1:regionServed <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Papanashi> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Pethalur> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Puttaraj_Gawai> ns1:deathPlace <http://dbpedia.org/resource/Gadag-Betageri> ;
+    ns1:hometown <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/R._S._Mugali> ns1:birthPlace <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Savadi,_Gadag> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Shigli> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Singatalur> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Soratur> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Sudi> ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Sunil_Joshi> ns1:birthPlace <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Suranagi> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Timmapur,_Gadag> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Tippapura> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Veeranarayana_Temple,_Gadag> ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Venkatapura,_Gadag> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Venkateshwara_Temple_at_Ramenahalli> dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+<http://dbpedia.org/resource/Vijay_Sankeshwar> ns1:birthPlace <http://dbpedia.org/resource/Gadag-Betageri> .
+
+<http://dbpedia.org/resource/Yalishirur> a <http://dbpedia.org/class/yago/VillagesInGadagDistrict> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Gadag-Betageri> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Villages_in_Gadag_district> .
+
+dc:rights a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+ns3:point a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+ns2:lat a rdf:Property .
+
+ns2:long a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+foaf:homepage a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:thumbnail a rdf:Property .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:KotumachagiVillageTemple.jpg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/KotumachagiVillageTemple.jpg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:KotumachagiVillageTemple.jpg> .
+
+<http://dbpedia.org/resource/Gadag-Betageri> a <http://dbpedia.org/class/yago/Artifact100021939>,
+        <http://dbpedia.org/class/yago/Building102913152>,
+        <http://dbpedia.org/class/yago/HinduTemplesInGadagDistrict>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/PlaceOfWorship103953416>,
+        <http://dbpedia.org/class/yago/ShivaTemples>,
+        <http://dbpedia.org/class/yago/Structure104341686>,
+        <http://dbpedia.org/class/yago/Temple104407435>,
+        <http://dbpedia.org/class/yago/TemplesInKarnataka>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Gadag-Betageri"@en ;
+    ns1:areaCode "08372" ;
+    ns1:country <http://dbpedia.org/resource/India> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Bayalu_Seeme>,
+        <http://dbpedia.org/resource/Gadag_District>,
+        <http://dbpedia.org/resource/Karnataka> ;
+    ns1:populationTotal "172813"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "582 101 & 582 102 & 582 103" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Gadag_1.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Indian_Standard_Time> ;
+    ns1:utcOffset "+5:30" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Cities_and_towns_in_Gadag_district>,
+        <http://dbpedia.org/resource/Category:Western_Chalukya_Empire> ;
+    ns3:point "15.4167 75.6167" ;
+    ns2:lat "15.4167"^^xsd:float ;
+    ns2:long "75.6167"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Gadag_1.jpg> ;
+    foaf:homepage <http://www.gadag-betagericity.gov.in/> ;
+    foaf:name "Gadag-Betageri"@en,
+        "ಗದಗ - ಬೆಟಗೇರಿ"@en .
+

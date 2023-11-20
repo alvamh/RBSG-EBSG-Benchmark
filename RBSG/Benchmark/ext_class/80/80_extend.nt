@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/PopulatedPlace>
+
+<http://dbpedia.org/resource/Świętokrzyskie_Voivodeship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Sandomierz_County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Gmina_Koprzywnica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+
+#original summary 5_2
+
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Świętokrzyskie_Voivodeship> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Gmina_Koprzywnica> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Sandomierz_County> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .

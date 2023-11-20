@@ -1,0 +1,1114 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.georss.org/georss/> .
+@prefix ns3: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:alias a rdf:Property .
+
+ns1:allegiance a rdf:Property .
+
+ns1:anthem a rdf:Property .
+
+ns1:areaCode a rdf:Property .
+
+ns1:areaTotal a rdf:Property .
+
+ns1:battle a rdf:Property .
+
+ns1:billed a rdf:Property .
+
+ns1:birthDate a rdf:Property .
+
+ns1:birthPlace a rdf:Property .
+
+ns1:birthYear a rdf:Property .
+
+ns1:broadcastArea a rdf:Property .
+
+ns1:causalties a rdf:Property .
+
+ns1:city a rdf:Property .
+
+ns1:combatant a rdf:Property .
+
+ns1:commander a rdf:Property .
+
+ns1:country a rdf:Property .
+
+ns1:date a rdf:Property .
+
+ns1:deathDate a rdf:Property .
+
+ns1:deathPlace a rdf:Property .
+
+ns1:deathYear a rdf:Property .
+
+ns1:elevation a rdf:Property .
+
+ns1:foundingDate a rdf:Property .
+
+ns1:ground a rdf:Property .
+
+ns1:headquarter a rdf:Property .
+
+ns1:hometown a rdf:Property .
+
+ns1:ideology a rdf:Property .
+
+ns1:isPartOf a rdf:Property .
+
+ns1:isPartOfMilitaryConflict a rdf:Property .
+
+ns1:isoCodeRegion a rdf:Property .
+
+ns1:knownFor a rdf:Property .
+
+ns1:leaderName a rdf:Property .
+
+ns1:leaderTitle a rdf:Property .
+
+ns1:location a rdf:Property .
+
+ns1:majorShrine a rdf:Property .
+
+ns1:maximumElevation a rdf:Property .
+
+ns1:militaryCommand a rdf:Property .
+
+ns1:motto a rdf:Property .
+
+ns1:occupation a rdf:Property .
+
+ns1:origin a rdf:Property .
+
+ns1:place a rdf:Property .
+
+ns1:populationPlace a rdf:Property .
+
+ns1:populationTotal a rdf:Property .
+
+ns1:populationTotalRanking a rdf:Property .
+
+ns1:postalCode a rdf:Property .
+
+ns1:producer a rdf:Property .
+
+ns1:raceHorse a rdf:Property .
+
+ns1:restingPlace a rdf:Property .
+
+ns1:result a rdf:Property .
+
+ns1:routeEnd a rdf:Property .
+
+ns1:routeJunction a rdf:Property .
+
+ns1:routeStart a rdf:Property .
+
+ns1:spokenIn a rdf:Property .
+
+ns1:starring a rdf:Property .
+
+ns1:state a rdf:Property .
+
+ns1:strength a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+ns1:timeZone a rdf:Property .
+
+ns1:type a rdf:Property .
+
+ns1:usedInWar a rdf:Property .
+
+ns1:utcOffset a rdf:Property .
+
+<http://dbpedia.org/resource/1914_in_Mexico> dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/1st_Brigade_Combat_Team,_1st_Cavalry_Division_(United_States)> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/ABC_nations> dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Action_of_9_April_1914> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Adolfo_Bonilla_Gómez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Agustín_Caloca_Cortés> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> ;
+    ns1:majorShrine <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Alejandro_Tello_Cristerna> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Alexander_Vandegrift> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Alfonso_Elías_Cardona> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Amador_Salazar> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Amalia_García> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Andrés_Bermúdez_Viramontes> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Antonio_Aguilar> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Apozol> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Apozol_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Apulco> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Apulco_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Arthur_S._Carpender> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Arturo_Castro> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Atolinga_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Aurora_Cervantes_Rodríguez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Authentic_Party_of_the_Mexican_Revolution> ns1:ideology <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Autonomous_University_of_Zacatecas> ns1:city <http://dbpedia.org/resource/Zacatecas,_Zacatecas> ;
+    ns1:state <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Bandit_War> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Barreteros_de_Zacatecas> ns1:location <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Battle_of_Agua_Prieta> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Ambos_Nogales> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Carrizal> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Casas_Grandes> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Cuautla_(1911)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Naco> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Nogales_(1915)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Tierra_Blanca> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1811)> ns1:place <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> a ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Battle of Zacatecas (1914)"@en ;
+    ns1:causalties "1,000 (estimate)" ;
+    ns1:combatant "Villistas (followers ofPancho Villa)" ;
+    ns1:commander <http://dbpedia.org/resource/Luís_Medina_Barrón>,
+        <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:date "1914-06-23"^^xsd:date ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    ns1:place <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> ;
+    ns1:result "Decisive rebel victory" ;
+    ns1:strength "7,000-15,000 (most likely 12,000)",
+        "over 20,000 (estimate)" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico>,
+        <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> ;
+    foaf:name "Battle of Zacatecas"@en .
+
+<http://dbpedia.org/resource/Benjamín_G._Hill> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Benjamín_Medrano_Quezada> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Bolaños_River> ns1:origin <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Border_War_(1910–19)> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Brite_Ranch_Raid> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Bárbara_Romo_Fonseca> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Calera_de_Víctor_Rosales> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Capture_of_Mexicali> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Carlos_Alberto_Puente_Salas> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Cañitas_de_Felipe_Pescador_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Chinese_immigration_to_Mexico> rdfs:seeAlso <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Claudia_Anaya_Mota> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Claudia_Rivas> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Colt_Single_Action_Army> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Concepción_del_Oro_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Convention_of_Aguascalientes> dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Corona_de_lágrimas_(2012_telenovela)> ns1:location <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Cristóbal_de_Oñate> ns1:deathPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Cuauhtémoc_Municipality,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Cynthia_Klitbo> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Daniel_E._Barbey> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/David_Monreal_Ávila> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Domingo_Arrieta_León> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Dr._Wagner> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Eduardo_Prieto_Souza> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Edwin_Anderson,_Jr.> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Efraín_Flores> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Eliseo_Medina> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Emil_Lewis_Holmdahl> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Emilio_Kosterlitzky> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Emilio_Madero> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Emmett_Forrest_Branch> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Enrique_Gorostieta> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Ernest_King> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Estadio_Francisco_Villa> ns1:location <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Eulalia_Guzmán> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/F._F._Worthington> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Federico_Bernal_Frausto> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Felipe_Berriozábal> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Felipe_Borrego_Estrada> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Felipe_Neri> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Felipe_Ángeles> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/First_Battle_of_Rellano> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/First_Battle_of_Tijuana> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/First_Battle_of_Topolobampo> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Florencia_de_Benito_Juárez> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Florinda_Meza> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Following_the_Flag_in_Mexico> ns1:starring <http://dbpedia.org/resource/Pancho_Villa> .
+
+<http://dbpedia.org/resource/Fourth_Battle_of_Topolobampo> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Francisco_Esparza_Hernández> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Francisco_Goitia> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Francisco_Javier_Calzada_Vázquez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Francisco_Javier_González_(Mexican_footballer)> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Francisco_Luis_Urquizo> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Francisco_de_Santiago_Silva> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Frank_Jack_Fletcher> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Frank_Lovato,_Jr.> ns1:raceHorse <http://dbpedia.org/resource/Pancho_Villa> .
+
+<http://dbpedia.org/resource/Fresnillo> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Félix_Uresti_Gómez> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Gabriel_Gómez_Michel> ns1:deathPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Genaro_Borrego_Estrada> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/General_Enrique_Estrada> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/General_Leobardo_C._Ruiz_International_Airport> ns1:city <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Genovevo_de_la_O> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Gerardo_Leyva_Hernández> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/German_immigration_to_Mexico> ns1:populationPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Germán_Durán> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Gewehr_98> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Giuseppe_Garibaldi_II> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Glenn_Springs_Raid> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Gregorio_Ruiz> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Guachichil> ns1:populationPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Guachichil__Cuachichil__1> ns1:spokenIn <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Guadalupe,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Guadalupe_Municipality,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Guillermo_Huízar> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Guillermo_Rodriguez_(Jimmy_Kimmel_Live!)> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Harry_Schmidt_(USMC)> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Heladio_Verver_y_Vargas> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Henry_Tureman_Allen> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Herminia_Álvarez_Herrera> ns1:occupation <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/History_of_Mexico> rdfs:seeAlso <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Hotchkiss_M1914_machine_gun> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Huichol_language> ns1:spokenIn <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Huichol_people> ns1:populationPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Humberto_Cervantes_Vega> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Humberto_Luna> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Jacobo_Harrotian> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jaime_Bravo> ns1:deathPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/James_Carson_Breckinridge> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/James_Harbord> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jerez_de_García_Salinas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Jesse_B._Oldendorf> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jesús_Salgado> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jesús_Silva_Herzog> ns1:knownFor <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jhean_Carlo_Aparicio> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Joaquín_Amaro> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/John_A._Lejeune> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/John_J._Pershing> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Jonas_H._Ingram> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/José_Antonio_García_Leyva> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_Carlos_Ruiz> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_Eulogio_Bonilla> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_Gonzalo_Escobar> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/José_Guadalupe_Cervantes_Corona> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_Huizar> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/José_Isabel_Trejo> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_Luis_Medina_Lizalde> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/José_María_Cárdenas> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Juan_Andreu_Almazán> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Caballero_Vega> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Enríquez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Regis_Adame> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Juan_Carlos_Romero_(athlete)> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Juan_Gonzalez_(jockey)> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Juan_de_Oñate> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Julio_César_Flemate> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/La_Patrona> ns1:location <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Lesley_J._McNair> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Life_of_Villa> ns1:producer <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:starring <http://dbpedia.org/resource/Pancho_Villa> .
+
+<http://dbpedia.org/resource/Lorena_Martínez_Rodríguez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Loreto,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Los_Haro> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Los_Temerarios> ns1:hometown <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Lowell_Smith> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Magdalena_Núñez_Monreal> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Magonista_rebellion_of_1911> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Manuel_C._Téllez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Manuel_Felguérez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Manuel_Mondragón> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Manuel_Palafox> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Manuel_Tello_Baurraud> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Mario_Briones> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Maritza_M._Buendía> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/María_Argüelles_Arellano> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/María_Arias_Bernal> ns1:knownFor <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/María_Dolores_González_Sánchez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mascarita_Sagrada> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mateo_Correa_Magallanes> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mauser_C96> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Mexican_Air_Force> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Mexican_Army> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Mexican_Drug_War> ns1:place <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mexican_Federal_Highway_23> ns1:routeStart <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mexican_Federal_Highway_44> ns1:routeEnd <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mexican_Federal_Highway_54> ns1:routeJunction <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Mexican_Navy> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Mexican_Plateau> ns1:state <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mexico–United_States_relations> rdfs:seeAlso <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Miguel_Caldera> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Miguel_Pro> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Milpillas_de_Allende> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mineros_de_Zacatecas> ns1:ground <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Momax> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Mondragón_rifle> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Neville_Ranch_Raid> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Niagara_Falls_peace_conference> dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Niels_Drustrup> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/No_2_grenade> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Nochistlán_de_Mejía_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Norias_Ranch_Raid> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Nuestra_Belleza_Zacatecas> ns1:headquarter <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Ojitos_de_Santa_Lucía> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Ojo_de_Agua_Raid> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Otilio_Montaño_Sánchez> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Pablo_González_Garza> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Pablo_José_Calvillo> ns1:deathPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Pancho_Villa_Expedition> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Pedro_Coronel> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Pedro_Vélez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Perro_Aguayo> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Perro_Aguayo_Jr.> ns1:billed <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Rafael_Candelas_Salinas> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Ramón_Jiménez_Fuentes> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Raul_Ruiz_(politician)> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Real_Sociedad_de_Zacatecas> ns1:ground <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Rebecca_de_Alba> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Ricardo_Flores_Magón> ns1:knownFor <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Ricardo_Monreal> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Ricardo_Moreno> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Roberto_Cabral_del_Hoyo> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Rurales> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Sam_Dreben> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Samuel_Herrera_Chávez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/San_Pedro_Ocotlán> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/San_Ygnacio_Raid> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Agua_Prieta> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Rellano> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Tijuana> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Topolobampo> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Sergio_Santana> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Sierra_Madre_Occidental> ns1:state <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Silverio_López_Magallanes> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Silvia_Álvarez_Bruneliere> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Smedley_Butler> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Sombrerete,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Springfield_Model_1892-99> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Susana_González> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Susana_Monreal_Ávila> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Tabasco,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Tampico_Affair> dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Ten_Tragic_Days> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Tepechitlán> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Tepehuán_people> ns1:populationPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Teúl_de_González_Ortega_(municipality)> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/The_Life_of_General_Villa> ns1:starring <http://dbpedia.org/resource/Pancho_Villa> .
+
+<http://dbpedia.org/resource/Third_Battle_of_Topolobampo> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Thomas_B._Howard> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Tlachichila> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Tlaltenango_de_Sánchez_Román_Municipality> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Tomás_Méndez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Torreón_massacre> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Tuzos_UAZ_Cemozac> ns1:location <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/United_States_Army_Border_Air_Patrol> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/United_States_involvement_in_the_Mexican_Revolution> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/United_States_occupation_of_Veracruz> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+
+<http://dbpedia.org/resource/Universidad_Autónoma_de_Zacatecas_FC> ns1:ground <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Valparaíso,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Vetagrande> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Villa_de_Cos> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Villanueva,_Zacatecas> ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Víctor_Rosales> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Walter_Krueger> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Warren_Whitside> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Wat_Tyler_Cluverius,_Jr.> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Wendell_Cushing_Neville> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/William_A._Moffett> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Winchester_Model_1895> ns1:usedInWar <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/XHQS-FM> ns1:broadcastArea <http://dbpedia.org/resource/Zacatecas> ;
+    ns1:city <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/XHZER-FM> ns1:city <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/XHZH-FM> ns1:broadcastArea <http://dbpedia.org/resource/Zacatecas> ;
+    ns1:city <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/XHZHZ-TDT> ns1:location <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Yank_Levy> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Yaqui_López> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Ypiranga_incident> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Zacatecas_Cathedral> ns1:location <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Zacateco> ns1:populationPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Ángel_Santos_Juárez> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Óscar_del_Real_Muñoz> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+dc:description a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+ns2:point a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+rdfs:seeAlso a rdf:Property .
+
+ns3:lat a rdf:Property .
+
+ns3:long a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+foaf:givenName a rdf:Property .
+
+foaf:homepage a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:nick a rdf:Property .
+
+foaf:surname a rdf:Property .
+
+<http://dbpedia.org/resource/Antonio_Mejía_Haro> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas> .
+
+<http://dbpedia.org/resource/Battle_of_Celaya> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Ciudad_Juárez_(1911)> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Ciudad_Juárez_(1919)> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Columbus_(1916)> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Guerrero> ns1:commander <http://dbpedia.org/resource/Pancho_Villa> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Battle_of_Nogales_(1913)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Mexican_Revolution> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Bernardo_Reyes> ns1:battle <http://dbpedia.org/resource/Mexican_Revolution> .
+
+<http://dbpedia.org/resource/First_Battle_of_Agua_Prieta> dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+
+<http://dbpedia.org/resource/Miguel_Alonso_Reyes> ns1:birthPlace <http://dbpedia.org/resource/Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+
+<http://dbpedia.org/resource/Pancho_Villa> a <http://dbpedia.org/class/yago/19th-centuryMexicanPeople>,
+        <http://dbpedia.org/class/yago/BadPerson109831962>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239>,
+        <http://dbpedia.org/class/yago/CommissionedOfficer109942970>,
+        <http://dbpedia.org/class/yago/Criminal109977660>,
+        <http://dbpedia.org/class/yago/FolkSaints>,
+        <http://dbpedia.org/class/yago/General110123844>,
+        <http://dbpedia.org/class/yago/GeneralOfficer110125786>,
+        <http://dbpedia.org/class/yago/GoodPerson110138767>,
+        <http://dbpedia.org/class/yago/Governor110140314>,
+        <http://dbpedia.org/class/yago/GovernorsOfChihuahua>,
+        <http://dbpedia.org/class/yago/Guerrilla110150556>,
+        <http://dbpedia.org/class/yago/Leader109623038>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/MexicanGenerals>,
+        <http://dbpedia.org/class/yago/MexicanGuerrillas>,
+        <http://dbpedia.org/class/yago/MexicanOutlaws>,
+        <http://dbpedia.org/class/yago/MexicanRevolutionaries>,
+        <http://dbpedia.org/class/yago/MilitaryOfficer110317007>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/PeopleFromDurango>,
+        <http://dbpedia.org/class/yago/PeopleMurderedInMexico>,
+        <http://dbpedia.org/class/yago/PeopleOfTheMexicanRevolution>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Politician110451263>,
+        <http://dbpedia.org/class/yago/Principal110474950>,
+        <http://dbpedia.org/class/yago/Radical110503452>,
+        <http://dbpedia.org/class/yago/Revolutionist110527334>,
+        <http://dbpedia.org/class/yago/Saint110546850>,
+        <http://dbpedia.org/class/yago/Serviceman110582746>,
+        <http://dbpedia.org/class/yago/SkilledWorker110605985>,
+        <http://dbpedia.org/class/yago/Warrior110768585>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/Worker109632518>,
+        <http://dbpedia.org/class/yago/Wrongdoer109633969>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        ns1:Agent,
+        ns1:MilitaryPerson,
+        ns1:Person,
+        <http://schema.org/Person>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q5>,
+        foaf:Person ;
+    rdfs:label "Pancho Villa"@en ;
+    ns1:alias "Villa, Pancho"@en ;
+    ns1:allegiance "Mexico (antireeleccionista revolutionary forces)" ;
+    ns1:battle <http://dbpedia.org/resource/Battle_of_Celaya>,
+        <http://dbpedia.org/resource/Battle_of_Ciudad_Juárez_(1911)>,
+        <http://dbpedia.org/resource/Battle_of_Ciudad_Juárez_(1919)>,
+        <http://dbpedia.org/resource/Battle_of_Columbus_(1916)>,
+        <http://dbpedia.org/resource/Battle_of_Guerrero>,
+        <http://dbpedia.org/resource/Battle_of_Nogales_(1913)>,
+        <http://dbpedia.org/resource/First_Battle_of_Agua_Prieta>,
+        <http://dbpedia.org/resource/Mexican_Revolution> ;
+    ns1:birthDate "1878-06-05"^^xsd:date ;
+    ns1:birthPlace <http://dbpedia.org/resource/Durango>,
+        <http://dbpedia.org/resource/San_Juan_Del_Rio> ;
+    ns1:birthYear "1878"^^xsd:gYear ;
+    ns1:deathDate "1923-07-20"^^xsd:date ;
+    ns1:deathPlace <http://dbpedia.org/resource/Parral,_Chihuahua> ;
+    ns1:deathYear "1923"^^xsd:gYear ;
+    ns1:militaryCommand "División del Norte" ;
+    ns1:restingPlace <http://dbpedia.org/resource/Mexico_City>,
+        <http://dbpedia.org/resource/Monumento_a_la_Revolución> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Pancho_villa_horseback.jpg?width=300> ;
+    dc:description "Mexican revolutionary",
+        "Mexican revolutionary"@en ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1878_births>,
+        <http://dbpedia.org/resource/Category:1923_deaths>,
+        <http://dbpedia.org/resource/Category:19th-century_Mexican_people>,
+        <http://dbpedia.org/resource/Category:Deaths_by_firearm_in_Mexico>,
+        <http://dbpedia.org/resource/Category:Folk_saints>,
+        <http://dbpedia.org/resource/Category:Governors_of_Chihuahua_(state)>,
+        <http://dbpedia.org/resource/Category:Mexican_folklore>,
+        <http://dbpedia.org/resource/Category:Mexican_generals>,
+        <http://dbpedia.org/resource/Category:Mexican_guerrillas>,
+        <http://dbpedia.org/resource/Category:Mexican_outlaws>,
+        <http://dbpedia.org/resource/Category:Mexican_rebels>,
+        <http://dbpedia.org/resource/Category:Mexican_revolutionaries>,
+        <http://dbpedia.org/resource/Category:Military_personnel_from_Durango>,
+        <http://dbpedia.org/resource/Category:Pancho_Villa>,
+        <http://dbpedia.org/resource/Category:People_murdered_in_Mexico>,
+        <http://dbpedia.org/resource/Category:People_of_the_Mexican_Revolution>,
+        <http://dbpedia.org/resource/Category:Revolutionary_martyrs>,
+        <http://dbpedia.org/resource/Category:Unsolved_murders_in_Mexico> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/The_Mexican_Revolution>,
+        <http://dbpedia.org/resource/United_States_involvement> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Pancho_villa_horseback.jpg> ;
+    foaf:givenName "Doroteo"@en ;
+    foaf:name "Arango Arámbula, Doroteo"@en,
+        "Doroteo Arango Arámbula"@en,
+        "Pancho Villa"@en ;
+    foaf:nick "El Centauro del Norte (The Centaur of the North)"@en,
+        "Francisco Villa"@en,
+        "Pancho Villa''"@en ;
+    foaf:surname "Arango Arámbula"@en .
+
+<http://dbpedia.org/resource/Zacatecas,_Zacatecas> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/Area108497294>,
+        <http://dbpedia.org/class/yago/Capital108518505>,
+        <http://dbpedia.org/class/yago/Center108523483>,
+        <http://dbpedia.org/class/yago/City108524735>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/MexicanStateCapitals>,
+        <http://dbpedia.org/class/yago/Municipality108626283>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/PopulatedPlacesEstablishedIn1548>,
+        <http://dbpedia.org/class/yago/PopulatedPlacesInZacatecas>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Seat108647945>,
+        <http://dbpedia.org/class/yago/Site108651247>,
+        <http://dbpedia.org/class/yago/StateCapital108695539>,
+        <http://dbpedia.org/class/yago/Tract108673395>,
+        <http://dbpedia.org/class/yago/UrbanArea108675967>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:City,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/City>,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns3:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972>,
+        <http://www.wikidata.org/entity/Q515> ;
+    rdfs:label "Zacatecas, Zacatecas"@en ;
+    ns1:areaCode "492" ;
+    ns1:areaTotal 3.5614e+08 ;
+    ns1:country <http://dbpedia.org/resource/Mexico> ;
+    ns1:elevation 2.44e+03 ;
+    ns1:isPartOf <http://dbpedia.org/resource/Zacatecas> ;
+    ns1:leaderTitle "Municipal President"@en ;
+    ns1:populationTotal "138152"^^xsd:nonNegativeInteger ;
+    ns1:postalCode "98000" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Zacatecas_vistaBufa.jpg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Central_Time_Zone> ;
+    ns1:utcOffset "−5",
+        "−6" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Capitals_of_states_of_Mexico>,
+        <http://dbpedia.org/resource/Category:Populated_places_established_in_1548>,
+        <http://dbpedia.org/resource/Category:Populated_places_in_Zacatecas> ;
+    ns2:point "22.77166666666667 -102.57527777777777" ;
+    ns3:lat "22.771667"^^xsd:float ;
+    ns3:long "-102.57528"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Zacatecas_vistaBufa.jpg> ;
+    foaf:homepage <http://www.capitalzacatecas.gob.mx/> ;
+    foaf:name "Zacatecas"@en ;
+    foaf:nick "''Civilizadora del Norte"@en,
+        "Ciudad de cantera, corazón de plata"@en .
+
+<http://dbpedia.org/resource/Mexican_Revolution> a <http://dbpedia.org/class/yago/20th-centuryRevolutions>,
+        <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Act100030358>,
+        <http://dbpedia.org/class/yago/Change107296428>,
+        <http://dbpedia.org/class/yago/CivilWar100962567>,
+        <http://dbpedia.org/class/yago/CivilWarsInvolvingTheStatesAndPeoplesOfNorthAmerica>,
+        <http://dbpedia.org/class/yago/Event100029378>,
+        <http://dbpedia.org/class/yago/GroupAction101080366>,
+        <http://dbpedia.org/class/yago/Happening107283608>,
+        <http://dbpedia.org/class/yago/MilitaryAction100952963>,
+        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
+        <http://dbpedia.org/class/yago/Revolution107424109>,
+        <http://dbpedia.org/class/yago/War100973077>,
+        <http://dbpedia.org/class/yago/WarsInvolvingMexico>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Mexican Revolution"@en ;
+    ns1:causalties "500 killed" ;
+    ns1:combatant "(1916–18)",
+        "(1917–18)",
+        "(Until 1918)",
+        "Army ofVictoriano Huerta",
+        "Carrancistas",
+        "Counter-revolutionary forces:",
+        "Federal troops led byPorfirio Díaz",
+        "Forces led byBernardo Reyes",
+        "Forces led byFélix Díaz",
+        "Maderistas",
+        "Magonistas",
+        "Orozquistas",
+        "Revolutionary forces:",
+        "Seditionistas",
+        "Villistas",
+        "Zapatistas",
+        "supported by:" ;
+    ns1:commander <http://dbpedia.org/resource/Bernardo_Reyes>,
+        <http://dbpedia.org/resource/Emiliano_Zapata>,
+        <http://dbpedia.org/resource/Francisco_I._Madero>,
+        <http://dbpedia.org/resource/Félix_Díaz_(politician)>,
+        <http://dbpedia.org/resource/Pancho_Villa>,
+        <http://dbpedia.org/resource/Pascual_Orozco>,
+        <http://dbpedia.org/resource/Porfirio_Díaz>,
+        <http://dbpedia.org/resource/Venustiano_Carranza>,
+        <http://dbpedia.org/resource/Victoriano_Huerta>,
+        <http://dbpedia.org/resource/Álvaro_Obregón> ;
+    ns1:place <http://dbpedia.org/resource/Mexico> ;
+    ns1:result "* Founding of theNational Revolutionary Party(PNR) 1929.",
+        "* Successive assassinations of revolutionary leadersMadero(1913),Zapata(1919),Venustiano Carranza(1920),Pancho Villa(1923),Alvaro Obregón(1928)",
+        "*Carranza'sConstitutionalist ArmydefeatsPancho Villaat theBattle of Celaya1915",
+        "*Carranzaconsolidates his position as president of Mexico 1915",
+        "*Convention of Aguascalientesbetween revolutionary leaders, 1914.",
+        "*Francisco I. Maderoelected president of Mexico, 1911, assassinated February 1913.",
+        "*Mexican Constitution of 1917enacted.",
+        "*Porfirio Díazousted from power and exiled in France, May 1911.",
+        "*Venustiano Carranzacreates an alliance of Northerners under the Constitutionalist banner 1913.",
+        "*Victoriano HuertaoverthrowsMaderoand assumes the presidency 1913–14." ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Collage_revolución_mexicana.jpg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1910s_in_Mexico>,
+        <http://dbpedia.org/resource/Category:1920s_in_Mexico>,
+        <http://dbpedia.org/resource/Category:20th-century_revolutions>,
+        <http://dbpedia.org/resource/Category:20th_century_in_Mexico>,
+        <http://dbpedia.org/resource/Category:Anarchist_revolutions>,
+        <http://dbpedia.org/resource/Category:Civil_wars_involving_the_states_and_peoples_of_North_America>,
+        <http://dbpedia.org/resource/Category:History_of_Mexico>,
+        <http://dbpedia.org/resource/Category:History_of_socialism>,
+        <http://dbpedia.org/resource/Category:Mexican_Revolution>,
+        <http://dbpedia.org/resource/Category:Military_history_of_Mexico>,
+        <http://dbpedia.org/resource/Category:Modern_Mexico>,
+        <http://dbpedia.org/resource/Category:Revolution-based_civil_wars>,
+        <http://dbpedia.org/resource/Category:Wars_fought_in_Arizona>,
+        <http://dbpedia.org/resource/Category:Wars_fought_in_Texas>,
+        <http://dbpedia.org/resource/Category:Wars_involving_Mexico> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Constitution_of_Mexico>,
+        <http://dbpedia.org/resource/Francisco_I._Madero>,
+        <http://dbpedia.org/resource/History_of_the_Catholic_Church>,
+        <http://dbpedia.org/resource/Mexico>,
+        <http://dbpedia.org/resource/Porfirio_Díaz>,
+        <http://dbpedia.org/resource/Venustiano_Carranza>,
+        <http://dbpedia.org/resource/Victoriano_Huerta> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Collage_revolución_mexicana.jpg> ;
+    foaf:name "(recipeción Mexicana'')"@en,
+        "Mexican Revolution"@en .
+
+<http://dbpedia.org/resource/Zacatecas> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/Country108544813>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1823>,
+        <http://dbpedia.org/class/yago/StatesOfMexico>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns3:SpatialThing,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Zacatecas"@en ;
+    ns1:anthem <http://dbpedia.org/resource/Zacatecas_March> ;
+    ns1:areaTotal 7.5284e+10 ;
+    ns1:country <http://dbpedia.org/resource/Mexico> ;
+    ns1:foundingDate "1823-12-23"^^xsd:date ;
+    ns1:isPartOf <http://dbpedia.org/resource/Municipalities_of_Zacatecas>,
+        <http://dbpedia.org/resource/Zacatecas,_Zacatecas> ;
+    ns1:isoCodeRegion "MX-ZAC" ;
+    ns1:leaderName <http://dbpedia.org/resource/Antonio_Mejía_Haro>,
+        <http://dbpedia.org/resource/José_Isabel_Trejo_Reyes>,
+        <http://dbpedia.org/resource/Miguel_Alonso_Reyes>,
+        <http://dbpedia.org/resource/Tomás_Torres_Mercado> ;
+    ns1:leaderTitle "Deputies"@en,
+        "Governor"@en,
+        "Senators"@en ;
+    ns1:maximumElevation 3.2e+03 ;
+    ns1:motto "((Work Conquers All))",
+        "Labor Vincit Omnia" ;
+    ns1:populationTotal "1514618"^^xsd:nonNegativeInteger ;
+    ns1:populationTotalRanking "25"^^xsd:positiveInteger ;
+    ns1:postalCode "98, 99" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Zacatecas.svg?width=300> ;
+    ns1:timeZone <http://dbpedia.org/resource/Central_Time_Zone> ;
+    ns1:type <http://dbpedia.org/resource/States_of_Mexico> ;
+    ns1:utcOffset "−5",
+        "−6" ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1823_establishments_in_Mexico>,
+        <http://dbpedia.org/resource/Category:Mexican_Plateau_states>,
+        <http://dbpedia.org/resource/Category:North-Central_Mexico>,
+        <http://dbpedia.org/resource/Category:States_and_territories_established_in_1823>,
+        <http://dbpedia.org/resource/Category:States_of_Mexico>,
+        <http://dbpedia.org/resource/Category:Zacatecas> ;
+    ns2:point "23.3 -102.7" ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Lists_of_towns>,
+        <http://dbpedia.org/resource/Zacatecas> ;
+    ns3:lat "23.3"^^xsd:float ;
+    ns3:long "-102.7"^^xsd:float ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Zacatecas.svg> ;
+    foaf:homepage <http://www.zacatecas.gob.mx> ;
+    foaf:name "Estado Libre y Soberano de Zacatecas"@en,
+        "Zacatecas"@en .
+

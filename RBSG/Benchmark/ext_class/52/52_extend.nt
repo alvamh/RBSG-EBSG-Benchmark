@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/GolfPlayer>
+
+<http://dbpedia.org/resource/Nanci_Bowen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Taylor_Coutu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Reilley_Rankin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Vicki_Goetze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Cindy_Schreyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/University_of_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/birthDate> "1961-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanFemaleGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Golfers_from_Georgia_(U.S._state)> .

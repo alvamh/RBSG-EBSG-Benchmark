@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/isPartOfMilitaryConflict>
+
+<http://dbpedia.org/resource/Battle_of_Thoppigala> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Mullaitivu_(2009)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Puthukkudiyirippu> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Third_Battle_of_Elephant_Pass> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Jaffna_(1995)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+#original summary a mix 5_x
+
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/combatant> "18pxMilitary of Sri Lanka" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/combatant> "Liberation Tigers of Tamil Eelam" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/causalties> "33 killed (SLA claim)" .

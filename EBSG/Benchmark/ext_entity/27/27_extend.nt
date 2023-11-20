@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Schleswig-Flensburg>
+
+<http://dbpedia.org/resource/Schleswig-Flensburg> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Schleswig-Flensburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> .
+<http://dbpedia.org/resource/Böklund> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .
+<http://dbpedia.org/resource/Schleswig-Flensburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/DistrictsOfSchleswig-Holstein> .
+<http://dbpedia.org/resource/Struxdorf> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .
+
+#original summary 5_3
+
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .
+<http://dbpedia.org/resource/Uelsby> <http://www.georss.org/georss/point> "54.6 9.566666666666666" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .

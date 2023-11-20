@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/Album>
+
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Invisible_Tape> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Wide_Awake_Drunk> .
+<http://dbpedia.org/resource/Invisible_Tape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Past_Away_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Stan_Satin> .

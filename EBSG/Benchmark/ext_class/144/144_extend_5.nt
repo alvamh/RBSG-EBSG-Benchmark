@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/EthnicGroup>
+
+<http://dbpedia.org/resource/Bamar_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .
+<http://dbpedia.org/resource/Mon_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/Mon_people> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Bamar_people> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/stateOfOrigin> <http://dbpedia.org/resource/Bamar_people> .

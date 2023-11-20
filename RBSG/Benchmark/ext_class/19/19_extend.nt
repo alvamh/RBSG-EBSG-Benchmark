@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/WrestlingEvent>
+
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+<http://dbpedia.org/resource/November_to_Remember> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+<http://dbpedia.org/resource/Holiday_Hell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+<http://dbpedia.org/resource/Guilty_as_Charged> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+<http://dbpedia.org/resource/It_Ain't_Seinfeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/promotion> <http://dbpedia.org/resource/Extreme_Championship_Wrestling> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/November_to_Remember> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/Guilty_as_Charged> .
+<http://dbpedia.org/resource/Holiday_Hell> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Massacre_on_34th_Street> .

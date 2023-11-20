@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/publisher>
+
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> .
+<http://dbpedia.org/resource/Annals_of_Intensive_Care> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+<http://dbpedia.org/resource/Clinical_Research_in_Cardiology> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/frequencyOfPublication> "Monthly" .

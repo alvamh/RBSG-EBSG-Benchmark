@@ -1,0 +1,7 @@
+#extend signature with <http://dbpedia.org/ontology/isPartOfMilitaryConflict>
+
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheVietnamWarInvolvingAustralia> .
+<http://dbpedia.org/resource/Battle_of_Kham_Duc> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Battle_of_Xa_Cam_My> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .

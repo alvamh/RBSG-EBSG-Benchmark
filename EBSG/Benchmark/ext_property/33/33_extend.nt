@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/conservationStatus>
+
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Scimitar_oryx> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Père_David's_deer> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Cebu_warty_pig> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Pedder_galaxias> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mammal_extinctions_since_1500> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .

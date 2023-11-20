@@ -1,0 +1,955 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix ns2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix ns3: <http://www.georss.org/georss/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:battle a rdf:Property .
+
+ns1:causalties a rdf:Property .
+
+ns1:combatant a rdf:Property .
+
+ns1:commander a rdf:Property .
+
+ns1:country a rdf:Property .
+
+ns1:date a rdf:Property .
+
+ns1:isPartOf a rdf:Property .
+
+ns1:isPartOfMilitaryConflict a rdf:Property .
+
+ns1:location a rdf:Property .
+
+ns1:notes a rdf:Property .
+
+ns1:place a rdf:Property .
+
+ns1:result a rdf:Property .
+
+ns1:strength a rdf:Property .
+
+ns1:thumbnail a rdf:Property .
+
+ns1:type a rdf:Property .
+
+ns1:usedInWar a rdf:Property .
+
+<http://dbpedia.org/resource/111_Brigade_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/11th_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/1988_Maldives_coup_d'état> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/1997_Vavunathivu_Offensive> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/1998_Battle_of_Kilinochchi> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/2006_Abdou_Moumouni_University_protests> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Chadian_coup_d'état_attempt> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Dutch/Australian_Offensive> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_East_Timorese_crisis> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Fijian_coup_d'état> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Malagasy_coup_d'état_attempt> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Oaxaca_protests> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_Thai_coup_d'état> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_United_States_immigration_reform_protests> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006_state_of_emergency_in_the_Philippines> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2006–08_Lebanese_protests> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/2008–09_Battle_of_Kilinochchi> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/2008–09_Sri_Lankan_Army_Northern_offensive> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/53_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/55_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/57_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/58_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/59_Division_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/A._F._Lafir> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/A._Kumaresan> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/A._P._N._C._De_S._Vaas_Gunawardene> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Action_of_18_March_2006> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Air_Mobile_Brigade_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Al-Qaeda_insurgency_in_Yemen> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Alvis_Saladin> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Amal_Karunasekara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/American_Ceylon_Mission> rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ananda_Hamangoda> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ananda_Weerasekara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/April_2006_Iran–Iraq_cross-border_raids> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Asoka_Jayawardena> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Asoka_de_Silva_(Admiral)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Athula_Jayawardane> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Attack_on_Galle_Harbour> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Attorney-General's_Department_(Sri_Lanka)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Bandaranaike_Airport_attack> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Basil_Gunasekara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_for_the_A-9_highway> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Aanandapuram> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Al_Rumaythah> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Bint_Jbeil> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Chalai> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Delft> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Jaffna_(1995)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Jaffna_(2006)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_2006> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Jowhar> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Kallarawa> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Kanakarayankulam_(1997)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Kokavil> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Malakal> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Mogadishu_(2006)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Mullaitivu_(1996)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Battle_of_Mullaitivu_(2009)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Now_Zad> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Panjwaii> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Paranthan> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Point_Pedro_(2006)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Battle_of_Pooneryn> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Puthukkudiyirippu> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Sampur> a <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Act100030358>,
+        <http://dbpedia.org/class/yago/Battle100953559>,
+        <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar>,
+        <http://dbpedia.org/class/yago/Conflict100958896>,
+        <http://dbpedia.org/class/yago/ConflictsIn2006>,
+        <http://dbpedia.org/class/yago/Event100029378>,
+        <http://dbpedia.org/class/yago/GroupAction101080366>,
+        <http://dbpedia.org/class/yago/MilitaryAction100952963>,
+        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Battle of Sampur"@en ;
+    ns1:causalties "33 killed (SLA claim)" ;
+    ns1:combatant "18pxMilitary of Sri Lanka",
+        "Liberation Tigers of Tamil Eelam" ;
+    ns1:date "2006-08-28"^^xsd:date ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:place <http://dbpedia.org/resource/Sampur,_Trincomalee>,
+        <http://dbpedia.org/resource/Sri_Lanka> ;
+    ns1:result "Sri Lankan Army victory" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_2006> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> ;
+    foaf:name "Battle of Sampur"@en .
+
+<http://dbpedia.org/resource/Battle_of_Thoppigala> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Battle_of_Vidattaltivu> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Bhathiya_Jayatilleka> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/C._H._Fernando> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Cecil_Waidyaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Central_African_Republic_Bush_War> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Chadian_Civil_War_(2005–10)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Chaminda_Ruwan_Yakandawala> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Chelliah_Thurairaja> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Chenagai_airstrike> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Chryshantha_De_Silva> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Clancy_Fernando> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Coalition_combat_operations_in_Afghanistan_in_2006> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Combat_Outpost_San_Juan> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Cyril_Ranatunga> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Dalola_raid> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Damadola_airstrike> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Daya_Ratnayake> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Daya_Sandagiri> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Denis_Perera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Denzil_Kobbekaduwa> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Deputy_High_Commission_of_Sri_Lanka,_Chennai> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Devinda_Kalupahana> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Donald_Perera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Dongzhou_protests> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/E._G._Thevanayagam> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Eelam_War_I> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Eelam_War_II> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Eelam_War_III> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Eelam_War_IV> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Emblem_of_Sri_Lanka> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Engineer_Services_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Fijian_military_unrest_in_2006> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/First_Battle_of_Elephant_Pass> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Four_Four_Bravo> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Friendly_fire_incident_at_Sangin> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/G.E.S._de_Silva> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/G._A._Chandrasiri> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/G._L._Sigera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/G._R._Jayasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gagan_Bulathsinghala> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gajaba_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gamini_Kularatne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gemunu_Kulatunge> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gemunu_Watch> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Gorets_mutiny> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Guerrilla_phase_of_the_Second_Chechen_War_(2006)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/H._R._Amaraweera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Harry_Goonatilake> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Harsha_Abeywickrama> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Hizbullah_Nature_Reserves> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Indian_intervention_in_the_Sri_Lankan_Civil_War> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ingush–Chechen_fratricide_incident> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Insurgency_in_Manipur> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Insurgency_in_Meghalaya> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Insurgency_in_the_Maghreb_(2002–present)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Iraq_War> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Iraqi_insurgency_(2003–06)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Iraqi_insurgency_(2003–11)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Jaffna_University_Helidrop> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jagath_Alwis> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jagath_Jayasuriya> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Janaka_Perera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Janaka_Walgama> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jayalath_Weerakkody> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jayanath_Colombage> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jayantha_de_S._Jayaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Jeewaka_Ruwan_Kulatunga> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Justin_Jayasuriya> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/K._W._T._Nissanka> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Kalana_Jinadasa> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Khairlanji_massacre> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Kokkilai_offensive> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Kolitha_Gunathilake> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Krishantha_de_Silva> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Lakdasa_Dissanayake> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Lakshman_Algama> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Lalith_Jayasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Larry_Wijeratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/List_of_violent_incidents_in_the_Israeli–Palestinian_conflict,_2006> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Long_Range_Reconnaissance_Patrol_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Lucky_Wijayaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/M._H._Gunaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Manil_Mendis> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Maoist_insurgency_in_Nepal> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Mapalagama_Wipulasara_Maha_Thera> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/March_2006_LAUSD_student_walkouts> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Mechanized_Infantry_Brigade_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Mechanized_Infantry_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Mendaka_Samarasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Milinda_Peiris> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Military_Intelligence_Corps_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Million_Voices_Against_Corruption,_President_Chen_Must_Go> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Ministry_of_Defence_(Sri_Lanka)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Ministry_of_Highways,_Ports_&_Shipping> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Ministry_of_Urban_Development_(Sri_Lanka)> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Modestus_Fernando> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Mohan_Jayamaha> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Mohan_Wijewickrama> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Nalin_Angammana> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Nalin_Seneviratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Nandana_Udawatta> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Naval_Patrolmen> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Nihal_Hapuarachchi> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Nimal_Gunaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._10_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._111_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._112_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._11_Flight_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._12_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._14_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._2_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._3_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._4_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._5_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._6_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._7_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._8_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/No._9_Squadron_SLAF> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Northern_Theater_of_Eelam_War_IV> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Oddusuddan_offensive_(1999)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Operation_Balavegaya> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Bringing_Home_the_Goods> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Checkmate_(Sri_Lanka)> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Operation_Eagle_(Sri_Lanka)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Falcon_Summit> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Jayasikurui> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Medusa> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Mountain_Fury> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Mountain_Thrust> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Pawan> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Operation_Perth> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Operation_Poomalai> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Operation_Rana_Gosa> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Operation_Riviresa> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Sea_Breeze_(Sri_Lanka)> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Thrividha_Balaya> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Operation_Trishul> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Operation_Viraat> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Ordnance_QF_25-pounder> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/P._B._Premachandra> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Parakrama_Pannipitiya> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Parami_Kulatunga> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Parliament_of_Sri_Lanka> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Parry_Liyanage> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Pasan_Gunasekera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Percy_Fernando> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Piyal_Abeysekera> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Prasanna_Alahakoon> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/President's_Guard> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/RM-70_multiple_rocket_launcher> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Raid_on_Anuradhapura_Air_Force_Base> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Rajarata_Rifles> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ramaswamy_Parameshwaran> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ravi_Arunthavanathan> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ravindra_Wijegunaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Rohan_Amarasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Rohan_Daluwatte> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Rohan_Jayasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Rohan_Pathirage> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Roshan_Goonetileke> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/SAR_80> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/SLA_December_2006_offensive> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV>,
+        <http://dbpedia.org/resource/Category:Conflicts_in_2006> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Saliya_Upul_Aladeniya> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Samantha_Sooriyabandara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Samantha_Wimalathunga> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sampur_Power_Station> ns1:location <http://dbpedia.org/resource/Sampur,_Trincomalee> .
+
+<http://dbpedia.org/resource/Sarath_Fonseka> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sarath_Munasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sarath_Ratnakeerthi> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Second_Battle_of_Elephant_Pass> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Second_Chechen_War> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Security_Forces_Headquarters_–_Jaffna> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/September_2006_Sardasht_incident> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Shantha_Kottegoda> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Shavendra_Silva> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Shemal_Fernando> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Shirantha_Goonatilake> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Siege_of_Sangin> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Siege_of_UK_bases_in_Basra> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Sons_of_Iraq> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/South_Thailand_insurgency> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Speaker_of_the_Parliament_of_Sri_Lanka> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Special_Boat_Squadron_(Sri_Lanka)> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Special_Task_Force> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka's_Killing_Fields> rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka's_Killing_Fields:_War_Crimes_Unpunished> rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Air_Force> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Air_Force_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Air_Force_Regiment_Special_Force> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Armoured_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_Commando_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_General_Service_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_Medical_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_Ordnance_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_Pioneer_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Army_Women's_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Artillery> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Civil_Security_Force> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Corps_of_Military_Police> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Electrical_and_Mechanical_Engineers> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Engineers> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Light_Infantry> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_National_Guard> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Navy> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Navy_anti_arms_smuggling_operations> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Rifle_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Signals_Corps> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lanka_Sinha_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sri_Lankan_Ambassador_to_Russia> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Sri_Lankan_Ambassador_to_the_Soviet_Union> ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Sumith_Balasuriya> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Susith_Weerasekara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/T._N._De_Silva> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Thandikulam–Omanthai_offensive> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Third_Battle_of_Elephant_Pass> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Thisara_Samarasinghe> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Timeline_of_events_related_to_the_South_Thailand_insurgency> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Tissa_Weeratunga> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Tuan_Nizam_Muthaliff> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Type_56_assault_rifle> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Type_60_122_mm_Field_Gun> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Type_69_RPG> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Type_81_assault_rifle> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ubaya_Madawela> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Udaya_Nanayakkara> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Ultimax_100> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Uzi> ns1:usedInWar <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Vadamarachchi_Operation> a <http://dbpedia.org/class/yago/BattlesOfTheSriLankanCivilWar> ;
+    ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Vankalai_massacre> dcterms:subject <http://dbpedia.org/resource/Category:2006_in_Sri_Lanka> .
+
+<http://dbpedia.org/resource/Vijaya_Wimalaratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Vijayabahu_Infantry_Regiment> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Vijitha_Meddegoda> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/W._I._M._Seneviratne> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/War_in_Afghanistan_(2001–present)> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/War_in_North-West_Pakistan> dcterms:subject <http://dbpedia.org/resource/Category:Conflicts_in_2006> .
+
+<http://dbpedia.org/resource/Wasantha_Karannagoda> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Y._Balaretnarajah> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Y._N._Jayarathna> ns1:battle <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+dc:rights a rdf:Property .
+
+dcterms:subject a rdf:Property .
+
+ns3:point a rdf:Property .
+
+rdf:type a rdf:Property .
+
+rdfs:label a rdf:Property .
+
+rdfs:seeAlso a rdf:Property .
+
+ns2:lat a rdf:Property .
+
+ns2:long a rdf:Property .
+
+foaf:depiction a rdf:Property .
+
+foaf:name a rdf:Property .
+
+foaf:thumbnail a rdf:Property .
+
+<http://dbpedia.org/resource/Operation_Definite_Victory> ns1:isPartOfMilitaryConflict <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Battles_of_the_Eastern_Theater_of_Eelam_War_IV> .
+
+<http://dbpedia.org/resource/Rajiv_Gandhi> rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://dbpedia.org/resource/Sampur,_Trincomalee> a <http://dbpedia.org/class/yago/AdministrativeDistrict108491826>,
+        <http://dbpedia.org/class/yago/District108552138>,
+        <http://dbpedia.org/class/yago/GeographicalArea108574314>,
+        <http://dbpedia.org/class/yago/Location100027167>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/PopulatedPlacesInEasternProvince,SriLanka>,
+        <http://dbpedia.org/class/yago/Region108630985>,
+        <http://dbpedia.org/class/yago/Site108651247>,
+        <http://dbpedia.org/class/yago/Tract108673395>,
+        <http://dbpedia.org/class/yago/YagoGeoEntity>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Location,
+        ns1:Place,
+        ns1:PopulatedPlace,
+        ns1:Settlement,
+        ns1:Town,
+        <http://schema.org/Place>,
+        owl:Thing,
+        ns2:SpatialThing,
+        <http://www.wikidata.org/entity/Q3957>,
+        <http://www.wikidata.org/entity/Q486972> ;
+    rdfs:label "Sampur, Trincomalee"@en ;
+    ns1:country <http://dbpedia.org/resource/Sri_Lanka> ;
+    ns1:isPartOf <http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka>,
+        <http://dbpedia.org/resource/Trincomalee_District> ;
+    ns1:type <http://dbpedia.org/resource/Town> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:Populated_places_in_Eastern_Province,_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Trincomalee_District> ;
+    ns3:point "8.483333333333333 81.28333333333333" ;
+    ns2:lat "8.483334"^^xsd:float ;
+    ns2:long "81.28333"^^xsd:float ;
+    foaf:name "Sampur"@en .
+
+<http://dbpedia.org/resource/Sri_Lanka> rdfs:seeAlso <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Sri_Lanka.svg> ;
+    foaf:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> .
+
+<http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300> a ns1:Image ;
+    dc:rights <http://en.wikipedia.org/wiki/File:Coat_of_arms_of_Sri_Lanka.svg> .
+
+<http://dbpedia.org/resource/Sri_Lankan_Civil_War> a <http://dbpedia.org/class/yago/20th-centuryConflicts>,
+        <http://dbpedia.org/class/yago/21st-centuryConflicts>,
+        <http://dbpedia.org/class/yago/Abstraction100002137>,
+        <http://dbpedia.org/class/yago/Act100030358>,
+        <http://dbpedia.org/class/yago/Action100037396>,
+        <http://dbpedia.org/class/yago/Aggression100964569>,
+        <http://dbpedia.org/class/yago/Conflict100958896>,
+        <http://dbpedia.org/class/yago/Event100029378>,
+        <http://dbpedia.org/class/yago/GroupAction101080366>,
+        <http://dbpedia.org/class/yago/GuerrillaWars>,
+        <http://dbpedia.org/class/yago/MilitaryAction100952963>,
+        <http://dbpedia.org/class/yago/PsychologicalFeature100023100>,
+        <http://dbpedia.org/class/yago/Rebellion101177327>,
+        <http://dbpedia.org/class/yago/RebellionsInAsia>,
+        <http://dbpedia.org/class/yago/Resistance101169317>,
+        <http://dbpedia.org/class/yago/Riot101170502>,
+        <http://dbpedia.org/class/yago/RiotsAndCivilDisorderInSriLanka>,
+        <http://dbpedia.org/class/yago/Violence100965404>,
+        <http://dbpedia.org/class/yago/War100973077>,
+        <http://dbpedia.org/class/yago/WarsInvolvingSriLanka>,
+        <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity>,
+        ns1:Event,
+        ns1:MilitaryConflict,
+        ns1:SocietalEvent,
+        <http://schema.org/Event>,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q1656682> ;
+    rdfs:label "Sri Lankan Civil War"@en ;
+    ns1:causalties "(Indian Peace-Keeping Force)",
+        "----",
+        "1,200 killed",
+        "23,327+ killed",
+        "60,000+ wounded (Sri Lankan military and police)" ;
+    ns1:combatant "----",
+        "Indian Peace Keeping Force(1987–90)",
+        "Liberation Tigers of Tamil Eelam",
+        "Sri Lanka" ;
+    ns1:commander <http://dbpedia.org/resource/Chandrika_Kumaratunga>,
+        <http://dbpedia.org/resource/Dingiri_Banda_Wijetunga>,
+        <http://dbpedia.org/resource/Gopalaswamy_Mahendraraja>,
+        <http://dbpedia.org/resource/J._R._Jayewardene>,
+        <http://dbpedia.org/resource/Kandiah_Balasegaran>,
+        <http://dbpedia.org/resource/Mahinda_Rajapaksa>,
+        <http://dbpedia.org/resource/Rajiv_Gandhi>,
+        <http://dbpedia.org/resource/Ranasinghe_Premadasa>,
+        <http://dbpedia.org/resource/Selvarasa_Pathmanathan>,
+        <http://dbpedia.org/resource/Shanmugalingam_Sivashankar>,
+        <http://dbpedia.org/resource/Thillaiyampalam_Sivanesan>,
+        <http://dbpedia.org/resource/Vaithilingam_Sornalingam>,
+        <http://dbpedia.org/resource/Velupillai_Prabhakaran> ;
+    ns1:date "1983-07-23"^^xsd:date ;
+    ns1:notes "16 May 2009: Sri Lankan Government declared a military defeat of LTTE.",
+        "17 May 2009: LTTE admit defeat by Sri Lankan Government.",
+        "19 May 2009: Mahinda Rajapaksa officially declares civil war over in parliament." ;
+    ns1:place <http://dbpedia.org/resource/Sri_Lanka> ;
+    ns1:result "* RebelLiberation Tigers of Tamil Eelamorganisation activity ended in Sri Lanka",
+        "* Sri Lankan government reestablishes control over entire island",
+        "*Allegations of war crimesagainst both sides",
+        "*Alleged perpetuation of and complicity in genocide of Tamils",
+        "*Lessons Learnt and Reconciliation Commissionconducted",
+        "Sri Lankan government decisive victory" ;
+    ns1:strength "(excludingAuxiliary forces):",
+        "(including Auxiliary forces):",
+        "----",
+        "100,000 (peak)",
+        "11,000 (2005)",
+        "111,000 (2005)",
+        "118,000 (2002)",
+        "150,900 (2006)",
+        "151,000 (2004)",
+        "158,000 (2003)",
+        "25,000 (2006)",
+        "30,000 (2008)",
+        "6,000 (2001)",
+        "7,000 (2003)",
+        "7,000 (2007)",
+        "8,000 (2006)",
+        "95,000 (2001)",
+        "Indian Peace Keeping Force:",
+        "Liberation Tigers of Tamil Eelam",
+        "Sri Lanka Armed Forces:" ;
+    ns1:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/Sri_Lanka-CIA_WFB_Map.png?width=300> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:20th-century_conflicts>,
+        <http://dbpedia.org/resource/Category:21st-century_conflicts>,
+        <http://dbpedia.org/resource/Category:Counter-terrorism_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Ethnicity-based_civil_wars>,
+        <http://dbpedia.org/resource/Category:Guerrilla_wars>,
+        <http://dbpedia.org/resource/Category:History_of_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Military_history_of_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Politics_of_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Rebellions_in_Asia>,
+        <http://dbpedia.org/resource/Category:Riots_and_civil_disorder_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Secession_in_Sri_Lanka>,
+        <http://dbpedia.org/resource/Category:Separatist_rebellion-based_civil_wars>,
+        <http://dbpedia.org/resource/Category:Sri_Lankan_Civil_War>,
+        <http://dbpedia.org/resource/Category:Sri_Lankan_Tamil_politics>,
+        <http://dbpedia.org/resource/Category:Tamil_Eelam>,
+        <http://dbpedia.org/resource/Category:Wars_involving_Sri_Lanka> ;
+    rdfs:seeAlso <http://dbpedia.org/resource/Indian_intervention>,
+        <http://dbpedia.org/resource/Operation_Definite_Victory>,
+        <http://dbpedia.org/resource/Sri_Lankan_Civil_War> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Sri_Lanka-CIA_WFB_Map.png> ;
+    foaf:name "Sri Lankan Civil War"@en .
+

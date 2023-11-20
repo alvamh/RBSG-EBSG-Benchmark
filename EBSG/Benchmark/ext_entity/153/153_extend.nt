@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)>
+
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cricketer> .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Bedfordshire_County_Cricket_Club> .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Bedfordshire_cricketers> .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://dbpedia.org/ontology/birthDate> "1938-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Jim_Watts> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/ceremonialCounty> <http://dbpedia.org/resource/Bedfordshire> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .

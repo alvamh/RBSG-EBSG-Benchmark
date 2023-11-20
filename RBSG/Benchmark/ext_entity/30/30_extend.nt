@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line>
+
+<http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RailwayLine> .
+<http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kanagawa_Prefecture> .
+<http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Sagami_Railway> .
+<http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> <http://dbpedia.org/ontology/numberOfStations> "8"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ryokuentoshi_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+
+#original summary a mix of 5_x
+
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/operatedBy> <http://dbpedia.org/resource/Sagami_Railway> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RailwayStation> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .

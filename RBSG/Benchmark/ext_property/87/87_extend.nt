@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/phylum>
+
+<http://dbpedia.org/resource/Pseudanos> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Anostomidae> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Characiformes> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Sartor> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Synaptolaemus_cingulatus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+
+#original summary 5_1
+
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Pseudanos> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Brazil> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .

@@ -1,0 +1,15 @@
+#extend signature with <http://dbpedia.org/ontology/Manga>
+
+<http://dbpedia.org/resource/Subete_ga_F_ni_Naru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Manga> .
+<http://dbpedia.org/resource/The_Sky_Crawlers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Manga> .
+<http://dbpedia.org/resource/Umineko:_When_They_Cry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Manga> .
+<http://dbpedia.org/resource/Ichi_the_Killer_(manga)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Manga>.
+<http://dbpedia.org/resource/Rose_Guns_Days> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Manga> .
+
+#original summary 5_
+
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Mystery_fiction> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Subete_ga_F_ni_Naru> .
+<http://dbpedia.org/resource/The_Sky_Crawlers> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Hiroshi_Mori_(writer)> .
